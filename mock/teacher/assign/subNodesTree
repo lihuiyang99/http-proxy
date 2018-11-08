@@ -1,0 +1,229 @@
+{
+    "success": true,
+    "data": {
+        "nodes": [
+            {
+                "_id": "BKC_20300137873592",
+                "name": "A New Apartment",
+                "has_child": true,
+                "selected": true,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": true,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137873592"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137875101",
+                "name": "Mexico",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137875101"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137876766",
+                "name": "The Pacific Crest Trail",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137876766"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137877247",
+                "name": "Using Math",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137877247"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137879184",
+                "name": "Save the Turtles",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137879184"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137883960",
+                "name": "What Did You Say?",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137883960"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137880377",
+                "name": "Allergy Season",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137880377"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137881836",
+                "name": "Hardware Store!",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137881836"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137885604",
+                "name": "Let's Race Dragon Boats!",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137885604"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            },
+            {
+                "_id": "BKC_20300137886635",
+                "name": "Ferraris Are for Racing",
+                "has_child": true,
+                "selected": false,
+                "tip": "",
+                "children": [
+                    {
+                        "_id": "SEARCH_QUESTION",
+                        "name": "知识点选题",
+                        "has_child": false,
+                        "selected": false,
+                        "tip": "",
+                        "action_type": "search",
+                        "action_params": {
+                            "tab": "classic",
+                            "catalog_id": "BKC_20300137886635"
+                        },
+                        "is_vocab": false
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "",
+    "error_code": 0
+}

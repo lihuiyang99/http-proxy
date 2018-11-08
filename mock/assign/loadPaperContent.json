@@ -1,0 +1,2672 @@
+{
+	"result": "success",
+	"message": "ok",
+	"data": {
+		"_id": "P_20300280832262-1",
+		"provider_id": 0,
+		"from_researcher": 0,
+		"books_new": [{
+			"series_id": "BKC_20300232062482",
+			"book_id": "BK_20300003524829",
+			"unit_id": "BKC_20300232063408",
+			"term_type": 1,
+			"class_level": 7
+		}],
+		"questions": [{
+			"id": "Q_20312978376303-1",
+			"number": 1,
+			"score": 3,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978379890-1",
+			"number": 2,
+			"score": 1.5,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978378036-1",
+			"number": 3,
+			"score": 1.5,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978377689-1",
+			"number": 4,
+			"score": 1.5,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978380852-1",
+			"number": 5,
+			"score": 3,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978381728-1",
+			"number": 6,
+			"score": 3,
+			"interval_score": 0.5,
+			"optional": false
+		}, {
+			"id": "Q_20312978387005-1",
+			"number": 7,
+			"score": 1.5,
+			"interval_score": 0.5,
+			"optional": false
+		}],
+		"title": "\u6df1\u5733 \u4e0a\u6559\u7248-\u725b\u6d25 \u4e03\u4e0bU1\u7b2c\u4e09\u5957",
+		"subject_id": 203,
+		"regions": [{
+			"province_id": 440000,
+			"city_id": 440300
+		}],
+		"version": 1,
+		"usage": 0,
+		"total_score": 15,
+		"paper_types": [25, 3],
+		"from_id": 0,
+		"total_num": 7,
+		"minutes": 6,
+		"parts": [{
+			"title": "\u77ed\u6587\u6717\u8bfb",
+			"description": "",
+			"minutes": 1,
+			"total_num": 1,
+			"score": 3,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20312978376303-1",
+				"number": 1,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016000,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "oral",
+			"extras": []
+		}, {
+			"title": "\u542c\u9009\u4fe1\u606f",
+			"description": "",
+			"minutes": 3,
+			"total_num": 3,
+			"score": 4.5,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20312978379890-1",
+				"number": 2,
+				"score": 1.5,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20312978378036-1",
+				"number": 3,
+				"score": 1.5,
+				"interval_score": 0.5,
+				"optional": false
+			}, {
+				"id": "Q_20312978377689-1",
+				"number": 4,
+				"score": 1.5,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016001,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "oral",
+			"extras": []
+		}, {
+			"title": "\u56de\u7b54\u95ee\u9898",
+			"description": "",
+			"minutes": 0,
+			"total_num": 1,
+			"score": 3,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20312978380852-1",
+				"number": 5,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016002,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "oral",
+			"extras": []
+		}, {
+			"title": "\u4fe1\u606f\u8f6c\u8ff0",
+			"description": "",
+			"minutes": 1,
+			"total_num": 1,
+			"score": 3,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20312978381728-1",
+				"number": 6,
+				"score": 3,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016003,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "oral",
+			"extras": []
+		}, {
+			"title": "\u8be2\u95ee\u4fe1\u606f",
+			"description": "",
+			"minutes": 1,
+			"total_num": 1,
+			"score": 1.5,
+			"scoring_method": 0,
+			"questions": [{
+				"id": "Q_20312978387005-1",
+				"number": 7,
+				"score": 1.5,
+				"interval_score": 0.5,
+				"optional": false
+			}],
+			"content_type_id": 0,
+			"content_type_2_id": 0,
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016004,
+			"instruction": "",
+			"input_prompt": "",
+			"part_type": "oral",
+			"extras": []
+		}],
+		"doc_id": "P_20300280832262",
+		"question_boxs": [{
+			"id": "Q_20312978376303-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068522612",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 50,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 2,
+			"description": "\u542c\u4ee5\u4e0b\u77ed\u6587\u4e00\u904d\uff0c\u7ed9\u4f60 50 \u79d2\u949f\u7684\u65f6\u95f4\u51c6\u5907\uff0c\u7136\u540e\u6a21\u4eff\u6717\u8bfb\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u540e\uff0c\u7acb\u5373\u5728 50 \u79d2\u949f\u5185\u6717\u8bfb\u77ed\u6587\uff0c\u5f53\u542c\u5230\u8981\u6c42\u201c\u505c\u6b62\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u5e94\u7acb\u5373\u4e2d\u6b62\u6717\u8bfb\u3002\n\u8bf7\u542c\u5f55\u97f3\u3002",
+			"notFitMobile": 0,
+			"seconds": 50,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "My name is Tom. Jack is my brother. He is an American. He is 15 years old. His home is near my school. He likes playing football and going shopping. He is a patient boy. His father and mother are both teachers. Last month he went to Paris for a vacation by plane. And he took many photos there. The Eiffel Tower is really wonderful.",
+					"answers": [],
+					"subContentTypeId": 19,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 50,
+						"variables": null,
+						"keywords": null,
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": null,
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579039752ed9b640ce02db90",
+						"scorePercentage": 1,
+						"readySeconds": 5,
+						"listenFile": {
+							"fileId": "5b7145707cb7ae8e1b055758",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b7145707cb7ae8e1b055758.sy3",
+							"filename": "28.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "My name is Tom. Jack is my brother. He is an American. He is 15 years old. His home is near my school. He likes playing football and going shopping. He is a patient boy. His father and mother are both teachers. Last month&nbsp;he went to Paris for a vacation by plane. And he took many photos there. The Eiffel Tower is really wonderful.",
+						"answers": null,
+						"voiceTextsNew": [
+							["My name is Tom. Jack is my brother. He is an American. He is fifteen years old. His home is near my school. He likes playing football and going shopping. He is a patient boy. His father and mother are both teachers. Last month he went to Paris for a vacation by plane. And he took many photos there. The Eiffel Tower is really wonderful."]
+						],
+						"jsgf": "{\"DisplayText\": \"My name is Tom Jack is my brother He is an American He is fifteen years old His home is near my school He likes playing football and going shopping He is a patient boy His father and mother are both teachers Last month he went to Paris for a vacation by plane And he took many photos there The Eiffel Tower is really wonderful\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(My name is Tom Jack is my brother He is an American He is fifteen years old His home is near my school He likes playing football and going shopping He is a patient boy His father and mother are both teachers Last month he went to Paris for a vacation by plane And he took many photos there The Eiffel Tower is really wonderful)\\\"<\/s>\\\";\", \"GrammarWeight\": \"\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978376303",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20302093,
+			"tagCode": "\u770b\u77ed\u6587,\u542c\u5f55\u97f3,\u4eff\u8bfb",
+			"createdAt": "2018-08-09T19:27:34.187+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:39.687+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:47.268+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b2e0a278074a4a427d77585",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b2e0a278074a4a427d77585.sy3",
+				"filename": "1.mp3",
+				"seconds": 20,
+				"urlSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000003865"],
+			"localTypeObj": [{
+				"id": "LC_20300000003865",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016000,
+				"frontShowName": "\u6a21\u4eff\u6717\u8bfb",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 50,
+				"totalScore": 3,
+				"shortTextPlays": 1,
+				"prepareTimeBefore": 50,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 3,
+					"blank_count": [],
+					"question_plays": 0
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u542c\u4ee5\u4e0b\u77ed\u6587\u4e00\u904d\uff0c\u7ed9\u4f60 50 \u79d2\u949f\u7684\u65f6\u95f4\u51c6\u5907\uff0c\u7136\u540e\u6a21\u4eff\u6717\u8bfb\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u540e\uff0c\u7acb\u5373\u5728 50 \u79d2\u949f\u5185\u6717\u8bfb\u77ed\u6587\uff0c\u5f53\u542c\u5230\u8981\u6c42\u201c\u505c\u6b62\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u5e94\u7acb\u5373\u4e2d\u6b62\u6717\u8bfb\u3002\n\u8bf7\u542c\u5f55\u97f3\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b2e0a278074a4a427d77585.sy3",
+					"seconds": 20,
+					"file_id": "5b2e0a278074a4a427d77585",
+					"file_name": "1.mp3"
+				}, {
+					"chap_info": "\u4e0b\u9762\u4f60\u6709 50 \u79d2\u949f\u7684\u65f6\u95f4\u51c6\u5907\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b2e0a2c8074a4a4316e6238.sy3",
+					"seconds": 3,
+					"file_id": "5b2e0a2c8074a4a4316e6238",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:05.833",
+				"updatedAt": "2018-08-17 15:14:42.368"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016000,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016000,
+			"isUsed": false
+		}, {
+			"id": "Q_20312978379890-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068537497",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b723d707cb7aeb0194f5e52.sy3",
+			"listenName": "21.mp3",
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 16,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 2,
+			"description": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+			"notFitMobile": 0,
+			"seconds": 16,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "<p>W: Who's your best friend, Jack?<\/p><p>M: Tina. We are both ten years old.<\/p><p>W: What do you think of Tina?<\/p><p>M: She is hard-working and patient. I like her very much.<\/p><p>W: Is she different from you in any way?<\/p><p>M: Well, I like playing basketball but she likes playing table tennis. <\/p>",
+				"analysis": "",
+				"subContents": [{
+					"content": "How old is Tina?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=ten | ten years old", "<b>=Tina | she"],
+						"keywords": ["   Ten."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["<a> . | <b> is <a> ."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 5,
+						"listenFile": {
+							"fileId": "5b715c1d7cb7ae5cdb90a2b2",
+							"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b715c1d7cb7ae5cdb90a2b2.sy3",
+							"filename": "29.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "\u200b<span style=\"white-space: normal;\"><\/span><span style=\"white-space: normal;\">How old is Tina?<\/span>",
+						"answers": [{
+							"answer": "<span style=\"color: rgb(51, 51, 51); white-space: normal;\">Tina is ten years old.<\/span>",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"<a> | <b> is <a>\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(<a> | <b> is <a>)\\\"<\/s>\\\";\\n<a>=(ten | ten years old);\\n<b>=(Tina | she);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Ten\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "<span style=\"color: rgb(51, 51, 51);\"> <\/span>What does Jack think of Tina?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=He | Jack", "<b>=she is | she s | Tina is"],
+						"keywords": ["Hard-working", "patient"],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Hard-working and patient. | <a> thinks <b> hard-working and patient. | <b> hard-working and patient."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 5,
+						"listenFile": {
+							"fileId": "5b715ebc7cb7ae5cd12f1abb",
+							"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b715ebc7cb7ae5cd12f1abb.sy3",
+							"filename": "30.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "\u200b<span style=\"white-space: normal;\">What does Jack think of Tina?<\/span>",
+						"answers": [{
+							"answer": "<span style=\"color: rgb(51, 51, 51); white-space: normal;\">Jack thinks Tina is hard-working and patient.<\/span>",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Hard-working and patient | <a> thinks <b> hard-working and patient | <b> hard-working and patient\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Hard-working and patient | <a> thinks <b> hard-working and patient | <b> hard-working and patient)\\\"<\/s>\\\";\\n<a>=(He | Jack);\\n<b>=(she is | she s | Tina is);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Hard-working\\\", \\\"weight\\\": 0.5}], [{\\\"key\\\": \\\"patient\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978379890",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303236,
+			"tagCode": "LkQLDAQ",
+			"createdAt": "2018-08-09T19:28:47.481+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:50.252+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:49.730+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b3095278074a490585e4c99",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+				"filename": "1.mp3",
+				"seconds": 18,
+				"urlSingle": null
+			},
+			"analysisSeconds": 10,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": [{
+				"name": "SpatialImagination",
+				"stars": 0
+			}, {
+				"name": "AbstractSummarizing",
+				"stars": 0
+			}, {
+				"name": "DeductiveReasoning",
+				"stars": 0
+			}, {
+				"name": "SolvingArithmetic",
+				"stars": 0
+			}, {
+				"name": "DataHandling",
+				"stars": 0
+			}, {
+				"name": "PracticalApplication",
+				"stars": 0
+			}],
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000032728"],
+			"localTypeObj": [{
+				"id": "LC_20300000032728",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016001,
+				"frontShowName": "\u542c\u9009\u4fe1\u606f",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 16,
+				"totalScore": 1,
+				"shortTextPlays": 2,
+				"prepareTimeBefore": 10,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+					"seconds": 18,
+					"file_id": "5b3095278074a490585e4c99",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:06.417",
+				"updatedAt": "2018-08-17 15:14:42.446"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016001,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3],
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[],
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016001,
+			"isUsed": false
+		}, {
+			"id": "Q_20312978378036-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300081665994",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}, {
+				"id": "KP_20300068523117",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b724ab57cb7aeb0204613a0.sy3",
+			"listenName": "23.mp3",
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 16,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 3,
+			"description": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+			"notFitMobile": 0,
+			"seconds": 16,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "<p>W: Hi, Bob. Is that Lucy? When did she get her hair cut?<\/p><p>M: Last week. The shoulder-length hair makes her more beautiful.<\/p><p>W: By the way, what do you like about her?<\/p><p>M: She is kind and friendly.<\/p><p>W: Does she like any sports?<\/p><p>M: She often plays table tennis with Jack.<\/p>",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>What does Lucy look like now?<\/p><p>(funny and friendly \/shoulder-length hair. \/tall and beautiful)<\/p>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=shoulder-length hair | shoulder-length hair now", "<b>=Lucy | She"],
+						"keywords": ["shoulder-length hair"],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["<b> has <a>."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b71587d7cb7ae5cda4dbb21",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b71587d7cb7ae5cda4dbb21.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "<span style=\"white-space: normal;\"><\/span><span style=\"white-space: normal;\">What does Lucy look like now?<\/span>",
+						"answers": [{
+							"answer": "<p>Lucy has shoulder-length hair now.<\/p>",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"<b> has <a>\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(<b> has <a>)\\\"<\/s>\\\";\\n<a>=(shoulder-length hair | shoulder-length hair now);\\n<b>=(Lucy | She);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"shoulder-length hair\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "<p>What does Bob like about Lucy?<\/p><p>(patient and friendly \/long hair \/kind and friendly)<\/p>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Bob | He ", "<b>=she is | she s | Lucy is"],
+						"keywords": ["kind", "friendly"],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["<a> thinks <b> kind and friendly. | <b> kind and friendly."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b715a0b7cb7ae5cd08c30ed",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b715a0b7cb7ae5cd08c30ed.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "What does Bob like about Lucy?",
+						"answers": [{
+							"answer": "He thinks Lucy is kind and friendly.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"<a> thinks <b> kind and friendly | <b> kind and friendly\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(<a> thinks <b> kind and friendly | <b> kind and friendly)\\\"<\/s>\\\";\\n<a>=(Bob | He);\\n<b>=(she is | she s | Lucy is);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"kind\\\", \\\"weight\\\": 0.5}], [{\\\"key\\\": \\\"friendly\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978378036",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 0,
+			"tagCode": null,
+			"createdAt": "2018-08-09T19:28:47.218+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:48.142+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:50.308+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b3095278074a490585e4c99",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+				"filename": "1.mp3",
+				"seconds": 18,
+				"urlSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000032728"],
+			"localTypeObj": [{
+				"id": "LC_20300000032728",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016001,
+				"frontShowName": "\u542c\u9009\u4fe1\u606f",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 16,
+				"totalScore": 1,
+				"shortTextPlays": 2,
+				"prepareTimeBefore": 10,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+					"seconds": 18,
+					"file_id": "5b3095278074a490585e4c99",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:06.417",
+				"updatedAt": "2018-08-17 15:14:42.446"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016001,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3],
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[],
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016001,
+			"isUsed": true
+		}, {
+			"id": "Q_20312978377689-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068541594",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b723c487cb7aeb01181fef5.sy3",
+			"listenName": "6.mp3",
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 16,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 3,
+			"description": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+			"notFitMobile": 0,
+			"seconds": 16,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "<p>M1: Hello, Dave. What do you like for breakfast?<\/p><p>M2: I like eggs and milk for breakfast. How about you, Jim?<\/p><p>M1: I like fruit for breakfast.<\/p><p>M2: What do you like for lunch?<\/p><p>M1: I have lunch at school with my friends. We all like hamburgers for lunch.<\/p><p>M2: I like hamburgers, too.<\/p>",
+				"analysis": "",
+				"subContents": [{
+					"content": "<p>Who likes fruit for breakfast?<\/p><p>(Jack.\/Jim.\/Tom.)<\/p>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=fruit for breakfast | that | fruit"],
+						"keywords": ["Jim."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Jim. | Jim likes <a>."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b714f6e7cb7ae8e140131bf",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b714f6e7cb7ae8e140131bf.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "\u200b<span style=\"white-space: normal;\">Who likes fruit for breakfast?<\/span>",
+						"answers": [{
+							"answer": "Jim&nbsp;likes fruit for breakfast.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Jim | Jim likes <a>\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Jim | Jim likes <a>)\\\"<\/s>\\\";\\n<a>=(fruit for breakfast | that | fruit);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Jim\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "<p>What do Dave and his good friends all like for lunch?<\/p><p>(Cakes.\/Fruit.\/Hamburgers.)<\/p>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Dave and his good friends | They", "<b>=all like hamburgers for lunch | all like hamburgers"],
+						"keywords": ["Hamburgers."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Hamburgers. | <a> <b>."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b7150da7cb7ae3f22fcb978",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b7150da7cb7ae3f22fcb978.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "<p><span style=\"white-space: normal;\">What do Dave and his good friends all like for lunch?<\/span><span style=\"white-space: normal;\"><\/span><\/p>",
+						"answers": [{
+							"answer": "They&nbsp;all like hamburgers for lunch.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Hamburgers | <a> <b>\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Hamburgers | <a> <b>)\\\"<\/s>\\\";\\n<a>=(Dave and his good friends | They);\\n<b>=(all like hamburgers for lunch | all like hamburgers);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Hamburgers\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978377689",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 0,
+			"tagCode": null,
+			"createdAt": "2018-08-09T19:28:46.983+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:44.476+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:50.842+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b3095278074a490585e4c99",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+				"filename": "1.mp3",
+				"seconds": 18,
+				"urlSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000032728"],
+			"localTypeObj": [{
+				"id": "LC_20300000032728",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016001,
+				"frontShowName": "\u542c\u9009\u4fe1\u606f",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 16,
+				"totalScore": 1,
+				"shortTextPlays": 2,
+				"prepareTimeBefore": 10,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u5f55\u97f3\u64ad\u653e\u524d\u4f60\u670910\u79d2\u949f\u7684\u9605\u9898\u65f6\u95f4\u3002\u5f55\u97f3\u64ad\u653e\u540e\u6709\u4e24\u4e2a\u95ee\u9898\u3002\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3095278074a490585e4c99.sy3",
+					"seconds": 18,
+					"file_id": "5b3095278074a490585e4c99",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:06.417",
+				"updatedAt": "2018-08-17 15:14:42.446"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016001,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3],
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[],
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016001,
+			"isUsed": false
+		}, {
+			"id": "Q_20312978380852-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300068522612",
+				"tagId": 0,
+				"main": 1,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 32,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 3,
+			"description": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u8bf7\u6839\u636e\u6240\u542c\u5185\u5bb9\u56de\u7b54\u540e\u9762\u7684\u56db\u4e2a\u95ee\u9898\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u540e\uff0c\u8bf7\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002\n\u73b0\u5728\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u9605\u8bfb\u8fd9\u56db\u4e2a\u95ee\u9898\u3002",
+			"notFitMobile": 0,
+			"seconds": 32,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "Who is Tom's best friend?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Tom s | his"],
+						"keywords": ["Anna."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": [" Anna. | Anna is <a> best friend. | <a> best friend is Anna."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b715c2c7cb7ae5cdec5bc99",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b715c2c7cb7ae5cdec5bc99.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "Who is Tom's best friend?",
+						"answers": [{
+							"answer": "Anna is Tom's best friend.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Anna | Anna is <a> best friend | <a> best friend is Anna\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Anna | Anna is <a> best friend | <a> best friend is Anna)\\\"<\/s>\\\";\\n<a>=(Tom s | his);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Anna\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "What does Anna usually wear?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Anna usually wears | She usually wears | Anna wears | She wears"],
+						"keywords": ["A T-shirt and sports shoes."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["A T-shirt and sports shoes. | <a> a T-shirt and sports shoes."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b715ccc7cb7ae5cd4275017",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b715ccc7cb7ae5cd4275017.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "<span style=\"white-space: normal;\">What does Anna usually wear?<\/span>\u200b",
+						"answers": [{
+							"answer": "Anna usually wears a T-shirt and sports shoes.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"A T-shirt and sports shoes | <a> a T-shirt and sports shoes\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(A T-shirt and sports shoes | <a> a T-shirt and sports shoes)\\\"<\/s>\\\";\\n<a>=(Anna usually wears | She usually wears | Anna wears | She wears);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"A T-shirt and sports shoes\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "What does Tom think of Anna?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Tom | He", "<b>=Anna is | She's | She is "],
+						"keywords": [" Friendly", "hard-working"],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Friendly and hard-working. | <a> thinks <b> friendly and hard-working. | <b> friendly and hard-working."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b715d6d7cb7ae5cdb90a2b8",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b715d6d7cb7ae5cdb90a2b8.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "<span style=\"white-space: normal;\">What does Tom think of Anna?<\/span>\u200b",
+						"answers": [{
+							"answer": "He thinks she is friendly and hard-working.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Friendly and hard-working | <a> thinks <b> friendly and hard-working | <b> friendly and hard-working\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Friendly and hard-working | <a> thinks <b> friendly and hard-working | <b> friendly and hard-working)\\\"<\/s>\\\";\\n<a>=(Tom | He);\\n<b>=(Anna is | She's | She is);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Friendly\\\", \\\"weight\\\": 0.5}], [{\\\"key\\\": \\\"hard-working\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "What kind of sports does Anna like?",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": ["<a>=Soccer | playing soccer", "<b>=She | Anna"],
+						"keywords": ["Soccer."],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Soccer. |<b> likes <a>."],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 0,
+						"listenFile": {
+							"fileId": "5b715e397cb7ae5cd7f644b6",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b715e397cb7ae5cd7f644b6.sy3",
+							"filename": "audio.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "<span style=\"white-space: normal;\">What kind<\/span><span style=\"white-space: normal;\">&nbsp;of sports does Anna like?<\/span>\u200b",
+						"answers": [{
+							"answer": "She likes playing soccer.",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Soccer |<b> likes <a>\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Soccer |<b> likes <a>)\\\"<\/s>\\\";\\n<a>=(Soccer | playing soccer);\\n<b>=(She | Anna);\", \"GrammarWeight\": \"{\\\"weight_struct\\\": [[{\\\"key\\\": \\\"Soccer\\\", \\\"weight\\\": 0.5}]]}\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978380852",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 0,
+			"tagCode": null,
+			"createdAt": "2018-08-09T19:30:29.227+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:54.759+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:51.408+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b3096118451d7a5ca2fd14a",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3096118451d7a5ca2fd14a.sy3",
+				"filename": "1.mp3",
+				"seconds": 17,
+				"urlSingle": null
+			},
+			"analysisSeconds": 15,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000086124"],
+			"localTypeObj": [{
+				"id": "LC_20300000086124",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016002,
+				"frontShowName": "\u56de\u7b54\u95ee\u9898",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 32,
+				"totalScore": 3,
+				"shortTextPlays": 2,
+				"prepareTimeBefore": 15,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}, {
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 1
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5f55\u97f3\uff0c\u5f55\u97f3\u64ad\u653e\u4e24\u904d\u3002\u8bf7\u6839\u636e\u6240\u542c\u5185\u5bb9\u56de\u7b54\u540e\u9762\u7684\u56db\u4e2a\u95ee\u9898\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u540e\uff0c\u8bf7\u57288\u79d2\u949f\u5185\u53e3\u5934\u56de\u7b54\u3002\n\u73b0\u5728\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u9605\u8bfb\u8fd9\u56db\u4e2a\u95ee\u9898\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b3096118451d7a5ca2fd14a.sy3",
+					"seconds": 17,
+					"file_id": "5b3096118451d7a5ca2fd14a",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:07.460",
+				"updatedAt": "2018-08-17 15:14:42.581"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016002,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3],
+				[3],
+				[3],
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[],
+				[],
+				[],
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016002,
+			"isUsed": true
+		}, {
+			"id": "Q_20312978381728-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300052048219",
+				"tagId": 0,
+				"main": 0,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 50,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 3,
+			"description": "\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u5185\u5bb9\uff0c\u7ed3\u5408\u4ee5\u4e0b\u8981\u70b9\u63d0\u793a\uff0c\u572850\u79d2\u949f\u5185\u8bf4\u4e00\u6bb5\u8bdd\uff0c\u5305\u542b\u6240\u6709\u8981\u70b9\u7684\u5185\u5bb9\u3002\u73b0\u5728\uff0c\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u9605\u8bfb\u4e0b\u9762\u7684\u8981\u70b9\u63d0\u793a\u3002",
+			"notFitMobile": 0,
+			"seconds": 50,
+			"complex": 0,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 50,
+						"variables": [" <a>=is not | isn t"],
+						"keywords": [],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["Alice has a new pen pal. Her name is Amy. She lives in England.", "Amy is a student. She goes to school on foot, because her home <a> far from the school. | She goes to school on foot. ", "Amy likes reading comic books and writing emails. Her father is an English teacher. He works in a school. He goes to work by car. He likes playing football and swimming. | She likes reading comic books and writing emails. Her father likes playing football and swimming. | Amy likes reading comic books and writing emails. Her father is an English teacher. He likes playing football and swimming.   "],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579039752ed9b640ce02db90",
+						"scorePercentage": 1,
+						"readySeconds": 50,
+						"listenFile": {
+							"fileId": "5b7165767cb7ae5cd84d0d3d",
+							"url": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/5b7165767cb7ae5cd84d0d3d.sy3",
+							"filename": "32.mp3",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "\u200bMy name is Alice. I have a new pen pal. Her name is Amy. She lives in England. Amy is a student. She goes to school on foot, because her home is not far from the school. Amy likes reading comic books and writing emails. Her father is an English teacher. He works in a school. He goes to work by car. He likes playing football and swimming.",
+						"answers": [{
+							"answer": "<p>Alice has a new pen pal. Her name is Amy. She lives in England. She goes to school on foot, because her home is not| isn\u2019t far from the school. Amy likes reading comic books and writing emails. Her father is an English teacher. He likes playing football and swimming.<\/p>",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"Alice has a new pen pal Her name is Amy She lives in England Amy is a student She goes to school on foot because her home <a> far from the school | She goes to school on foot Amy likes reading comic books and writing emails Her father is an English teacher He works in a school He goes to work by car He likes playing football and swimming | She likes reading comic books and writing emails Her father likes playing football and swimming | Amy likes reading comic books and writing emails Her father is an English teacher He likes playing football and swimming\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"((Alice has a new pen pal Her name is Amy She lives in England) (Amy is a student She goes to school on foot because her home <a> far from the school | She goes to school on foot) (Amy likes reading comic books and writing emails Her father is an English teacher He works in a school He goes to work by car He likes playing football and swimming | She likes reading comic books and writing emails Her father likes playing football and swimming | Amy likes reading comic books and writing emails Her father is an English teacher He likes playing football and swimming))\\\"<\/s>\\\";\\n<a>=(is not | isn t);\", \"GrammarWeight\": \"\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978381728",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20302101,
+			"tagCode": "\u770b\u63d0\u793a,\u542c\u6587\u7ae0,\u8f6c\u8ff0\u6587\u7ae0",
+			"createdAt": "2018-08-09T19:31:25.807+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:46.170+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:51.805+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b5ed8358451d7efb8a1e728",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b5ed8358451d7efb8a1e728.sy3",
+				"filename": "1.mp3",
+				"seconds": 15,
+				"urlSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": null,
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000094054"],
+			"localTypeObj": [{
+				"id": "LC_20300000094054",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016003,
+				"frontShowName": "\u4fe1\u606f\u8f6c\u8ff0",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 50,
+				"totalScore": 3,
+				"shortTextPlays": 2,
+				"prepareTimeBefore": 15,
+				"prepareTimeTotal": 50,
+				"questions": [{
+					"qs_score": 3,
+					"blank_count": [],
+					"prepare_time": 50,
+					"question_plays": 0
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u5185\u5bb9\uff0c\u7ed3\u5408\u4ee5\u4e0b\u8981\u70b9\u63d0\u793a\uff0c\u572850\u79d2\u949f\u5185\u8bf4\u4e00\u6bb5\u8bdd\uff0c\u5305\u542b\u6240\u6709\u8981\u70b9\u7684\u5185\u5bb9\u3002\u73b0\u5728\uff0c\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u9605\u8bfb\u4e0b\u9762\u7684\u8981\u70b9\u63d0\u793a\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b5ed8358451d7efb8a1e728.sy3",
+					"seconds": 15,
+					"file_id": "5b5ed8358451d7efb8a1e728",
+					"file_name": "1.mp3"
+				}, {
+					"chap_info": "\u4e0b\u9762\u8bf7\u542c\u5f55\u97f3\u4e24\u904d",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b30e0fb8074a49035d0b878.sy3",
+					"seconds": 2,
+					"file_id": "5b30e0fb8074a49035d0b878",
+					"file_name": "1.mp3"
+				}, {
+					"chap_info": "\u4e0b\u9762\u4f60\u6709 50 \u79d2\u949f\u7684\u65f6\u95f4\u51c6\u5907\u3002\u4f60\u7684\u4ecb\u7ecd\u53ef\u4ee5\u8fd9\u6837\u5f00\u59cb\uff1a",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b30e1008074a4903697b511.sy3",
+					"seconds": 6,
+					"file_id": "5b30e1008074a4903697b511",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:07.619",
+				"updatedAt": "2018-08-17 15:14:42.604"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016003,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016003,
+			"isUsed": false
+		}, {
+			"id": "Q_20312978387005-1",
+			"subjectId": 203,
+			"knowledgePoints": null,
+			"knowledgePointsNew": [{
+				"id": "KP_20300052018103",
+				"tagId": 0,
+				"main": 0,
+				"featureIds": []
+			}],
+			"knowledgePoints2018": [],
+			"testMethods": [],
+			"solutionMethods": [],
+			"resourceIds": null,
+			"resourceIndex": 0,
+			"listenUrl": null,
+			"listenName": null,
+			"listenSeconds": 0,
+			"exploreSeconds": 0,
+			"answersSeconds": 16,
+			"paperIds": ["P_20300280832262-1"],
+			"books": null,
+			"booksNew": null,
+			"contentTypeId": 0,
+			"contentType2Id": 0,
+			"difficultyInt": 3,
+			"description": "\u6bcf\u4e2a\u95ee\u9898\u670915\u79d2\u949f\u7684\u51c6\u5907\u65f6\u95f4\u548c8\u79d2\u949f\u7684\u63d0\u95ee\u65f6\u95f4\u3002",
+			"notFitMobile": 0,
+			"seconds": 16,
+			"complex": 1,
+			"singleBook": null,
+			"nid": null,
+			"lastEditorId": null,
+			"finalAuditorId": null,
+			"roughAuditorIds": null,
+			"content": {
+				"content": "",
+				"contentDesc": "",
+				"analysis": "",
+				"subContents": [{
+					"content": "<span style=\"white-space: normal; Times New Roman&quot;, serif; color: rgb(51, 51, 51);\">Amy<\/span><span style=\"white-space: normal;  color: rgb(51, 51, 51);\">\u957f\u4ec0\u4e48\u6837\uff1f<\/span>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": [],
+						"keywords": [],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["What does Amy look like?"],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 15,
+						"listenFile": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "",
+						"answers": [{
+							"answer": "What does Amy look like?",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"What does Amy look like\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(What does Amy look like)\\\"<\/s>\\\";\", \"GrammarWeight\": \"\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}, {
+					"content": "<span style=\"white-space: normal; Times New Roman&quot;, serif; color: rgb(51, 51, 51);\"> Alice<\/span><span style=\"white-space: normal;  color: rgb(51, 51, 51);\">\u8ba4\u4e3a<\/span><span style=\"white-space: normal; Times New Roman&quot;, serif; color: rgb(51, 51, 51);\">Amy<\/span><span style=\"white-space: normal;  color: rgb(51, 51, 51);\">\u600e\u4e48\u6837\uff1f<\/span>",
+					"answers": [],
+					"subContentTypeId": 18,
+					"analysis": "",
+					"optionType": "word",
+					"options": [],
+					"hideOptionNumber": 0,
+					"listenUrl": "",
+					"listenName": "",
+					"listenSeconds": 0,
+					"exploreSeconds": 0,
+					"answersSeconds": 0,
+					"oralDict": {
+						"seconds": 8,
+						"variables": [],
+						"keywords": [],
+						"options": null,
+						"voiceText": null,
+						"sentencePatterns": ["What does Alice think of Amy? | What does Alice like about Amy?"],
+						"picUrl": null,
+						"picName": null,
+						"beginListenUrl": "http:\/\/test.tiku.17zuoye.net\/fs-resource\/579038ff2ed9b640d41ca695",
+						"endListenUrl": "",
+						"scorePercentage": 1,
+						"readySeconds": 15,
+						"listenFile": {
+							"fileId": "",
+							"url": "",
+							"filename": "",
+							"seconds": null,
+							"urlSingle": null
+						},
+						"contentDesc": "",
+						"answers": [{
+							"answer": "\u200b<span style=\"color: rgb(51, 51, 51); white-space: normal;\">What does Alice like about Amy?<\/span>",
+							"listenFile": {
+								"fileId": "",
+								"url": "",
+								"filename": "",
+								"seconds": null,
+								"urlSingle": null
+							}
+						}],
+						"voiceTextsNew": null,
+						"jsgf": "{\"DisplayText\": \"What does Alice think of Amy | What does Alice like about Amy\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(What does Alice think of Amy | What does Alice like about Amy)\\\"<\/s>\\\";\", \"GrammarWeight\": \"\", \"Version\": 1}",
+						"videoUrl": null,
+						"videoCoverUrl": null,
+						"highlightPos": null,
+						"sceneDescription": null,
+						"sceneName": null
+					},
+					"submitWays": [3],
+					"tags": null,
+					"analysisList": [{
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000029772",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000030691",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000031387",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000032025",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000033573",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000034806",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000035129",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000036762",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000045893",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000046042",
+						"text": ""
+					}, {
+						"choiceIds": [],
+						"analysisTypeId": "AT_20300000047944",
+						"text": ""
+					}],
+					"pictureUrl": "",
+					"extras": [],
+					"tagsDesc": [],
+					"knowledgePointsList": [],
+					"answerList": []
+				}],
+				"listenUrlSingle": null
+			},
+			"docId": "Q_20312978387005",
+			"version": 1,
+			"wordId": null,
+			"pictureUrl": null,
+			"tagId": 20303239,
+			"tagCode": "LkClLArQ",
+			"createdAt": "2018-08-09T19:33:09.817+08:00",
+			"deletedAt": null,
+			"olCreatedAt": "2018-08-17T12:29:59.338+08:00",
+			"olUpdatedAt": "2018-08-17T17:39:52.230+08:00",
+			"sentenceIds": null,
+			"sentenceContents": null,
+			"broken": false,
+			"practiceTypeIds": null,
+			"categoryId": 0,
+			"fromId": 7,
+			"paragraph": null,
+			"articleName": null,
+			"descriptionFile": {
+				"fileId": "5b5ed6e98451d7efb9f17b9b",
+				"url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b5ed6e98451d7efb9f17b9b.sy3",
+				"filename": "1.mp3",
+				"seconds": 6,
+				"urlSingle": null
+			},
+			"analysisSeconds": 0,
+			"readySeconds": 0,
+			"wikiType": null,
+			"others": {
+				"writing_style": "AC_20300000283078"
+			},
+			"skillIds": null,
+			"abilities": null,
+			"weighted": null,
+			"additions": null,
+			"localType": ["LC_20300000076330"],
+			"localTypeObj": [{
+				"id": "LC_20300000076330",
+				"subjectId": 203,
+				"newContentTypeId": 203016,
+				"newContentSubtypeId": 203016004,
+				"frontShowName": "\u8be2\u95ee\u4fe1\u606f",
+				"remark": "\u4e2d\u8003",
+				"isShowQuestion": true,
+				"isDefault": true,
+				"isAverageTotalAnswer_time": false,
+				"totalAnswerTime": 16,
+				"totalScore": 1,
+				"shortTextPlays": 0,
+				"prepareTimeBefore": 30,
+				"prepareTimeTotal": null,
+				"questions": [{
+					"qs_score": 0.75,
+					"blank_count": [],
+					"question_plays": 0
+				}],
+				"region": {
+					"province_id": 440000,
+					"city_id": 440300
+				},
+				"chapInfos": [{
+					"chap_info": "\u6bcf\u4e2a\u95ee\u9898\u670915\u79d2\u949f\u7684\u51c6\u5907\u65f6\u95f4\u548c8\u79d2\u949f\u7684\u63d0\u95ee\u65f6\u95f4\u3002",
+					"chap_info_url": "http:\/\/cdn.17zuoye.com\/fs-resource\/5b5ed6e98451d7efb9f17b9b.sy3",
+					"seconds": 6,
+					"file_id": "5b5ed6e98451d7efb9f17b9b",
+					"file_name": "1.mp3"
+				}],
+				"createdAt": "2018-06-23 13:29:07.258",
+				"updatedAt": "2018-08-17 15:14:42.553"
+			}],
+			"new_content_type_id": 203016,
+			"new_content_subtype_id": 203016004,
+			"sceneDescription": null,
+			"listenUrlSingle": null,
+			"tags": [],
+			"deletedTrue": false,
+			"knowledgePointsB": [],
+			"submitWays": [
+				[3],
+				[3]
+			],
+			"subjective": true,
+			"answers": [
+				[],
+				[]
+			],
+			"newContentTypeId": 203016,
+			"newContentSubtypeId": 203016004,
+			"isUsed": false
+		}],
+		"knowledge_points_list": [{
+			"id": "KP_20300068522612",
+			"name": "\u5bb6\u4eba\u548c\u4eb2\u4eba (Family and relatives)"
+		}, {
+			"id": "KP_20300068537497",
+			"name": "\u4eba\u9645\u4ea4\u5f80 (Interpersonal communication)"
+		}, {
+			"id": "KP_20300081665994",
+			"name": "\u5916\u8c8c (Physical apperance)"
+		}, {
+			"id": "KP_20300068523117",
+			"name": "\u670b\u53cb (Friends)"
+		}, {
+			"id": "KP_20300068541594",
+			"name": "\u98df\u7269\u4e0e\u996e\u6599 (Food and drinks)"
+		}, {
+			"id": "KP_20300052048219",
+			"name": "\u51a0\u8bcd"
+		}, {
+			"id": "KP_20300052018103",
+			"name": "\u6570\u8bcd"
+		}],
+		"content_types": [{
+			"nid": 203016000,
+			"name": "\u77ed\u6587\u6717\u8bfb"
+		}, {
+			"nid": 203016001,
+			"name": "\u542c\u9009\u4fe1\u606f"
+		}, {
+			"nid": 203016002,
+			"name": "\u56de\u7b54\u95ee\u9898"
+		}, {
+			"nid": 203016003,
+			"name": "\u4fe1\u606f\u8f6c\u8ff0"
+		}, {
+			"nid": 203016004,
+			"name": "\u8be2\u95ee\u4fe1\u606f"
+		}],
+		"words": [],
+		"category": {
+			"bk_id": "BK_20300003524829",
+			"bkc_id": "BKC_20300232071806",
+			"name": "\u6df1\u5733 \u4e0a\u6559\u7248-\u725b\u6d25 \u4e03\u4e0bU1\u7b2c\u4e09\u5957",
+			"package_content_type": "paper_package",
+			"paper_id": "P_20300280832262-1",
+			"type": "sync"
+		}
+	}
+}

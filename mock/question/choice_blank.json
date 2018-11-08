@@ -1,0 +1,1066 @@
+[
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 0,
+      "processId": 0
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p><span>第一空是推理判断题。题干中出现：So he drove to him and asked，由ask可以推出后半句应该是个问句，纵观五个选项，只有D是where引导的特殊疑问句。</span><br></p><p>因此，正确答案是D。</p><p>第二空是推理判断题。根据前文的提问：Where are you going, sir?你去哪里先生？回答应该是去个地方，纵观五个选项，只有A是回答地方。</p><p style=\"white-space: normal;\">因此，正确答案是A。</p><p>第三空是细节理解题。题干中司机对乘客说：You should pay me fifteen dollars。乘客需要付15美元。乘客的反应是：What? 什么？结合句意，乘客应该是对这15美元的价格感到吃惊，选项C符合。</p><p style=\"white-space: normal;\">因此，正确答案是C。</p><p>第四空是推理判断题。提干中提到：I took a taxi from the railway station to this hotel and I only gave the driver thirteen dollars.上周乘客从车站到酒店坐出租车只花了13美元，结合句意，说明该乘客知道从车站到酒店的价格，选项E符合。</p><p style=\"white-space: normal;\">因此，正确答案是E。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "4",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>It was a cold night. The taxi driver didn't take even one passenger all day. When he went by the railway station, he saw a young man coming out with two bags in his hands. So he drove to him and asked, \"__$$__\"</p><p>\"__$$__\" the young man answered. When the taxi driver heard this, he didn't feel happy any more. The young man would give him only three dollars because the hotel was near the railway station, but suddenly, he had an idea. He took the young man through many streets of the big city.</p><p>After a long time, they arrived at the hotel. \"Here we are! You should pay me fifteen dollars, please,\" the taxi driver said to the young man.\" What? __$$__ Do you think I'm a fool? Only last week, I took a taxi from the railway station to this hotel and I only gave the driver thirteen dollars. __$$__\"</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "option": "To the Red Hotel."
+            },
+            {
+              "option": "The driver was very honest."
+            },
+            {
+              "option": "Fifteen dollars!"
+            },
+            {
+              "option": "Where are you going, sir?"
+            },
+            {
+              "option": "I know how much I have to pay for the trip."
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 10,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030017,
+    "contentTypeId": 2031005,
+    "createdAt": 1438612670611,
+    "creatorId": "55baf35e2ed9b6346a28197f",
+    "description": "阅读短文还原句子，阅读短文，根据短文内容，从短文后的选项中选出能填入空白处的最佳选项，选项中有一项为多余选项",
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {},
+    "finalAuditorId": "55baf35e2ed9b6346a281982",
+    "fromId": 0,
+    "id": "Q_20300422953618",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014675042",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014681451",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 3,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 160,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1501687093955
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [
+      {
+        "bookId": "BK_20300001487561",
+        "classLevel": 7,
+        "lessonId": "BKC_20300076811682",
+        "seriesId": "BKC_20300057609071",
+        "termType": 2,
+        "unitId": "BKC_20300076810570"
+      }
+    ],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 43653
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "n.接待员"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "11",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "3",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "1",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "3",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "0",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "6",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "10",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "7",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "6",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "2",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><img src=\"http://cdn.17zuoye.com/fs-image/572b320d2ed9b60e7cf6156e\"></p><p>__$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 1,
+          "listenUrl": "http://cdn.17zuoye.com/fs-tts/56dd2a3f8f221cab4cede381",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "p"
+            },
+            {
+              "option": "c"
+            },
+            {
+              "option": "s"
+            },
+            {
+              "option": "e"
+            },
+            {
+              "option": "e"
+            },
+            {
+              "option": "t"
+            },
+            {
+              "option": "i"
+            },
+            {
+              "option": "n"
+            },
+            {
+              "option": "i"
+            },
+            {
+              "option": "t"
+            },
+            {
+              "option": "o"
+            },
+            {
+              "option": "r"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 10,
+          "submitWays": [
+            0
+          ]
+        }
+      ]
+    },
+    "contentType2Id": 2031023,
+    "contentTypeId": 2031005,
+    "createdAt": 1520340444700,
+    "creatorId": "532c2e26a68eb117c465d823",
+    "description": "",
+    "difficultyInt": 1,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "draftMd5": "267376214e51c8e0dc2d0ed63ce6dd47",
+      "onlineCreatedAt": 1520343594129,
+      "onlineMd5": "267376214e51c8e0dc2d0ed63ce6dd47",
+      "onlineVersion": 1
+    },
+    "fromId": 2,
+    "id": "Q_20312545121540",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 60,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1520340444704,
+    "wordId": "56dcf23c2ed9b6713226c094"
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 80559
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "句意：我的闹钟没有响，所有我睡过头了。go off 发出响声，为动词短语，且根据句意可知时态为一般过去时，故此处应使用助动词did not构成否定句；oversleep 睡过头，动词，过去式为overslept。"
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "6",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "7",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "4",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "__$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__.",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "go off"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\"></span><span style=\"white-space: normal;\">overslept</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\"></span><span style=\"white-space: normal;\">I</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "my"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "so"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\"></span><span style=\"white-space: normal;\">alarm clock</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\"></span><span style=\"white-space: normal;\">did</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "not"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 10,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2031024,
+    "contentTypeId": 2031013,
+    "createdAt": 1520068685850,
+    "creatorId": "59634aeb2ed9b60424b51275",
+    "description": "连词成句。",
+    "descriptionFile": {
+      "fileId": "",
+      "filename": "",
+      "seconds": 0,
+      "url": ""
+    },
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "draftMd5": "48c39535ff0ac0948a0d075996d0b402",
+      "onlineCreatedAt": 1520352221201,
+      "onlineMd5": "48c39535ff0ac0948a0d075996d0b402",
+      "onlineVersion": 1
+    },
+    "fromId": 7,
+    "id": "Q_20312500312104",
+    "inputPrompt": "L01",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300052205689",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068066087",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300052204558",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300171477549"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureRequirement": "",
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "<p style=\"text-align:center\"><strong><span style=\"font-family: 微软雅黑;font-size: 14px;background: rgb(217, 217, 217)\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\">\u200d</span>\u200d</span>L01 连词成句</span></strong></p><p><strong><span style=\"font-family: 宋体;font-size: 14px;background: rgb(255, 255, 0)\">go off</span></strong><strong><span style=\"font-family: 宋体;font-size: 14px\">, </span></strong><strong><span style=\"font-family: 宋体;font-size: 14px;background: rgb(255, 255, 0)\">overslept</span></strong><strong><span style=\"font-family: 宋体;font-size: 14px\">, I, my, so, alarm clock,</span></strong><strong><span style=\"font-family: 'Times New Roman';font-size: 14px\">&nbsp;</span></strong><strong><span style=\"font-family: 宋体;font-size: 14px\">did, not(<span style=\"font-family:宋体\">连词成句</span><span style=\"font-family:Times New Roman\">)</span></span></strong></p><p><strong><span style=\"font-family: 宋体;font-size: 14px\">&nbsp;&nbsp;______________________________________________</span></strong></p><p><strong><span style=\"font-family: 宋体;font-size: 14px\">&nbsp;&nbsp;Key: My alarm clock did not go off, so I overslept.</span></strong></p>",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 40,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "L01",
+    "tagId": 203020273,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1520351303390
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 385
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>句意：我们对老人很好。be good with ... 对……好。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "4",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "__$$__ __$$__ __$$__ __$$__ __$$__ __$$__ (.)",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "with<span id=\"_baidu_bookmark_start_28\" style=\" display: none;\">\u200d</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "good<span id=\"_baidu_bookmark_start_38\" style=\" display: none;\">\u200d</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "are<span id=\"_baidu_bookmark_start_48\" style=\" display: none;\">\u200d</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "we<span id=\"_baidu_bookmark_start_58\" style=\" display: none;\">\u200d</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "people<span id=\"_baidu_bookmark_start_68\" style=\" display: none;\">\u200d</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "old<span id=\"_baidu_bookmark_start_78\" style=\" display: none;\">\u200d</span>"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 10,
+          "submitWays": [
+            0
+          ],
+          "tags": [],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030037,
+    "contentTypeId": 2031013,
+    "createdAt": 1440033721005,
+    "creatorId": "55baf35e2ed9b6346a281989",
+    "description": "连词成句",
+    "descriptionFile": {
+      "fileId": "",
+      "filename": "",
+      "seconds": 0,
+      "url": ""
+    },
+    "difficultyInt": 4,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1528351216033,
+      "onlineMd5": "3340181121f9bc61212ffc7cbccced8d",
+      "onlineVersion": 8
+    },
+    "finalAuditorId": "55baf35e2ed9b6346a281982",
+    "fromId": 0,
+    "id": "Q_20300553518644",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300004326268",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300008517250",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300008132745",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 203007013,
+    "newContentTypeId": 203007,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300022547903",
+      "P_20300029489875"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 60,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagId": 0,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1528293772610
+  }
+]

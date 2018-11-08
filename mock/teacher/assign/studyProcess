@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "data": {
+        "title": "Unit 1 学习进度",
+        "process_list": [
+            {
+                "clazz_name": "1班",
+                "clazz_id": 60616,
+                "low_cnt": 0,
+                "none_cnt": 71,
+                "pass_great_cnt": 0,
+                "is_assign": false
+            },
+            {
+                "clazz_name": "英语1班",
+                "clazz_id": 80265,
+                "low_cnt": 0,
+                "none_cnt": 71,
+                "pass_great_cnt": 0,
+                "is_assign": false
+            }
+        ]
+    },
+    "message": "",
+    "error_code": 0
+}

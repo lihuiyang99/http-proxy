@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "Q_20305155042863-11",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookNotEmpty": true,
+        "bookEmpty": false
+      }
+    ],
+    "contentTypeId": 2031004,
+    "contentType2Id": 2030014,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 10,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "rather",
+          "answers": [
+            {
+              "answer": "2",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "既不……也不",
+              "file": null
+            },
+            {
+              "option": "adj.（天空）阴沉的；昏暗的；灰色的",
+              "file": null
+            },
+            {
+              "option": "adv.宁愿；相当",
+              "file": null
+            },
+            {
+              "option": "conj.也不 adv.也不",
+              "file": null
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "http://cdn.17zuoye.com/fs-tts/5847e5f10365c6557f8b5c08",
+          "listenName": "",
+          "listenSeconds": 1,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "2"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20305155042863",
+    "version": 11,
+    "wordId": "57d13fe82ed9b62b2cbd96ba",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:31.787+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:13:08.802+08:00",
+    "olUpdatedAt": "2018-04-28T18:13:08.802+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "2"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031004,
+      "name": "选择题"
+    },
+    "contentType": {
+      "nid": 2030014,
+      "name": "英译中"
+    },
+    "wordData": {
+      "id": "57d13fe82ed9b62b2cbd96ba",
+      "name": "rather"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20305155043560-11",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookNotEmpty": true,
+        "bookEmpty": false
+      }
+    ],
+    "contentTypeId": 2031004,
+    "contentType2Id": 2030015,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 10,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "adv.宁愿；相当",
+          "answers": [
+            {
+              "answer": "2",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "queen",
+              "file": null
+            },
+            {
+              "option": "uncomfortable",
+              "file": null
+            },
+            {
+              "option": "rather",
+              "file": null
+            },
+            {
+              "option": "prime minister",
+              "file": null
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 1,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "2"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20305155043560",
+    "version": 11,
+    "wordId": "57d13fe82ed9b62b2cbd96ba",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:31.968+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:13:08.855+08:00",
+    "olUpdatedAt": "2018-04-28T18:13:08.855+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "2"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031004,
+      "name": "选择题"
+    },
+    "contentType": {
+      "nid": 2030015,
+      "name": "中译英"
+    },
+    "wordData": {
+      "id": "57d13fe82ed9b62b2cbd96ba",
+      "name": "rather"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20305155045410-11",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookNotEmpty": true,
+        "bookEmpty": false
+      }
+    ],
+    "contentTypeId": 2031011,
+    "contentType2Id": 2030047,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 15,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p><img src=\"http://cdn.17zuoye.com/fs-image/59d34e192ed9b66cd0a2f966\"></p><p>rather</p><p>adv.宁愿；相当</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "other",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "rather",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": "rather",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5847e5f10365c6557f8b5c08",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20305155045410",
+    "version": 11,
+    "wordId": "57d13fe82ed9b62b2cbd96ba",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:32.088+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:13:08.954+08:00",
+    "olUpdatedAt": "2018-04-28T18:13:08.954+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031011,
+      "name": "跟读"
+    },
+    "contentType": {
+      "nid": 2030047,
+      "name": "单词跟读"
+    },
+    "wordData": {
+      "id": "57d13fe82ed9b62b2cbd96ba",
+      "name": "rather"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312519036503-8",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookNotEmpty": true,
+        "bookEmpty": false
+      }
+    ],
+    "contentTypeId": 2031005,
+    "contentType2Id": 2031023,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 60,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p><img src=\"http://cdn.17zuoye.com/fs-image/59d34e192ed9b66cd0a2f966\"></p><p>__$$__ __$$__ __$$__ __$$__ __$$__ __$$__</p>",
+          "answers": [
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "5",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "3",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "4",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 10,
+          "analysis": "",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "r",
+              "file": null
+            },
+            {
+              "option": "e",
+              "file": null
+            },
+            {
+              "option": "r",
+              "file": null
+            },
+            {
+              "option": "t",
+              "file": null
+            },
+            {
+              "option": "h",
+              "file": null
+            },
+            {
+              "option": "a",
+              "file": null
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "http://cdn.17zuoye.com/fs-tts/5847e5f10365c6557f8b5c08",
+          "listenName": "",
+          "listenSeconds": 1,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": "adv.宁愿；相当"
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "answerList": [
+            "0",
+            "5",
+            "3",
+            "4",
+            "1",
+            "0"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312519036503",
+    "version": 8,
+    "wordId": "57d13fe82ed9b62b2cbd96ba",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:32.196+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:17:36.631+08:00",
+    "olUpdatedAt": "2018-04-28T18:17:36.631+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "0",
+        "5",
+        "3",
+        "4",
+        "1",
+        "0"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031005,
+      "name": "填空"
+    },
+    "contentType": {
+      "nid": 2031023,
+      "name": "单词拼写"
+    },
+    "wordData": {
+      "id": "57d13fe82ed9b62b2cbd96ba",
+      "name": "rather"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20305155174448-11",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookEmpty": false,
+        "bookNotEmpty": true
+      }
+    ],
+    "contentTypeId": 2031011,
+    "contentType2Id": 2030048,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 25,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p><img src=\"http://cdn.17zuoye.com/fs-image/57d140a62ed9b622790840dc\"></p><p>Neither medicine <b>nor</b> rest can help him.</p><p>药物和休息都不能帮到他。</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "other",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "Neither medicine nor rest can help him.",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": "Neither medicine nor rest can help him.",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a8129410365c62e568b46af",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        }
+      ]
+    },
+    "docId": "Q_20305155174448",
+    "version": 11,
+    "wordId": "57d13ff72ed9b62b2cbd96cf",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:47.312+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:13:13.195+08:00",
+    "olUpdatedAt": "2018-04-28T18:13:13.195+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031011,
+      "name": "跟读"
+    },
+    "contentType": {
+      "nid": 2030048,
+      "name": "例句跟读"
+    },
+    "wordData": {
+      "id": "57d13ff72ed9b62b2cbd96cf",
+      "name": "nor"
+    },
+    "isUsed": true
+  },
+  {
+    "id": "Q_20312519419097-8",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": "BKC_20300092929084",
+        "termType": 0,
+        "classLevel": 9,
+        "bookEmpty": false,
+        "bookNotEmpty": true
+      }
+    ],
+    "contentTypeId": 2031013,
+    "contentType2Id": 2031024,
+    "difficultyInt": 1,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 60,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p>__$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__<br></p>",
+          "answers": [
+            {
+              "answer": "5",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "3",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "4",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "2",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "6",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "7",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 10,
+          "analysis": "",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "and",
+              "file": null
+            },
+            {
+              "option": "them",
+              "file": null
+            },
+            {
+              "option": "nor",
+              "file": null
+            },
+            {
+              "option": "doesn't",
+              "file": null
+            },
+            {
+              "option": "like",
+              "file": null
+            },
+            {
+              "option": "She",
+              "file": null
+            },
+            {
+              "option": "does",
+              "file": null
+            },
+            {
+              "option": "Jeff.",
+              "file": null
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": "她不喜欢他们，杰夫也不喜欢。"
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "answerList": [
+            "5",
+            "3",
+            "4",
+            "1",
+            "0",
+            "2",
+            "6",
+            "7"
+          ]
+        }
+      ]
+    },
+    "docId": "Q_20312519419097",
+    "version": 8,
+    "wordId": "57d13ff72ed9b62b2cbd96cf",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-28T17:24:47.196+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-28T18:17:39.024+08:00",
+    "olUpdatedAt": "2018-04-28T18:17:39.024+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "5",
+        "3",
+        "4",
+        "1",
+        "0",
+        "2",
+        "6",
+        "7"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031013,
+      "name": "连词成句"
+    },
+    "contentType": {
+      "nid": 2031024,
+      "name": "词汇造句"
+    },
+    "wordData": {
+      "id": "57d13ff72ed9b62b2cbd96cf",
+      "name": "nor"
+    },
+    "isUsed": true
+  }
+]

@@ -1,0 +1,101 @@
+{
+    "success": true,
+    "data": {
+        "objective_configs": [
+            {
+                "_id": "OCN_00489633533",
+                "name": "词汇练习",
+                "custom_name": "词汇专练1",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489634335",
+                "name": "词汇练习",
+                "custom_name": "词汇专练2",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489635318",
+                "name": "词汇练习",
+                "custom_name": "词汇专练3",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489636053",
+                "name": "词汇练习",
+                "custom_name": "词汇专练4",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489637633",
+                "name": "词汇练习",
+                "custom_name": "词汇专练5",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489638785",
+                "name": "词汇练习",
+                "custom_name": "词汇专练6",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            },
+            {
+                "_id": "OCN_00489639187",
+                "name": "词汇练习",
+                "custom_name": "词汇专练7",
+                "description": "",
+                "description_list": null,
+                "objective_id": "TON_00223640617",
+                "knowledge_points_list": {},
+                "practice_type": "vocab",
+                "deleted_at": null,
+                "type": "VOCAB_PRACTICE",
+                "used": false
+            }
+        ],
+        "has_oral": false
+    },
+    "message": "",
+    "error_code": 0
+}

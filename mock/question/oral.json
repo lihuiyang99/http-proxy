@@ -1,0 +1,4281 @@
+[
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 180571
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p><br></p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": "<p><br></p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": "<p>favourite (adj.)最喜爱的；(n.)最喜爱的人(或物)</p><p>使用范例：It used to be my favourite restaurant.那是我以前最喜欢的饭馆。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": "<ol class=\" list-paddingleft-2\" style=\"list-style-type: decimal;\"><li><p>be good at 擅长，擅长于。例如：He is good at English. 他擅长英语。</p></li><li><p>like doing sth. 喜欢做某事。例如：Tom likes going swimming. 汤姆喜欢游泳。</p></li></ol>"
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [
+                "AC_20300000281541"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "<p style=\"text-align: center;\">My Best Friend</p><p style=\"text-align: justify;\">This is my best friend Mary. She is from America and she is 13 years old. She is good at art. It's her favourite subject. She likes drawing and painting. I think she is very friendly. She likes playing table tennis very much. She likes going swimming with us on weekends. I like playing with her. Please tell me something about your friend. </p>",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>作为一名初一新生，你肯定在这一学期的学校生活中结识了很多新朋友。请以“My Best Friend” 为题写一篇征文，介绍你在校结识的一位好朋友。介绍内容包括他/她的个人基本信息、外貌、爱好及特长。（好友的名字请用Mary或Jack代替）</p><p style=\"text-align: center;\"><img src=\"http://cdn.17zuoye.com/fs-resource/55bc36472ed9b6130f1603fc\" title=\"1.png\" _src=\"http://cdn.17zuoye.com/fs-resource/55bc36472ed9b6130f1603fc\" alt=\"1.png\" width=\"531\" height=\"280\" border=\"0\" vspace=\"0\" style=\"width: 531px; height: 280px;\"></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030034,
+    "contentTypeId": 2031010,
+    "createdAt": 1438398173064,
+    "creatorId": "55baf35e2ed9b6346a28197f",
+    "description": "文段表达，根据中文大意和英文提示词语，写出意思连贯、符合逻辑、不少于50词的短文，所给英文提示词语供选用，请不要写出你的校名和姓名",
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1528351573725,
+      "onlineMd5": "b0d9efaa446f2f45cf44ecf1a02f14f8",
+      "onlineVersion": 6
+    },
+    "finalAuditorId": "55baf35e2ed9b6346a28198b",
+    "fromId": 0,
+    "id": "Q_20300416746928",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014778726",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203015000,
+    "newContentTypeId": 203015,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300016038027"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 600,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1528293894660
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 0,
+      "processId": 0
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "<p><img src=\"http://cdn.17zuoye.com/fs-resource/57a945cb2ed9b657d3827d6e\" width=\"480\" height=\"477\" alt=\"图1.png\"><br></p><table><tbody><tr class=\"firstRow\"><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\"><p>Name</p></td><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\"><p>Helen Miller</p></td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">ID number</td><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">2738 396 972 208</td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">Telephone number</td><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">352-5679</td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">The color of her bag<br></td><td valign=\"top\" style=\"word-break: break-word; border: 1px solid rgb(221, 221, 221);\">orange</td></tr></tbody></table>",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "answers": [
+              {
+                "answer": "<p>Helen.</p><p style=\"white-space: normal;\">Her first name is Helen.</p><p style=\"white-space: normal;\">Helen is her first name.</p><p>It is Helen.&nbsp;</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              }
+            ],
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "<p>What's her first name?</p>",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Helen is her first name | Her first name is Helen | Helen | It is Helen\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Helen is her first name | Her first name is Helen | Helen | It is Helen)\\\"</s>\\\";\", \"GrammarWeight\":\"{\\\"weight_struct\\\":[[{\\\"key\\\":\\\"Helen\\\", \\\"weight\\\":0.5}]]}\", \"Version\":1}",
+            "keywords": [
+              "Helen."
+            ],
+            "listenFile": {
+              "fileId": "57a947b82ed9b657f944fe69",
+              "filename": "201.mp3",
+              "seconds": 4,
+              "url": "http://cdn.17zuoye.com/fs-resource/57a947b82ed9b657f944fe69"
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 15,
+            "sentencePatterns": [
+              "Helen is her first name. | Her first name is Helen. | Helen. | It is Helen."
+            ],
+            "variables": []
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 18,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "answers": [
+              {
+                "answer": "<p>Miller.</p><p>Miller is her last name.</p><p>Her last name is Miller.</p><p>It is Miller.&nbsp;</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              }
+            ],
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "​What's her last name?",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Her last name is Miller | Miller is her last name | Miller | It is Miller\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Her last name is Miller | Miller is her last name | Miller | It is Miller)\\\"</s>\\\";\", \"GrammarWeight\":\"{\\\"weight_struct\\\":[[{\\\"key\\\":\\\"Miller\\\", \\\"weight\\\":0.5}]]}\", \"Version\":1}",
+            "keywords": [
+              "Miller. "
+            ],
+            "listenFile": {
+              "fileId": "57a94a7c2ed9b657cf32bd7e",
+              "filename": "202.mp3",
+              "seconds": 4,
+              "url": "http://cdn.17zuoye.com/fs-resource/57a94a7c2ed9b657cf32bd7e"
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 15,
+            "sentencePatterns": [
+              "Her last name is Miller. | Miller is her last name. | Miller.| It is Miller. "
+            ],
+            "variables": []
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 18,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "answers": [
+              {
+                "answer": "<p>No, it isn't. It's 352-5679.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              },
+              {
+                "answer": "<p>No, it's 352-5679.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              },
+              {
+                "answer": "<p>No, it isn't.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              }
+            ],
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "​Is her telephone number 2738 396 972 208?",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"No it isn't It's three five two-five six seven nine | No it's three five two-five six seven nine | No it isn't\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(No it isn't It's three five two-five six seven nine | No it's three five two-five six seven nine | No it isn't)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "keywords": [],
+            "listenFile": {
+              "fileId": "57a94d7f2ed9b614c9c871eb",
+              "filename": "203.mp3",
+              "seconds": 11,
+              "url": "http://cdn.17zuoye.com/fs-resource/57a94d7f2ed9b614c9c871eb"
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 15,
+            "sentencePatterns": [
+              "No, it isn't. It's three five two-five six seven nine. | No, it's three five two-five six seven nine. | No, it isn't."
+            ],
+            "variables": []
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 18,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "answers": [
+              {
+                "answer": "<p>Orange.</p><p style=\"white-space: normal;\">Her/ The school bag is orange.<br></p><p style=\"white-space: normal;\">It is orange.</p><p style=\"white-space: normal;\">The color is orange.</p><p style=\"white-space: normal;\">Orange is the color.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              }
+            ],
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "What color is her school bag?",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"It's orange | orange | <a> school bag is orange | It is orange | The color is orange | Orange is the color\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(It's orange | orange | <a> school bag is orange | It is orange | The color is orange | Orange is the color)\\\"</s>\\\";\\n<a>=(Her| The);\", \"GrammarWeight\":\"{\\\"weight_struct\\\":[[{\\\"key\\\":\\\"orange\\\", \\\"weight\\\":0.5}]]}\", \"Version\":1}",
+            "keywords": [
+              "orange. "
+            ],
+            "listenFile": {
+              "fileId": "57a94d8e2ed9b6159f5236d8",
+              "filename": "204.mp3",
+              "seconds": 4,
+              "url": "http://cdn.17zuoye.com/fs-resource/57a94d8e2ed9b6159f5236d8"
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 15,
+            "sentencePatterns": [
+              "It's orange. | orange.  | <a> school bag is orange. | It is orange.  | The color is orange.  | Orange is the color."
+            ],
+            "variables": [
+              "<a>=Her| The"
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 18,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030060,
+    "contentTypeId": 2031021,
+    "createdAt": 1470711720173,
+    "creatorId": "5710956c2ed9b63bb36d7f18",
+    "description": "你将有20秒的时间阅读屏幕上的情景提示，并作答题准备。在听到“开始录音”的信号后，请根据提示的内容，按照提问顺序用英语回答问题，每道题的作答时间为15秒钟。",
+    "descriptionFile": {
+      "fileId": "57a96ee32ed9b667690a4539",
+      "filename": "2.mp3",
+      "seconds": 20,
+      "url": "http://cdn.17zuoye.com/fs-resource/57a96ee32ed9b667690a4539"
+    },
+    "difficultyInt": 5,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "difficultyInt": 3,
+      "draftMd5": "2fd90ea2d6607bef02067f45d58d58f0",
+      "onlineCreatedAt": 1487911376006,
+      "onlineMd5": "3b30aaf2b58573f367a71f750177528d",
+      "onlineVersion": 2,
+      "seconds": 110
+    },
+    "finalAuditorId": "55928e292ed9b6434acc9eee",
+    "fromId": 8,
+    "id": "Q_20301195093046",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068518644",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 5,
+    "onlineOption": 1,
+    "others": {
+      "writingStyle": "AC_20300000283078"
+    },
+    "paperIds": [
+      "P_20300044752936",
+      "P_20300099209545"
+    ],
+    "picAttr": 3,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 20,
+    "seconds": 143,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 18,
+    "subjectId": 203,
+    "tagCode": "LkClLQAQ",
+    "tagId": 20303233,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1530025273882
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 15,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 58269
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "[spɔ:t]",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(sport)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 3,
+            "scorePercentage": 1,
+            "seconds": 3,
+            "voiceTextsNew": [
+              [
+                "sport"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "[ˈfrendʃɪp]",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(friendship)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 3,
+            "scorePercentage": 1,
+            "seconds": 3,
+            "voiceTextsNew": [
+              [
+                "friendship"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "[ˈʃəʊldə]",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(shoulder)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 3,
+            "scorePercentage": 1,
+            "seconds": 3,
+            "voiceTextsNew": [
+              [
+                "shoulder"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "[ˌju:nɪˈvɜ:siti]",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(university)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 3,
+            "scorePercentage": 1,
+            "seconds": 3,
+            "voiceTextsNew": [
+              [
+                "university"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "[ədˈvɑ:ntɪdʒ]",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(advantage)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 3,
+            "scorePercentage": 1,
+            "seconds": 3,
+            "voiceTextsNew": [
+              [
+                "advantage"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030063,
+    "contentTypeId": 2031021,
+    "createdAt": 1477136584912,
+    "creatorId": "5710956c2ed9b63bb36d7f18",
+    "description": "用正确的语音知识拼读所给的单词音标。",
+    "descriptionFile": {
+      "fileId": "580b50a42ed9b6184134be3e",
+      "filename": "1.mp3",
+      "seconds": 7,
+      "url": "http://cdn.17zuoye.com/fs-resource/580b50a42ed9b6184134be3e.sy3"
+    },
+    "difficultyInt": 1,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1529376097340,
+      "onlineMd5": "522e0a4771912a95f61fc173c0154bad",
+      "onlineVersion": 3,
+      "seconds": 65
+    },
+    "finalAuditorId": "57f883ee2ed9b64de93fc09b",
+    "fromId": 8,
+    "id": "Q_20305587062165",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300058155445",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300062639248",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300058513670",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300057113854",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      },
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300065668735",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203016010,
+    "newContentTypeId": 203016,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {
+      "writingStyle": "AC_20300000283078"
+    },
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 65,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "LkPhRW",
+    "tagId": 20303217,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1529342379001
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 156929
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "I enjoy watching TV.",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(I enjoy watching TV)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 10,
+            "voiceTextsNew": [
+              [
+                "I enjoy watching TV."
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030064,
+    "contentTypeId": 2031021,
+    "createdAt": 1480681411948,
+    "creatorId": "566544172ed9b647b03f553c",
+    "description": "请朗读下面的句子：",
+    "descriptionFile": {
+      "fileId": "584178e22ed9b6063c4d5775",
+      "filename": "2.mp3",
+      "seconds": 4,
+      "url": "http://cdn.17zuoye.com/fs-resource/584178e22ed9b6063c4d5775.sy3"
+    },
+    "difficultyInt": 1,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1529377088786,
+      "onlineMd5": "60b50cde7f94b7a0fef14aa066e9f78f",
+      "onlineVersion": 4
+    },
+    "finalAuditorId": "566544172ed9b647b03f553c",
+    "fromId": 8,
+    "id": "Q_20305973961784",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300067478950",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203016011,
+    "newContentTypeId": 203016,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 19,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "LkSRS",
+    "tagId": 20303222,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1529343588222
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 165022
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "Hello. everyone. I'm Cindy Smith. This is my friend. His name is Eric Brown. His phone number is two four five eight seven six four. And this is my friend, too. Her first name is Grace. Her last name is Black. Five six eight nine four three one is her phone number.",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Hello everyone I'm Cindy Smith This is my friend His name is Eric Brown His phone number is two four five eight seven six four And this is my friend too Her first name is Grace Her last name is Black Five six eight nine four three one is her phone number)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "",
+              "filename": "",
+              "url": ""
+            },
+            "readySeconds": 60,
+            "scorePercentage": 1,
+            "seconds": 90,
+            "voiceTextsNew": [
+              [
+                " Hello. everyone. I'm Cindy Smith. This is my friend. His name is Eric Brown. His phone number is two four five eight seven six four. And this is my friend, too. Her first name is Grace. Her last name is Black. Five six eight nine four three one is her phone number."
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030062,
+    "contentTypeId": 2031021,
+    "createdAt": 1470710213949,
+    "creatorId": "5710956c2ed9b63bb36d7f18",
+    "description": "你将有60秒钟的时间阅读屏幕上的短文，并作朗读准备。在听到“开始录音”的信号后，请在90秒钟内朗读短文一遍。",
+    "descriptionFile": {
+      "fileId": "57a96cd22ed9b63829647c16",
+      "filename": "1.mp3",
+      "seconds": 14,
+      "url": "http://cdn.17zuoye.com/fs-resource/57a96cd22ed9b63829647c16"
+    },
+    "difficultyInt": 5,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "difficultyInt": 1,
+      "onlineCreatedAt": 1528886344651,
+      "onlineMd5": "a38b89fc0a4ce1731604e781c2294174",
+      "onlineVersion": 3,
+      "seconds": 120
+    },
+    "finalAuditorId": "55928e292ed9b6434acc9eee",
+    "fromId": 8,
+    "id": "Q_20301194988887",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068523117",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203016000,
+    "newContentTypeId": 203016,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300044752936",
+      "P_20300144683472"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 120,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "LkArRAr",
+    "tagId": 20303224,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1528733297458
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 0,
+      "processId": 0
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "<br>",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>I'm worried about my friend Jolin.  She wants to be a model and she's thin, but she thinks she's fat. She's always on a diet. She's getting too thin. But whenever I talk to her about this, she  gets angry. How can I help her?</p><p>I have to share a room with my seven-year old sister, and she's driving me mad! She has a habit of playing the piano when I'm studying, and she always takes my things without telling me. I try to keep the room tidy, but she always makes a mess. I love my sister, but sometimes she's so annoying! What should I do?</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "<p style=\"white-space: normal;\">I'm worried about my friend Jolin. She wants to be a model and she's thin, but she thinks she's fat. She's always on a diet. She's getting too thin. But whenever I talk to her about this, she gets angry. How can I help her?</p><p style=\"white-space: normal;\">I have to share a room with my seven-year old sister, and she's driving me mad! She has a habit of playing the piano when I'm studying, and she always takes my things without telling me. I try to keep the room tidy, but she always makes a mess. I love my sister, but sometimes she's so annoying! What should I do?</p>",
+            "endListenUrl": "http://cdn.17zuoye.com/fs-resource/57903ae52ed9b669d997d71a",
+            "jsgf": "{\"DisplayText\":\"I'm worried about my friend Jolin She wants to be a model and she's thin but she thinks she's fat She's always on a diet She's getting too thin But whenever I talk to her about this she gets angry How can I help her I have to share a room with my seven-year old sister and she's driving me mad She has a habit of playing the piano when I'm studying and she always takes my things without telling me I try to keep the room tidy but she always makes a mess I love my sister but sometimes she's so annoying What should I do\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(I'm worried about my friend Jolin She wants to be a model and she's thin but she thinks she's fat She's always on a diet She's getting too thin But whenever I talk to her about this she gets angry How can I help her I have to share a room with my seven-year old sister and she's driving me mad She has a habit of playing the piano when I'm studying and she always takes my things without telling me I try to keep the room tidy but she always makes a mess I love my sister but sometimes she's so annoying What should I do)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "listenFile": {
+              "fileId": "5b2363648451d7accefb1271",
+              "filename": "24.mp3",
+              "seconds": 46,
+              "url": "http://cdn.17zuoye.com/fs-resource/5b2363648451d7accefb1271.sy3"
+            },
+            "readySeconds": 50,
+            "scorePercentage": 1,
+            "seconds": 50,
+            "voiceTextsNew": [
+              [
+                "I'm worried about my friend Jolin.  She wants to be a model and she's thin, but she thinks she's fat.  She's always on a diet.  She's getting too thin.  But whenever I talk to her about this, she gets angry.  How can I help her?  I have to share a room with my seven-year old sister, and she's driving me mad! She has a habit of playing the piano when I'm studying, and she always takes my things without telling me.  I try to keep the room tidy, but she always makes a mess.  I love my sister, but sometimes she's so annoying!  What should I do?"
+              ]
+            ]
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 19,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030062,
+    "contentTypeId": 2031021,
+    "createdAt": 1472025725859,
+    "creatorId": "57b43b422ed9b667024e33ba",
+    "description": "听以下短文一遍，给你50秒钟的时间准备，然后模仿朗读。当听见“开始录音”的信号后，立即在50秒钟内朗读短文，当听到要求“停止录音”的信号时，应立即中止朗读。",
+    "descriptionFile": {
+      "fileId": "57b1276f2ed9b64647f66173",
+      "filename": "1.mp3",
+      "seconds": 20,
+      "url": "http://cdn.17zuoye.com/fs-resource/57b1276f2ed9b64647f66173"
+    },
+    "difficultyInt": 5,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "difficultyInt": 1,
+      "onlineCreatedAt": 1529047398964,
+      "onlineMd5": "8f6476fde3c870c5410fa7ff950c1181",
+      "onlineVersion": 4,
+      "seconds": 178
+    },
+    "finalAuditorId": "5795c6352ed9b6310febd511",
+    "fromId": 8,
+    "id": "Q_20302428021777",
+    "keepVersion": 1,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068597717",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203016000,
+    "newContentTypeId": 203016,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300048579875",
+      "P_20300214240842"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "<br>",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 166,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "LkArLIR",
+    "tagId": 20303232,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1529045867306
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 0,
+      "processId": 0
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "beginListenUrl": "",
+            "endListenUrl": "",
+            "options": [
+              {
+                "jsgf": "{\"DisplayText\":\"What do you often do in your free time |What do you do in your spare time |What do you often do when you are free |What do you often do in your spare time\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(What do you often do in your free time |What do you do in your spare time |What do you often do when you are free |What do you often do in your spare time)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                },
+                "name": "Han Fang",
+                "roleType": 1,
+                "seconds": 8,
+                "text": "_______________________",
+                "voiceTextsNew": [
+                  [
+                    "What do you often do in your free time?|What do you do in your spare time?|What do you often do when you are free?|What do you often do in your spare time?"
+                  ]
+                ]
+              },
+              {
+                "jsgf": "",
+                "listenFile": {
+                  "fileId": "58496ed32ed9b6102060bc53",
+                  "filename": "1.mp3",
+                  "seconds": 6,
+                  "url": "http://cdn.17zuoye.com/fs-resource/58496ed32ed9b6102060bc53.sy3"
+                },
+                "name": "Michael",
+                "roleType": 2,
+                "seconds": 0,
+                "text": "I often play on the computer in my spare time.",
+                "voiceTextsNew": [
+                  []
+                ]
+              },
+              {
+                "jsgf": "{\"DisplayText\":\"How often do you do it |How often do you play it |How often do you use the computer |Can you tell me how often you do it\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(How often do you do it |How often do you play it |How often do you use the computer |Can you tell me how often you do it)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                },
+                "name": "Han Fang",
+                "roleType": 1,
+                "seconds": 8,
+                "text": "_______________________",
+                "voiceTextsNew": [
+                  [
+                    "How often do you do it?|How often do you play it?|How often do you use the computer?|Can you tell me how often you do it?"
+                  ]
+                ]
+              },
+              {
+                "jsgf": "",
+                "listenFile": {
+                  "fileId": "58496ee92ed9b60bb05ed2ee",
+                  "filename": "2.mp3",
+                  "seconds": 4,
+                  "url": "http://cdn.17zuoye.com/fs-resource/58496ee92ed9b60bb05ed2ee.sy3"
+                },
+                "name": "Michael",
+                "roleType": 2,
+                "seconds": 0,
+                "text": "Three times a week.",
+                "voiceTextsNew": [
+                  []
+                ]
+              },
+              {
+                "jsgf": "{\"DisplayText\":\"What do you usually do on the Internet |What do you do on it |What do you do on the Internet |What do you do on the computer\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(What do you usually do on the Internet |What do you do on it |What do you do on the Internet |What do you do on the computer)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                },
+                "name": "Han Fang",
+                "roleType": 1,
+                "seconds": 8,
+                "text": "_______________________",
+                "voiceTextsNew": [
+                  [
+                    "What do you usually do on the Internet?|What do you do on it?|What do you do on the Internet?|What do you do on the computer?"
+                  ]
+                ]
+              },
+              {
+                "jsgf": "",
+                "listenFile": {
+                  "fileId": "58496ef62ed9b604bbb3b3af",
+                  "filename": "3.mp3",
+                  "seconds": 10,
+                  "url": "http://cdn.17zuoye.com/fs-resource/58496ef62ed9b604bbb3b3af.sy3"
+                },
+                "name": "Michael",
+                "roleType": 2,
+                "seconds": 0,
+                "text": "I usually read news, watch videos on the Internet. Sometimes, I chat with my friends.",
+                "voiceTextsNew": [
+                  []
+                ]
+              },
+              {
+                "jsgf": "{\"DisplayText\":\"When did you begin to use the Internet |When did you start to use it |When did you begin to use it |When did you start using the Internet\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(When did you begin to use the Internet |When did you start to use it |When did you begin to use it |When did you start using the Internet)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                },
+                "name": "Han Fang",
+                "roleType": 1,
+                "seconds": 8,
+                "text": "_______________________",
+                "voiceTextsNew": [
+                  [
+                    "When did you begin to use the Internet?|When did you start to use it?|When did you begin to use it?|When did you start using the Internet?"
+                  ]
+                ]
+              },
+              {
+                "jsgf": "",
+                "listenFile": {
+                  "fileId": "58496f002ed9b604bbb3b3b2",
+                  "filename": "4.mp3",
+                  "seconds": 5,
+                  "url": "http://cdn.17zuoye.com/fs-resource/58496f002ed9b604bbb3b3b2.sy3"
+                },
+                "name": "Michael",
+                "roleType": 2,
+                "seconds": 0,
+                "text": "I began to use the Internet five years ago.",
+                "voiceTextsNew": [
+                  []
+                ]
+              }
+            ],
+            "readySeconds": 20,
+            "scorePercentage": 1
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 20,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030065,
+    "contentTypeId": 2031021,
+    "createdAt": 1481207560294,
+    "creatorId": "5710956c2ed9b63bb36d7f18",
+    "description": "请你根据所给的情景与提示扮演角色，进行提问或回答4个问题。在完成每个问题之前，你有5秒钟左右的准备时间，按照提示在规定时间内录音。角色: Han Fang, Michael。情景: Han Fang询问Michael的兴趣爱好。提示: Michael通常在网上读新闻，看视频还有和同学聊天等。你将扮演Han Fang的角色。",
+    "descriptionFile": {
+      "fileId": "584984452ed9b6726202f31c",
+      "filename": "6.mp3",
+      "seconds": 40,
+      "url": "http://cdn.17zuoye.com/fs-resource/584984452ed9b6726202f31c.sy3"
+    },
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "draftMd5": "6c342dd3c2f9783244e6680ae5217e65",
+      "onlineCreatedAt": 1487915065451,
+      "onlineMd5": "6c342dd3c2f9783244e6680ae5217e65",
+      "onlineVersion": 2
+    },
+    "finalAuditorId": "5710956c2ed9b63bb36d7f18",
+    "fromId": 8,
+    "id": "Q_20306001033419",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068521218",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 5,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300060991529"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 117,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 18,
+    "subjectId": 203,
+    "tagCode": "LSAS",
+    "tagId": 20303242,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1530025332173
+  },
+  {
+    "id": "Q_20305986585470-5",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068204423",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300056677322",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300064701237",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300062642565",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300058410656",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "knowledgePoints2018": [
+      {
+        "id": "KP_20300164247802",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300162557064",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300155983458",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300157769339",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300161142292",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300144683472-6",
+      "P_20300144683472-7",
+      "P_20300280845606-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030066,
+    "difficultyInt": 1,
+    "description": "请跟读下列词组：",
+    "notFitMobile": 0,
+    "seconds": 87,
+    "complex": 1,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "57f883ee2ed9b64de93fc09b",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "look out the window",
+                "seconds": 6,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "look out the window"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5846ba232ed9b60a732efb6e",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5846ba232ed9b60a732efb6e.sy3",
+                  "filename": "1.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(look out the window)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        },
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "call my friends",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "call my friends"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5846ba3b2ed9b674f7acec7d",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5846ba3b2ed9b674f7acec7d.sy3",
+                  "filename": "2.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(call my friends)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        },
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "go sledding",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "go sledding"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5846ba502ed9b6586c8fcd58",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5846ba502ed9b6586c8fcd58.sy3",
+                  "filename": "3.mp3",
+                  "seconds": 3,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(go sledding)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        },
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "do skating",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "do skating"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5846ba632ed9b674f7acec82",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5846ba632ed9b674f7acec82.sy3",
+                  "filename": "4.mp3",
+                  "seconds": 3,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(do skating)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        },
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "go skiing",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "go skiing"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5846ba7d2ed9b6586c8fcd63",
+                  "url": "http://cdn.17zuoye.com/fs-resource/5846ba7d2ed9b6586c8fcd63.sy3",
+                  "filename": "5.mp3",
+                  "seconds": 3,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(go skiing)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        }
+      ],
+      "listenUrlSingle": null
+    },
+    "docId": "Q_20305986585470",
+    "version": 5,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303229,
+    "tagCode": "LkPhrIR",
+    "createdAt": "2016-12-06T21:15:57.484+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-07-17T18:12:32.812+08:00",
+    "olUpdatedAt": "2018-08-24T15:35:56.821+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5846aa0d2ed9b670d57bcc70",
+      "url": "http://cdn.17zuoye.com/fs-resource/5846aa0d2ed9b670d57bcc70.sy3",
+      "filename": "1.mp3",
+      "seconds": 4,
+      "urlSingle": null,
+      "secondsSingle": null
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 15,
+    "wikiType": null,
+    "others": {
+      "writing_style": "AC_20300000283078"
+    },
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "localType": [
+      "LC_20300000113589"
+    ],
+    "localTypeObj": [
+      {
+        "id": "LC_20300000113589",
+        "subjectId": 203,
+        "newContentTypeId": 203016,
+        "newContentSubtypeId": 203016010,
+        "frontShowName": "朗读单词",
+        "remark": "六七年级",
+        "isShowQuestion": true,
+        "isDefault": false,
+        "isAverageTotalAnswer_time": false,
+        "totalAnswerTime": 18,
+        "totalScore": 6,
+        "shortTextPlays": 0,
+        "prepareTimeBefore": 10,
+        "prepareTimeTotal": null,
+        "questions": [
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          },
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          },
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          },
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          },
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          },
+          {
+            "qs_score": 1,
+            "blank_count": [],
+            "question_plays": 0
+          }
+        ],
+        "region": {
+          "province_id": 310000
+        },
+        "chapInfos": [
+          {
+            "chap_info": "请依次朗读以下单词, 朗读前你有10秒钟熟悉单词, 当听见”开始录音”的提示后, 立即朗读单词, 每个单词3秒。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b3f09068074a4734194fbbd.sy3",
+            "seconds": 12,
+            "file_id": "5b3f09068074a4734194fbbd",
+            "file_name": "1.mp3"
+          }
+        ],
+        "createdAt": "2018-07-06 14:16:05.946",
+        "updatedAt": "2018-08-21 15:58:37.071",
+        "grades": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "new_content_type_id": 203016,
+    "new_content_subtype_id": 203016010,
+    "sceneDescription": null,
+    "listenUrlSingle": null,
+    "listenSecondsSingle": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "newContentTypeId": 203016,
+    "newContentSubtypeId": 203016010,
+    "majorContentType": {
+      "nid": 203016,
+      "name": "考试口语题"
+    },
+    "contentType": {
+      "nid": 203016010,
+      "name": "读单词"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20305891980262-3",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300072959004",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "knowledgePoints2018": [],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300280845606-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030066,
+    "difficultyInt": 1,
+    "description": "听示范音跟读下面的内容：",
+    "notFitMobile": 0,
+    "seconds": 79,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "582aa8f52ed9b67d02bc56e5",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 21,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "Robin: What do you have on Fridays?",
+                "seconds": 6,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Robin: What do you have on Fridays?"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d74852ed9b633a1d1eb5d",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d74852ed9b633a1d1eb5d.sy3",
+                  "filename": "31.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Robin: What do you have on Fridays)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Wu Yifan: I have a PE class.\n",
+                "seconds": 8,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Wu Yifan: I have a PE class."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d75112ed9b633a389fff8",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d75112ed9b633a389fff8.sy3",
+                  "filename": "32.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Wu Yifan: I have a PE class)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Robin: Do you often play sports?",
+                "seconds": 8,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Robin: Do you often play sports?"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d74ef2ed9b633a389fff3",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d74ef2ed9b633a389fff3.sy3",
+                  "filename": "33.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Robin: Do you often play sports)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Wu Yifan: No, I don't.",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Wu Yifan: No, I don't"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583f96722ed9b6146acb955a",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583f96722ed9b6146acb955a.sy3",
+                  "filename": "101.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Wu Yifan: No I don't)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Wu Yifan: I don't like sports.",
+                "seconds": 5,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Wu Yifan: I don't like sports."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d74ce2ed9b633a1d1eb69",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d74ce2ed9b633a1d1eb69.sy3",
+                  "filename": "107.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Wu Yifan: I don't like sports)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Zip: Do you often read books on the weekend?",
+                "seconds": 8,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Zip: Do you often read books on the weekend?"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d74c42ed9b633a235c34a",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d74c42ed9b633a235c34a.sy3",
+                  "filename": "108.mp3",
+                  "seconds": 5,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Zip: Do you often read books on the weekend)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              },
+              {
+                "name": null,
+                "text": "Zoom: No, but I often sleep!",
+                "seconds": 6,
+                "roleType": null,
+                "cnText": null,
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Zoom: No, but I often sleep!"
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "583d74ac2ed9b633a7a34bfa",
+                  "url": "http://cdn.17zuoye.com/fs-resource/583d74ac2ed9b633a7a34bfa.sy3",
+                  "filename": "109.mp3",
+                  "seconds": 4,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                },
+                "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Zoom: No but I often sleep)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 4,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": null,
+          "answerList": [],
+          "tagsDesc": [],
+          "knowledgePointsList": []
+        }
+      ],
+      "listenUrlSingle": null
+    },
+    "docId": "Q_20305891980262",
+    "version": 3,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303230,
+    "tagCode": "LkSLIR",
+    "createdAt": "2016-11-29T20:31:27.844+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-07-24T20:55:48.310+08:00",
+    "olUpdatedAt": "2018-08-24T15:35:30.876+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0,
+      "urlSingle": null,
+      "secondsSingle": null
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "localType": [
+      "LC_20300000014185"
+    ],
+    "localTypeObj": [
+      {
+        "id": "LC_20300000014185",
+        "subjectId": 203,
+        "newContentTypeId": 203016,
+        "newContentSubtypeId": 203016000,
+        "frontShowName": "短文朗读",
+        "remark": "中考",
+        "isShowQuestion": true,
+        "isDefault": true,
+        "isAverageTotalAnswer_time": false,
+        "totalAnswerTime": 120,
+        "totalScore": 8,
+        "shortTextPlays": 0,
+        "prepareTimeBefore": 60,
+        "prepareTimeTotal": null,
+        "questions": [
+          {
+            "qs_score": 8,
+            "blank_count": [],
+            "question_plays": 0
+          }
+        ],
+        "region": {
+          "province_id": 110000
+        },
+        "chapInfos": [
+          {
+            "chap_info": "你有60秒钟的时间熟悉屏幕上的短文，并作朗读准备。在听到“开始录音”的信号后，请立即在2分钟内朗读这篇短文一遍。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b2e0cda8074a4a428ca42f3.sy3",
+            "seconds": 13,
+            "file_id": "5b2e0cda8074a4a428ca42f3",
+            "file_name": "1.mp3"
+          }
+        ],
+        "createdAt": "2018-06-23 13:29:06.079",
+        "updatedAt": "2018-08-21 15:58:36.466",
+        "grades": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "new_content_type_id": 203016,
+    "new_content_subtype_id": 203016000,
+    "sceneDescription": null,
+    "listenUrlSingle": null,
+    "listenSecondsSingle": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "newContentTypeId": 203016,
+    "newContentSubtypeId": 203016000,
+    "majorContentType": {
+      "nid": 203016,
+      "name": "考试口语题"
+    },
+    "contentType": {
+      "nid": 203016000,
+      "name": "短文朗读"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312931194728-9",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068575414",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "knowledgePoints2018": [
+      {
+        "id": "KP_20300165827484",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300245547911-9"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030060,
+    "difficultyInt": 4,
+    "description": "请听一遍短文，完成转述。你有2分钟的时间做转述准备。转述的开头已给出。",
+    "notFitMobile": 0,
+    "seconds": 300,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<br><table><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Time</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Lao She</td></tr><tr><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">1899</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">____in Beijing</td></tr><tr><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">____</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Went to a teacher's school</td></tr><tr><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">1924</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Went to England and taught____ at a college in London</td></tr><tr><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">1926</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Wrote his first____</td></tr><tr><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">1957</td><td valign=\"middle\" align=\"center\" style=\"border-color: rgb(0, 0, 0); word-break: break-word; border-width: 1px; border-style: solid;\" class=\"selectTdClass\">Wrote the____ Teahouse<br><br></td></tr></tbody></table>",
+          "answers": [],
+          "subContentTypeId": 18,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": 120,
+            "variables": [],
+            "keywords": [],
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": [
+              "Lao She was born in Beijing in eighteen ninety nine. ",
+              " His real name is Shu Qingchun. His family was poor after his father died. His mother sent him to a teacher's school in nineteen thirteen. After finishing school he worked as a teacher in a primary school. | In nineteen thirteen, he went to a teacher's school. | He went to a teacher's school in nineteen thirteen. | His mother sent him to a teacher's school in nineteen thirteen. After finishing school he worked as a teacher in a primary school. | His mother sent him to a teacher's school in nineteen thirteen.",
+              "In nineteen twenty four, Lao She went to England. He taught Chinese at a college in London. He had three children, one son and two daughters.  | In nineteen twenty four, he went to England and taught Chinese at a college in London. | He went to England and taught Chinese at a college in London in nineteen twenty four. | In nineteen twenty four, Lao She went to England. He taught Chinese at a college in London. ",
+              "Lao She always liked writing.In nineteen twenty six, he wrote his first novel. | He wrote his first novel in nineteen twenty six. ",
+              " In nineteen fifty seven, he wrote the play Teahouse. He was famous for the play Teahouse. Most people like the play. | In nineteen fifty seven, he wrote the play Teahouse. | He wrote the play Teahouse in nineteen fifty seven. |  In nineteen twenty six, he wrote his first novel. In nineteen fifty seven, he wrote the play Teahouse."
+            ],
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "http://cdn.17zuoye.com/fs-resource/57903ae52ed9b669d997d71a",
+            "scorePercentage": 1,
+            "readySeconds": 120,
+            "listenFile": {
+              "fileId": "5b448d378074a494d6b378e8",
+              "url": "http://cdn.17zuoye.com/fs-resource/5b448d378074a494d6b378e8.sy3",
+              "filename": "252.mp3",
+              "seconds": 51,
+              "urlSingle": "http://cdn.17zuoye.com/fs-tts/5b5953adcb6bbb79a88b4699",
+              "secondsSingle": 48
+            },
+            "contentDesc": "Lao She was born in Beijing in 1899. His real name is Shu&nbsp;<a href=\"http://zytiku.17zuoye.com/spell-checker/white-list\" target=\"_blank\" _href=\"http://zytiku.17zuoye.com/spell-checker/white-list\">Qingchun</a>. His family was poor after his father died. His mother sent him to a teacher's school in 1913. After finishing school he worked as a teacher in a primary school. In 1924, Lao She went to England. He taught Chinese at a college in London. He had three children, one son and two daughters. Lao She always liked writing. In 1926, he wrote his first novel. In 1957, he wrote the play&nbsp;Teahouse. He was famous for the play&nbsp;Teahouse. Most people like the play.",
+            "answers": [
+              {
+                "answer": "Lao She was born in Beijing in 1899. His real name is Shu&nbsp;<a href=\"http://zytiku.17zuoye.com/spell-checker/white-list\" target=\"_blank\" _href=\"http://zytiku.17zuoye.com/spell-checker/white-list\">Qingchun</a>. His family was poor after his father died. His mother sent him to a teacher's school in 1913. After finishing school he worked as a teacher in a primary school. In 1924, Lao She went to England. He taught Chinese at a college in London. He had three children, one son and two daughters. Lao She always liked writing. In 1926, he wrote his first novel. In 1957, he wrote the play&nbsp;Teahouse. He was famous for the play&nbsp;Teahouse. Most people like the play.",
+                "listenFile": {
+                  "fileId": "",
+                  "url": "",
+                  "filename": "",
+                  "seconds": null,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                }
+              }
+            ],
+            "voiceTextsNew": null,
+            "jsgf": "{\"DisplayText\":\"Lao She was born in Beijing in eighteen ninety nine His real name is Shu Qingchun His family was poor after his father died His mother sent him to a teacher's school in nineteen thirteen After finishing school he worked as a teacher in a primary school | In nineteen thirteen he went to a teacher's school | He went to a teacher's school in nineteen thirteen | His mother sent him to a teacher's school in nineteen thirteen After finishing school he worked as a teacher in a primary school | His mother sent him to a teacher's school in nineteen thirteen In nineteen twenty four Lao She went to England He taught Chinese at a college in London He had three children one son and two daughters | In nineteen twenty four he went to England and taught Chinese at a college in London | He went to England and taught Chinese at a college in London in nineteen twenty four | In nineteen twenty four Lao She went to England He taught Chinese at a college in London Lao She always liked writing In nineteen twenty six he wrote his first novel | He wrote his first novel in nineteen twenty six In nineteen fifty seven he wrote the play Teahouse He was famous for the play Teahouse Most people like the play | In nineteen fifty seven he wrote the play Teahouse | He wrote the play Teahouse in nineteen fifty seven | In nineteen twenty six he wrote his first novel In nineteen fifty seven he wrote the play Teahouse\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"((Lao She was born in Beijing in eighteen ninety nine) (His real name is Shu Qingchun His family was poor after his father died His mother sent him to a teacher's school in nineteen thirteen After finishing school he worked as a teacher in a primary school | In nineteen thirteen he went to a teacher's school | He went to a teacher's school in nineteen thirteen | His mother sent him to a teacher's school in nineteen thirteen After finishing school he worked as a teacher in a primary school | His mother sent him to a teacher's school in nineteen thirteen) (In nineteen twenty four Lao She went to England He taught Chinese at a college in London He had three children one son and two daughters | In nineteen twenty four he went to England and taught Chinese at a college in London | He went to England and taught Chinese at a college in London in nineteen twenty four | In nineteen twenty four Lao She went to England He taught Chinese at a college in London) (Lao She always liked writing In nineteen twenty six he wrote his first novel | He wrote his first novel in nineteen twenty six) (In nineteen fifty seven he wrote the play Teahouse He was famous for the play Teahouse Most people like the play | In nineteen fifty seven he wrote the play Teahouse | He wrote the play Teahouse in nineteen fifty seven | In nineteen twenty six he wrote his first novel In nineteen fifty seven he wrote the play Teahouse))\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ],
+      "listenUrlSingle": null
+    },
+    "docId": "Q_20312931194728",
+    "version": 9,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303240,
+    "tagCode": "LkClLArPaAr",
+    "createdAt": "2018-07-09T13:23:01.139+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-08-11T03:31:27.301+08:00",
+    "olUpdatedAt": "2018-08-20T19:19:23.030+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 7,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5b4304928074a432647841a3",
+      "url": "http://cdn.17zuoye.com/fs-resource/5b4304928074a432647841a3.sy3",
+      "filename": "51.mp3",
+      "seconds": 9,
+      "urlSingle": null,
+      "secondsSingle": null
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "localType": [
+      "LC_20300000099922"
+    ],
+    "localTypeObj": [
+      {
+        "id": "LC_20300000099922",
+        "subjectId": 203,
+        "newContentTypeId": 203016,
+        "newContentSubtypeId": 203016003,
+        "frontShowName": "听后转述",
+        "remark": "中考",
+        "isShowQuestion": true,
+        "isDefault": true,
+        "isAverageTotalAnswer_time": false,
+        "totalAnswerTime": 120,
+        "totalScore": 5,
+        "shortTextPlays": 1,
+        "prepareTimeBefore": 5,
+        "prepareTimeTotal": 120,
+        "questions": [
+          {
+            "qs_score": 5,
+            "blank_count": [],
+            "prepare_time": 120,
+            "question_plays": 0
+          }
+        ],
+        "region": {
+          "province_id": 110000,
+          "city_id": 110100
+        },
+        "chapInfos": [
+          {
+            "chap_info": "请再听一遍短文，完成转述。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b30e36e8451d7a5c440e6bf.sy3",
+            "seconds": 3,
+            "file_id": "5b30e36e8451d7a5c440e6bf",
+            "file_name": "1.mp3"
+          },
+          {
+            "chap_info": "",
+            "chap_info_url": "",
+            "seconds": 0,
+            "file_id": "",
+            "file_name": ""
+          },
+          {
+            "chap_info": "下面，你有2分钟的时间做转述准备。转述的开头已给出。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b30e3728074a4905a5c2869.sy3",
+            "seconds": 6,
+            "file_id": "5b30e3728074a4905a5c2869",
+            "file_name": "1.mp3"
+          }
+        ],
+        "createdAt": "2018-06-23 13:29:07.718",
+        "updatedAt": "2018-08-30 07:18:49.291",
+        "grades": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "new_content_type_id": 203016,
+    "new_content_subtype_id": 203016003,
+    "sceneDescription": null,
+    "listenUrlSingle": null,
+    "listenSecondsSingle": 0,
+    "tags": [],
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "deletedTrue": false,
+    "newContentTypeId": 203016,
+    "newContentSubtypeId": 203016003,
+    "majorContentType": {
+      "nid": 203016,
+      "name": "考试口语题"
+    },
+    "contentType": {
+      "nid": 203016003,
+      "name": "信息转述"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312924384931-14",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300165866599",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "knowledgePoints2018": [],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/5b836cf5fb6dec8dc55861ff.sy3",
+    "listenName": null,
+    "listenSeconds": 44,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300214627398-9"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030060,
+    "difficultyInt": 5,
+    "description": "听短文，然后根据所听内容和提示信息进行转述。下面，你有2分钟的时间做转述准备。转述的开头已给出。",
+    "notFitMobile": 0,
+    "seconds": 297,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p></p><p><br></p><table data-sort=\"sortDisabled\"><tbody><tr class=\"firstRow\"><td valign=\"top\" rowspan=\"1\" colspan=\"2\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\">Sports   are good for people's <mark type=\"blank\"></mark>_____ and make them happy.</td></tr><tr><td valign=\"top\" rowspan=\"3\" colspan=\"1\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\">sports</td><td valign=\"top\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\">_____   is very popular around the world.</td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\">People   in all countries near the sea or with many rivers prefer _____.</td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\">Basketball   is a rather _____ sport.</td></tr><tr><td valign=\"top\" style=\"word-break: break-word; border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid;\" rowspan=\"1\" colspan=\"2\">People   often become good _____ after a game.</td></tr></tbody></table>转述的开头已给出:All over the world people enjoy sports.<p><span style=\"  white-space: normal;\"></span><br></p>",
+          "answers": [],
+          "subContentTypeId": 18,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": 120,
+            "variables": [
+              "<a>=around the world|over all the world"
+            ],
+            "keywords": [],
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": [
+              "All over the world people enjoy sports. Sports are good for people's health and make them happy.|All over the world people enjoy sports. Sports are good for people's health and make them happy. There are different kinds of sports.|All over the world people enjoy sports. Sports are good for people's health and make them happy. People play different sports in winter and in summer.|All over the world people enjoy sports. Sports are good for people's health and make them happy. People play different sports in different seasons.| All over the world people enjoy sports. Sports are good for people's health and make them happy. People play different sports in different seasons. Some sports are so interesting that people everywhere play them.",
+              "Football is very popular <a>.",
+              "People in all countries near the sea or with many rivers prefer swimming.|People near the sea or with many rivers prefer swimming.",
+              "And basketball is a rather new sport. People often become good friends after a game.|Some sports or games like running and jumping go back to thousands of years ago. Basketball is a rather new sport. People often become good friends after a game.|Some sports or games like running and jumping go back to thousands of years ago. Basketball is a rather new sport. People from different countries may not be able to understand each other, but they often become good friends after a game."
+            ],
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "http://cdn.17zuoye.com/fs-resource/57903ae52ed9b669d997d71a",
+            "scorePercentage": 1,
+            "readySeconds": 120,
+            "listenFile": {
+              "fileId": "5b7023aa8074a4e77647e517",
+              "url": "http://cdn.17zuoye.com/fs-resource/5b7023aa8074a4e77647e517.sy3",
+              "filename": "9.mp3",
+              "seconds": 46,
+              "urlSingle": null,
+              "secondsSingle": null
+            },
+            "contentDesc": "​All over the world people enjoy sports. Sports are good for people's health and make them happy. People play different sports in winter and in summer. Some sports are so interesting that people everywhere play them.<p>Football, for example, is very popular around the world. People in all countries near the sea or with many rivers prefer swimming. Some sports or games like running and jumping can go back to thousands of years ago. But basketball and volleyball are rather new.</p><p>People from different countries may not be able to understand each other, but they often become good friends after a game.</p>",
+            "answers": [
+              {
+                "answer": "​All over the world people enjoy sports. Sports are good for people’s health and make them happy. People play different sports in different seasons. Some sports are so interesting that people everywhere play them. Football is very popular all over the world.&nbsp;People in all countries near the sea or with many rivers prefer swimming.&nbsp;Some sports or games like running and jumping go back to thousands of years ago.&nbsp;Basketball is a rather new sport.&nbsp;People from different countries may not be able to understand each other, but&nbsp;they often become good friends after a game.",
+                "listenFile": {
+                  "fileId": "",
+                  "url": "",
+                  "filename": "",
+                  "seconds": null,
+                  "urlSingle": null,
+                  "secondsSingle": null
+                }
+              }
+            ],
+            "voiceTextsNew": null,
+            "jsgf": "{\"DisplayText\": \"All over the world people enjoy sports Sports are good for people's health and make them happy |All over the world people enjoy sports Sports are good for people's health and make them happy There are different kinds of sports |All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in winter and in summer |All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in different seasons | All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in different seasons Some sports are so interesting that people everywhere play them Football is very popular <a> People in all countries near the sea or with many rivers prefer swimming |People near the sea or with many rivers prefer swimming And basketball is a rather new sport People often become good friends after a game |Some sports or games like running and jumping go back to thousands of years ago Basketball is a rather new sport People often become good friends after a game |Some sports or games like running and jumping go back to thousands of years ago Basketball is a rather new sport People from different countries may not be able to understand each other but they often become good friends after a game\", \"Grammar\": \"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"((All over the world people enjoy sports Sports are good for people's health and make them happy |All over the world people enjoy sports Sports are good for people's health and make them happy There are different kinds of sports |All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in winter and in summer |All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in different seasons | All over the world people enjoy sports Sports are good for people's health and make them happy People play different sports in different seasons Some sports are so interesting that people everywhere play them) (Football is very popular <a>) (People in all countries near the sea or with many rivers prefer swimming |People near the sea or with many rivers prefer swimming) (And basketball is a rather new sport People often become good friends after a game |Some sports or games like running and jumping go back to thousands of years ago Basketball is a rather new sport People often become good friends after a game |Some sports or games like running and jumping go back to thousands of years ago Basketball is a rather new sport People from different countries may not be able to understand each other but they often become good friends after a game))\\\"</s>\\\";\\n<a>=(around the world|over all the world);\", \"GrammarWeight\": \"\", \"Version\": 1}",
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ],
+      "listenUrlSingle": null
+    },
+    "docId": "Q_20312924384931",
+    "version": 14,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303240,
+    "tagCode": "LkClLArPaAr",
+    "createdAt": "2018-06-26T14:59:52.497+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-08-30T11:41:44.199+08:00",
+    "olUpdatedAt": "2018-08-31T10:13:32.435+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 7,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5b3444a28074a458e3201a76",
+      "url": "http://cdn.17zuoye.com/fs-resource/5b3444a28074a458e3201a76.sy3",
+      "filename": "audio.mp3",
+      "seconds": 11,
+      "urlSingle": null,
+      "secondsSingle": null
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "localType": [
+      "LC_20300000099922"
+    ],
+    "localTypeObj": [
+      {
+        "id": "LC_20300000099922",
+        "subjectId": 203,
+        "newContentTypeId": 203016,
+        "newContentSubtypeId": 203016003,
+        "frontShowName": "听后转述",
+        "remark": "中考",
+        "isShowQuestion": true,
+        "isDefault": true,
+        "isAverageTotalAnswer_time": false,
+        "totalAnswerTime": 120,
+        "totalScore": 5,
+        "shortTextPlays": 1,
+        "prepareTimeBefore": 5,
+        "prepareTimeTotal": 120,
+        "questions": [
+          {
+            "qs_score": 5,
+            "blank_count": [],
+            "prepare_time": 120,
+            "question_plays": 0
+          }
+        ],
+        "region": {
+          "province_id": 110000,
+          "city_id": 110100
+        },
+        "chapInfos": [
+          {
+            "chap_info": "请再听一遍短文，完成转述。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b30e36e8451d7a5c440e6bf.sy3",
+            "seconds": 3,
+            "file_id": "5b30e36e8451d7a5c440e6bf",
+            "file_name": "1.mp3"
+          },
+          {
+            "chap_info": "",
+            "chap_info_url": "",
+            "seconds": 0,
+            "file_id": "",
+            "file_name": ""
+          },
+          {
+            "chap_info": "下面，你有2分钟的时间做转述准备。转述的开头已给出。",
+            "chap_info_url": "http://cdn.17zuoye.com/fs-resource/5b30e3728074a4905a5c2869.sy3",
+            "seconds": 6,
+            "file_id": "5b30e3728074a4905a5c2869",
+            "file_name": "1.mp3"
+          }
+        ],
+        "createdAt": "2018-06-23 13:29:07.718",
+        "updatedAt": "2018-08-30 07:18:49.291",
+        "grades": [
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "new_content_type_id": 203016,
+    "new_content_subtype_id": 203016003,
+    "sceneDescription": null,
+    "listenUrlSingle": null,
+    "listenSecondsSingle": 0,
+    "tags": [],
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "deletedTrue": false,
+    "newContentTypeId": 203016,
+    "newContentSubtypeId": 203016003,
+    "majorContentType": {
+      "nid": 203016,
+      "name": "考试口语题"
+    },
+    "contentType": {
+      "nid": 203016003,
+      "name": "信息转述"
+    },
+    "isUsed": false
+  }
+]

@@ -1,0 +1,90 @@
+{
+    "success": true,
+    "data": {
+        "ancestor": {
+            "_id": "BK_20300002599861",
+            "name": "2017-大家说英语",
+            "cover_url": "http://cdn-static-shared.test.17zuoye.net//fs-resource/58bd26a02ed9b62aacd7095e.png",
+            "clazz_level": 7,
+            "series_id": "BKC_20300080118358",
+            "term_type": 0
+        },
+        "ancestor_type": "CLASSIC_BOOK",
+        "ancestor_title": "教材",
+        "first_level_nodes": [
+            {
+                "_id": "BKC_20300135554760",
+                "name": "MARCH 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300137034562",
+                "name": "APRIL 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300137872758",
+                "name": "MAY 2017",
+                "has_child": true,
+                "selected": true,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300141594845",
+                "name": "JUNE 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300195153447",
+                "name": "JULY 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300194699984",
+                "name": "AUGUST 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300199263646",
+                "name": "SEPTEMBER 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300201433725",
+                "name": "OCTOBER 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300203875305",
+                "name": "NOVEMBER 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            },
+            {
+                "_id": "BKC_20300206685954",
+                "name": "DECEMBER 2017",
+                "has_child": true,
+                "selected": false,
+                "tip": ""
+            }
+        ],
+        "first_level_title": "内容"
+    },
+    "message": "",
+    "error_code": 0
+}

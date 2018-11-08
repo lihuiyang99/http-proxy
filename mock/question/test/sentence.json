@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "Q_20312511719301-3",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": null,
+        "termType": 0,
+        "classLevel": 9,
+        "bookEmpty": false,
+        "bookNotEmpty": true
+      }
+    ],
+    "contentTypeId": 2031013,
+    "contentType2Id": 2031025,
+    "difficultyInt": 3,
+    "description": "根据所给词或短语连词成句。",
+    "notFitMobile": 0,
+    "seconds": 10,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "__$$__ __$$__ __$$__ __$$__ __$$__ __$$__",
+          "answers": [
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "4",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "5",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "2",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "3",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            },
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": null,
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 10,
+          "analysis": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "nervous.",
+              "file": null
+            },
+            {
+              "option": "The",
+              "file": null
+            },
+            {
+              "option": "makes",
+              "file": null
+            },
+            {
+              "option": "me",
+              "file": null
+            },
+            {
+              "option": "loud",
+              "file": null
+            },
+            {
+              "option": "music",
+              "file": null
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a7ac1100365c6d1558b459c",
+          "listenName": "",
+          "listenSeconds": 2,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": "吵闹的音乐使我紧张。"
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "answerList": [
+            "1",
+            "4",
+            "5",
+            "2",
+            "3",
+            "0"
+          ]
+        }
+      ]
+    },
+    "docId": "Q_20312511719301",
+    "version": 3,
+    "wordId": "5a978083b1e48a1cf8931d53",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-19T11:42:06.592+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-19T12:51:18.976+08:00",
+    "olUpdatedAt": "2018-04-19T12:51:18.976+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "1",
+        "4",
+        "5",
+        "2",
+        "3",
+        "0"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031013,
+      "name": "连词成句"
+    },
+    "contentType": {
+      "nid": 2031025,
+      "name": "句子拼写"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312511717576-3",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [],
+    "testMethods": null,
+    "solutionMethods": null,
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": null,
+        "termType": 0,
+        "classLevel": 9,
+        "bookEmpty": false,
+        "bookNotEmpty": true
+      }
+    ],
+    "contentTypeId": 2031011,
+    "contentType2Id": 2031027,
+    "difficultyInt": 3,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 25,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p>The loud music makes me nervous.</p><p>吵闹的音乐使我紧张。</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "The loud music makes me nervous.",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": "吵闹的音乐使我紧张。",
+                "voiceText": "The loud music makes me nervous.",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a7ac1100365c6d1558b459c",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        },
+        {
+          "content": "<p>Soft and quiet music makes me relax.</p><p>轻柔的音乐使我放松。</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "Soft and quiet music makes me relax.",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": "轻柔的音乐使我放松。",
+                "voiceText": "Soft and quiet music makes me relax.",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a7ac110e469c672268b473b",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        },
+        {
+          "content": "<p>Money and fame don't always make people happy.</p><p>金钱和名望并不总让人快乐。</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "Money and fame don't always make people happy.",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": "金钱和名望并不总让人快乐。",
+                "voiceText": "Money and fame don't always make people happy.",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a7ac111e469c626508b4738",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        },
+        {
+          "content": "<p>She said that the sad movie made her cry.</p><p>她说那部悲伤的电影使她哭了。</p>",
+          "answers": [],
+          "subContentTypeId": 14,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": null,
+                "text": "She said that the sad movie made her cry.",
+                "seconds": 10,
+                "roleType": null,
+                "cnText": "她说那部悲伤的电影使她哭了。",
+                "voiceText": "She said that the sad movie made her cry.",
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": "http://cdn.17zuoye.com/fs-tts/5a7ac1110365c66b3d8b45a8",
+                "listenName": "",
+                "listenSeconds": "10",
+                "dialogRole": null,
+                "voiceTextsNew": null,
+                "listenFile": null,
+                "jsgf": null,
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": null
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        }
+      ]
+    },
+    "docId": "Q_20312511717576",
+    "version": 3,
+    "wordId": "5a978083b1e48a1cf8931d53",
+    "pictureUrl": null,
+    "tagId": null,
+    "tagCode": null,
+    "createdAt": "2018-04-19T11:42:06.456+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-19T12:51:18.881+08:00",
+    "olUpdatedAt": "2018-04-19T12:51:18.881+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": null,
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      [],
+      [],
+      [],
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031011,
+      "name": "跟读"
+    },
+    "contentType": {
+      "nid": 2031027,
+      "name": "句子跟读"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312480985990-3",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068536584",
+        "tagId": 0,
+        "main": 0,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": [
+      {
+        "seriesId": "BKC_20300054917450",
+        "bookId": "BK_20300001527663",
+        "unitId": "BKC_20300092927057",
+        "lessonId": "BKC_20300092928471",
+        "sectionId": null,
+        "termType": 0,
+        "classLevel": 9,
+        "bookEmpty": false,
+        "bookNotEmpty": true
+      }
+    ],
+    "contentTypeId": 2031021,
+    "contentType2Id": 2031026,
+    "difficultyInt": 3,
+    "description": null,
+    "notFitMobile": 0,
+    "seconds": 50,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "",
+          "answers": [],
+          "subContentTypeId": 23,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 20,
+          "exploreSeconds": 30,
+          "answersSeconds": 10,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": [
+              {
+                "name": "Jack",
+                "text": "Are you feeling okay? You look pale.",
+                "seconds": 5,
+                "roleType": 1,
+                "cnText": "你感觉还好吗？你看起来脸色苍白。",
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Are you feeling okay? You look pale."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5a7bb4bbe469c66b0f8b458f",
+                  "url": "http://cdn.17zuoye.com/fs-tts/5a7bb4bbe469c66b0f8b458f",
+                  "filename": "5a7bb4bbe469c66b0f8b458f.sy3",
+                  "seconds": 3
+                },
+                "jsgf": "{\"DisplayText\":\"Are you feeling okay You look pale\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Are you feeling okay You look pale)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": "http://cdn.17zuoye.com/fs-resource/5a9155afb1e48a3e09c9a55b.png"
+              },
+              {
+                "name": "Lily",
+                "text": "I got my exam result back, but I didn't answer the exam questions very well. It makes me sad. And the cloudy and grey days make me uncomfortable.",
+                "seconds": 14,
+                "roleType": 2,
+                "cnText": "我的考试成绩出来了，我考得不太好。这使我很伤心。而且这阴沉的天让我觉得很不舒服。",
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "I got my exam result back, but I didn't answer the exam questions very well. It makes me sad. And the cloudy and grey days make me uncomfortable."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5a7b0eebe469c6e71b8b45a2",
+                  "url": "http://cdn.17zuoye.com/fs-tts/5a7b0eebe469c6e71b8b45a2",
+                  "filename": "5a7b0eebe469c6e71b8b45a2.sy3",
+                  "seconds": 12
+                },
+                "jsgf": "{\"DisplayText\":\"I got my exam result back but I didn't answer the exam questions very well It makes me sad And the cloudy and grey days make me uncomfortable\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(I got my exam result back but I didn't answer the exam questions very well It makes me sad And the cloudy and grey days make me uncomfortable)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": "http://cdn.17zuoye.com/fs-resource/5a915535b1e48a3e0c0e104a.png"
+              },
+              {
+                "name": "Jack",
+                "text": "It's OK. You can do it better next time.",
+                "seconds": 5,
+                "roleType": 1,
+                "cnText": "没关系的，下次你可以做得更好。",
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "It's OK. You can do it better next time."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5a7bf85e0365c60c708b45e6",
+                  "url": "http://cdn.17zuoye.com/fs-tts/5a7bf85e0365c60c708b45e6",
+                  "filename": "5a7bf85e0365c60c708b45e6.sy3",
+                  "seconds": 3
+                },
+                "jsgf": "{\"DisplayText\":\"It's OK You can do it better next time\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(It's OK You can do it better next time)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": "http://cdn.17zuoye.com/fs-resource/5a9155afb1e48a3e09c9a55b.png"
+              },
+              {
+                "name": "Lily",
+                "text": "Thank you, Lucy. I hope so.",
+                "seconds": 4,
+                "roleType": 2,
+                "cnText": "谢谢你，露西。我希望如此。",
+                "voiceText": null,
+                "voiceTexts": null,
+                "sentencePatterns": null,
+                "listenUrl": null,
+                "listenName": null,
+                "listenSeconds": null,
+                "dialogRole": null,
+                "voiceTextsNew": [
+                  [
+                    "Thank you, Lucy. I hope so."
+                  ]
+                ],
+                "listenFile": {
+                  "fileId": "5a7b0eebe469c6691e8b4580",
+                  "url": "http://cdn.17zuoye.com/fs-tts/5a7b0eebe469c6691e8b4580",
+                  "filename": "5a7b0eebe469c6691e8b4580.sy3",
+                  "seconds": 2
+                },
+                "jsgf": "{\"DisplayText\":\"Thank you Lucy I hope so\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Thank you Lucy I hope so)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+                "voiceStart": null,
+                "voiceEnd": null,
+                "icon": "http://cdn.17zuoye.com/fs-resource/5a915535b1e48a3e0c0e104a.png"
+              }
+            ],
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": "",
+            "picName": "",
+            "beginListenUrl": "",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": "下次加油，失败是成功的麻麻！",
+            "sceneName": "考试失利求安慰"
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "tagsDesc": [],
+          "knowledgePointsList": [],
+          "answerList": []
+        }
+      ]
+    },
+    "docId": "Q_20312480985990",
+    "version": 3,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 0,
+    "tagCode": null,
+    "createdAt": "2018-03-02T11:58:54.568+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-04-26T17:20:38.137+08:00",
+    "olUpdatedAt": "2018-04-26T17:20:38.137+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 2,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": [
+      {
+        "name": "SpatialImagination",
+        "stars": 0
+      },
+      {
+        "name": "AbstractSummarizing",
+        "stars": 0
+      },
+      {
+        "name": "DeductiveReasoning",
+        "stars": 0
+      },
+      {
+        "name": "SolvingArithmetic",
+        "stars": 0
+      },
+      {
+        "name": "DataHandling",
+        "stars": 0
+      },
+      {
+        "name": "PracticalApplication",
+        "stars": 0
+      }
+    ],
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031021,
+      "name": "口语题"
+    },
+    "contentType": {
+      "nid": 2031026,
+      "name": "情景对话(推荐)"
+    },
+    "isUsed": false
+  }
+]

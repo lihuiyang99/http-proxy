@@ -1,0 +1,3064 @@
+{
+    "success": true,
+    "data": {
+        "unique_key": "f9327fcb3369090c6176f09f9f9f9145",
+        "condition_params": {
+            "clazz_bkc_map": {
+                "13617": [
+                    "BKC_20300076044009"
+                ],
+                "13618": [
+                    "BKC_20300076044009"
+                ],
+                "13996": [
+                    "BKC_20300076044009"
+                ],
+                "13997": [
+                    "BKC_20300076044009"
+                ],
+                "60616": [
+                    "BKC_20300076044009"
+                ],
+                "80265": [
+                    "BKC_20300076044009"
+                ],
+                "109946": [
+                    "BKC_20300076044009"
+                ],
+                "109947": [
+                    "BKC_20300076044009"
+                ]
+            },
+            "book_id": "BK_20300001479700",
+            "type": "JENGLISH_GRAMMARS_BASE"
+        },
+        "category": {
+            "source_type": "SYNC_GRAMMAR_SENTENCE",
+            "type": "sync",
+            "name": "语法",
+            "book_id": "BK_20300001479700",
+            "catalog_id": "BKC_20300076044009",
+            "pak_type": "JENGLISH_GRAMMARS_BASE",
+            "index": 0,
+            "question_cnt": 20,
+            "category_id": "f9327fcb3369090c6176f09f9f9f9145"
+        },
+        "difficulty": 2,
+        "knowledge_points_list": {
+            "KP_20300052074411": "在学科名称、三餐、球类和棋类名词前用零冠词",
+            "KP_20300067498626": "have+某餐",
+            "KP_20300052064206": "定冠词用在西洋乐器前",
+            "KP_20300052343714": "含情态动词的一般疑问句",
+            "KP_20300065812394": "情态动词的一般用法—can",
+            "KP_20300063879907": "dance",
+            "KP_20300065890154": "be动词的一般现在时-肯定句",
+            "KP_20300065980354": "be动词—am",
+            "KP_20300052391259": "there be的主谓一致—多个主语的就近原则",
+            "KP_20300065981405": "be动词—is",
+            "KP_20300057650817": "tell (告诉)",
+            "KP_20300067770781": "be good with",
+            "KP_20300065892114": "be动词的一般现在时-一般疑问句及其肯定及否定回答",
+            "KP_20300052378547": "there be的肯定句",
+            "KP_20300065982190": "be动词—are",
+            "KP_20300052390058": "there be的主谓一致—单一主语",
+            "KP_20300051741422": "可数名词复数规则变化-一般情况",
+            "KP_20300073523476": "many+可数名词复数",
+            "KP_20300064343066": "club",
+            "KP_20300074280167": "what+名词",
+            "KP_20300065915375": "简单句—特殊疑问句—疑问代词—what",
+            "KP_20300067445521": "want to do sth.",
+            "KP_20300061497400": "join (加入)",
+            "KP_20300052380639": "there be的一般疑问句及其肯定及否定回答",
+            "KP_20300065470061": "any",
+            "KP_20300060769800": "milk (牛奶；乳状物 n.)",
+            "KP_20300065891797": "be动词的一般现在时-否定句",
+            "KP_20300060377485": "not",
+            "KP_20300068618903": "be作助动词—is",
+            "KP_20300068889701": "助动词的主谓一致",
+            "KP_20300052346554": "简单句—特殊疑问句—疑问代词—who",
+            "KP_20300071148498": "What (...) would sb. like?",
+            "KP_20300068888887": "系动词的主谓一致"
+        },
+        "question_boxes": [
+            {
+                "questions": [
+                    {
+                        "used": true,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20308829356461-2",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052074411",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "在学科名称、三餐、球类和棋类名词前用零冠词"
+                                },
+                                {
+                                    "id": "KP_20300067498626",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "have+某餐"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031004,
+                            "content_type_2_id": 2030013,
+                            "difficulty_int": 1,
+                            "description": "单项选择",
+                            "seconds": 28,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>We sit and have <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span> lunch.</p>",
+                                        "sub_content_type_id": 1,
+                                        "option_type": "word",
+                                        "options": [
+                                            "a",
+                                            "the",
+                                            "one",
+                                            "/"
+                                        ],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052074411",
+                                                "KP_20300067498626"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20303137,
+                            "tag_code": "B01X4",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031004,
+                                "name": "选择题",
+                                "deleted_true": false,
+                                "id": 2031004,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030013,
+                                "name": "单项选择",
+                                "deleted_true": false,
+                                "id": 2030013,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": true,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20300777072125-4",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052074411",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "在学科名称、三餐、球类和棋类名词前用零冠词"
+                                },
+                                {
+                                    "id": "KP_20300052064206",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "定冠词用在西洋乐器前"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031004,
+                            "content_type_2_id": 2030013,
+                            "difficulty_int": 1,
+                            "description": "从下面各题所给选项中，选择最佳选项。",
+                            "seconds": 10,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "Her sister can play _____ piano, but she can't play _____ basketball.",
+                                        "sub_content_type_id": 1,
+                                        "option_type": "word",
+                                        "options": [
+                                            "the; the",
+                                            "/; the",
+                                            "the; /",
+                                            "/; /"
+                                        ],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": [],
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052074411",
+                                                "KP_20300052064206"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20303137,
+                            "tag_code": "B01X4",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031004,
+                                "name": "选择题",
+                                "deleted_true": false,
+                                "id": 2031004,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030013,
+                                "name": "单项选择",
+                                "deleted_true": false,
+                                "id": 2030013,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312218366907-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052343714",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "含情态动词的一般疑问句"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031004,
+                            "content_type_2_id": 2030013,
+                            "difficulty_int": 2,
+                            "description": "从下面各题所给选项中，选择最佳选项。",
+                            "seconds": 28,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>—Can you play basketball?</p><p>—_____. I think it's easy. </p>",
+                                        "sub_content_type_id": 1,
+                                        "option_type": "sentence",
+                                        "options": [
+                                            "<span style=\"white-space: normal;\">Yes. I can't </span>",
+                                            "<span style=\"white-space: normal;\">No, I can't </span>",
+                                            "<span style=\"white-space: normal;\">Yes, I can </span>",
+                                            "<span style=\"white-space: normal;\">No, I don't</span>"
+                                        ],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052343714"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20303137,
+                            "tag_code": "B01X4",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031004,
+                                "name": "选择题",
+                                "deleted_true": false,
+                                "id": 2031004,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030013,
+                                "name": "单项选择",
+                                "deleted_true": false,
+                                "id": 2030013,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20308835624858-2",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052074411",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "在学科名称、三餐、球类和棋类名词前用零冠词"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031004,
+                            "content_type_2_id": 2030013,
+                            "difficulty_int": 2,
+                            "description": "从下面各题所给选项中，选择最佳选项。",
+                            "seconds": 9,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "Can you play _____ basketball?",
+                                        "sub_content_type_id": 1,
+                                        "option_type": "word",
+                                        "options": [
+                                            "a",
+                                            "the",
+                                            "/",
+                                            "an"
+                                        ],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052074411"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20303137,
+                            "tag_code": "B01X4",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031004,
+                                "name": "选择题",
+                                "deleted_true": false,
+                                "id": 2031004,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030013,
+                                "name": "单项选择",
+                                "deleted_true": false,
+                                "id": 2030013,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20308851177841-3",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052064206",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "定冠词用在西洋乐器前"
+                                },
+                                {
+                                    "id": "KP_20300052074411",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "在学科名称、三餐、球类和棋类名词前用零冠词"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031004,
+                            "content_type_2_id": 2030013,
+                            "difficulty_int": 2,
+                            "description": "从下面各题所给选项中，选择最佳选项。",
+                            "seconds": 28,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "He likes playing _____ piano and he can play _____ tennis.",
+                                        "sub_content_type_id": 1,
+                                        "option_type": "word",
+                                        "options": [
+                                            "the; the",
+                                            "the; /",
+                                            "/; /",
+                                            "/; the"
+                                        ],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052064206",
+                                                "KP_20300052074411"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20303137,
+                            "tag_code": "B01X4",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031004,
+                                "name": "选择题",
+                                "deleted_true": false,
+                                "id": 2031004,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030013,
+                                "name": "单项选择",
+                                "deleted_true": false,
+                                "id": 2030013,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312168423775-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065812394",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "情态动词的一般用法—can"
+                                },
+                                {
+                                    "id": "KP_20300063879907",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "dance"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030023,
+                            "difficulty_int": 3,
+                            "description": "根据所给的中文提示填空。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "I can sing, but I can't __$$__(跳舞).",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065812394",
+                                                "KP_20300063879907"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304123,
+                            "tag_code": "F01T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030023,
+                                "name": "根据首字母、中文提示填空",
+                                "deleted_true": false,
+                                "id": 2030023,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20301161765145-9",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065812394",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "情态动词的一般用法—can"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030016,
+                            "difficulty_int": 1,
+                            "description": "请根据句子意思，用所给单词的适当形式填空。",
+                            "seconds": 15,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "Mike likes music and he can __$$__(sing) many songs.",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065812394"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304127,
+                            "tag_code": "F05T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030016,
+                                "name": "用所给单词（正确形式）填空",
+                                "deleted_true": false,
+                                "id": 2030016,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20301185242747-10",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065890154",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词的一般现在时-肯定句"
+                                },
+                                {
+                                    "id": "KP_20300065980354",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—am"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030016,
+                            "difficulty_int": 1,
+                            "description": "请根据句子意思，用所给单词的适当形式填空。",
+                            "seconds": 16,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "I __$$__ (be) your new friend.",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065890154",
+                                                "KP_20300065980354"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304127,
+                            "tag_code": "F05T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030016,
+                                "name": "用所给单词（正确形式）填空",
+                                "deleted_true": false,
+                                "id": 2030016,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20305450381470-5",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052391259",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的主谓一致—多个主语的就近原则"
+                                },
+                                {
+                                    "id": "KP_20300065981405",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—is"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030016,
+                            "difficulty_int": 1,
+                            "description": "请根据句子意思，用所给单词的适当形式填空。",
+                            "seconds": 16,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "There __$$__ (be) a math book and two CDs on the table.",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052391259",
+                                                "KP_20300065981405"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304127,
+                            "tag_code": "F05T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030016,
+                                "name": "用所给单词（正确形式）填空",
+                                "deleted_true": false,
+                                "id": 2030016,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20301095904151-10",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065812394",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "情态动词的一般用法—can"
+                                },
+                                {
+                                    "id": "KP_20300057650817",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "tell (告诉)"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030016,
+                            "difficulty_int": 1,
+                            "description": "请根据句子意思，用所给单词的适当形式填空。",
+                            "seconds": 14,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "Can you __$$__ (tell) me your phone number?",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065812394",
+                                                "KP_20300057650817"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304127,
+                            "tag_code": "F05T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030016,
+                                "name": "用所给单词（正确形式）填空",
+                                "deleted_true": false,
+                                "id": 2030016,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312394429773-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065981405",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—is"
+                                },
+                                {
+                                    "id": "KP_20300067770781",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be good with"
+                                },
+                                {
+                                    "id": "KP_20300065892114",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词的一般现在时-一般疑问句及其肯定及否定回答"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031008,
+                            "content_type_2_id": 2030032,
+                            "difficulty_int": 2,
+                            "description": "根据所给中文意思完成句子，一空一词。",
+                            "seconds": 80,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>你哥哥对你好吗？</p><p>__$$__ your brother __$$__ __$$__ you?</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065981405",
+                                                "KP_20300067770781",
+                                                "KP_20300065892114"
+                                            ],
+                                            [
+                                                "KP_20300067770781"
+                                            ],
+                                            [
+                                                "KP_20300067770781"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304250,
+                            "tag_code": "J01T3",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031008,
+                                "name": "翻译",
+                                "deleted_true": false,
+                                "id": 2031008,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030032,
+                                "name": "完成句子",
+                                "deleted_true": false,
+                                "id": 2030032,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312394434377-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052378547",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的肯定句"
+                                },
+                                {
+                                    "id": "KP_20300065982190",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—are"
+                                },
+                                {
+                                    "id": "KP_20300052390058",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的主谓一致—单一主语"
+                                },
+                                {
+                                    "id": "KP_20300051741422",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "可数名词复数规则变化-一般情况"
+                                },
+                                {
+                                    "id": "KP_20300073523476",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "many+可数名词复数"
+                                },
+                                {
+                                    "id": "KP_20300064343066",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "club"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031008,
+                            "content_type_2_id": 2030032,
+                            "difficulty_int": 2,
+                            "description": "根据所给中文意思完成句子，一空一词。",
+                            "seconds": 80,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>我们学校有很多俱乐部。</p><p>__$$__ __$$__ many __$$__ in our school.</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052378547"
+                                            ],
+                                            [
+                                                "KP_20300065982190",
+                                                "KP_20300052390058"
+                                            ],
+                                            [
+                                                "KP_20300051741422",
+                                                "KP_20300073523476",
+                                                "KP_20300064343066"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304250,
+                            "tag_code": "J01T3",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031008,
+                                "name": "翻译",
+                                "deleted_true": false,
+                                "id": 2031008,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030032,
+                                "name": "完成句子",
+                                "deleted_true": false,
+                                "id": 2030032,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312170399907-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300074280167",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "what+名词"
+                                },
+                                {
+                                    "id": "KP_20300065915375",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "简单句—特殊疑问句—疑问代词—what"
+                                },
+                                {
+                                    "id": "KP_20300064343066",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "club"
+                                },
+                                {
+                                    "id": "KP_20300067445521",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "want to do sth."
+                                },
+                                {
+                                    "id": "KP_20300061497400",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "join (加入)"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031008,
+                            "content_type_2_id": 2030032,
+                            "difficulty_int": 3,
+                            "description": "根据所给中文意思完成句子，一空一词。",
+                            "seconds": 80,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>你想加入什么俱乐部?</p><p>__$$__ __$$__ do you want to __$$__?</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300074280167",
+                                                "KP_20300065915375"
+                                            ],
+                                            [
+                                                "KP_20300064343066"
+                                            ],
+                                            [
+                                                "KP_20300067445521",
+                                                "KP_20300061497400"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304250,
+                            "tag_code": "J01T3",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031008,
+                                "name": "翻译",
+                                "deleted_true": false,
+                                "id": 2031008,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030032,
+                                "name": "完成句子",
+                                "deleted_true": false,
+                                "id": 2030032,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312384627676-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065981405",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—is"
+                                },
+                                {
+                                    "id": "KP_20300052380639",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的一般疑问句及其肯定及否定回答"
+                                },
+                                {
+                                    "id": "KP_20300065470061",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "any"
+                                },
+                                {
+                                    "id": "KP_20300060769800",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "milk (牛奶；乳状物 n.)"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031008,
+                            "content_type_2_id": 2030032,
+                            "difficulty_int": 3,
+                            "description": "根据所给中文意思完成句子，一空一词。",
+                            "seconds": 80,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>“杯子里有一些牛奶吗？\"</p><p>“是的，有。”</p><p>—__$$__ there __$$__ __$$__ in the glass?</p><p>—Yes, there is.</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065981405",
+                                                "KP_20300052380639"
+                                            ],
+                                            [
+                                                "KP_20300065470061"
+                                            ],
+                                            [
+                                                "KP_20300060769800"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304250,
+                            "tag_code": "J01T3",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031008,
+                                "name": "翻译",
+                                "deleted_true": false,
+                                "id": 2031008,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030032,
+                                "name": "完成句子",
+                                "deleted_true": false,
+                                "id": 2030032,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20311188622998-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065980354",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—am"
+                                },
+                                {
+                                    "id": "KP_20300065891797",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词的一般现在时-否定句"
+                                },
+                                {
+                                    "id": "KP_20300060377485",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "not"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 2,
+                            "description": "将下列句子改为否定句，一空一词。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>I am at home now. (改为否定句)</p><p>I __$$__ __$$__ at home now.</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065980354",
+                                                "KP_20300065891797"
+                                            ],
+                                            [
+                                                "KP_20300060377485"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304194,
+                            "tag_code": "G02T2",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20306305810376-4",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300065915375",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "简单句—特殊疑问句—疑问代词—what"
+                                },
+                                {
+                                    "id": "KP_20300068618903",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be作助动词—is"
+                                },
+                                {
+                                    "id": "KP_20300068889701",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "助动词的主谓一致"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 1,
+                            "description": "对下列句子划线部分提问，一空一词。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>The boy is running after <span style=\"text-decoration: underline;\">the dog</span>. (对划线部分提问）</p><p>__$$__ __$$__ the boy running after?</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300065915375"
+                                            ],
+                                            [
+                                                "KP_20300068618903",
+                                                "KP_20300068889701"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304201,
+                            "tag_code": "G04T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20301096320965-9",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052346554",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "简单句—特殊疑问句—疑问代词—who"
+                                },
+                                {
+                                    "id": "KP_20300065982190",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—are"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 1,
+                            "description": "对下列句子划线部分提问，一空一词。",
+                            "seconds": 22,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>They're <span style=\"text-decoration: underline;\">my grandparents.</span> (对划线部分提问)</p><p>__$$__ __$$__ they?</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052346554"
+                                            ],
+                                            [
+                                                "KP_20300065982190"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304201,
+                            "tag_code": "G04T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20302416566409-8",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300071148498",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "What (...) would sb. like?"
+                                },
+                                {
+                                    "id": "KP_20300065915375",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "简单句—特殊疑问句—疑问代词—what"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 1,
+                            "description": "对下列句子划线部分提问，一空一词。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p style=\"white-space: normal;\">Peter'd like <span style=\"text-decoration: underline;\">some chicken wings</span>. (对划线部分提问)</p><p style=\"white-space: normal;\">__$$__ __$$__ Peter like?</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300071148498",
+                                                "KP_20300065915375"
+                                            ],
+                                            [
+                                                "KP_20300071148498"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304201,
+                            "tag_code": "G04T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20312386314510-1",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052378547",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的肯定句"
+                                },
+                                {
+                                    "id": "KP_20300065982190",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "be动词—are"
+                                },
+                                {
+                                    "id": "KP_20300052390058",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "there be的主谓一致—单一主语"
+                                },
+                                {
+                                    "id": "KP_20300068888887",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "系动词的主谓一致"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 3,
+                            "description": "将下列句子改为同义句，一空一词。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>Our class has 60 students.(改为同义句)</p><p>__$$__ __$$__ 60 students in our class.</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [
+                                                "KP_20300052378547"
+                                            ],
+                                            [
+                                                "KP_20300065982190",
+                                                "KP_20300052390058",
+                                                "KP_20300068888887"
+                                            ]
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304206,
+                            "tag_code": "G05T2",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    },
+                    {
+                        "used": false,
+                        "assign_type": 3,
+                        "q": {
+                            "_id": "Q_20306158361401-5",
+                            "subject_id": 3,
+                            "knowledge_points_new": [
+                                {
+                                    "id": "KP_20300052343714",
+                                    "tag_id": 0,
+                                    "main": 1,
+                                    "feature_ids": [],
+                                    "name": "含情态动词的一般疑问句"
+                                }
+                            ],
+                            "test_methods": [],
+                            "solution_methods": [],
+                            "resource_ids": null,
+                            "listen_url": "",
+                            "listen_name": null,
+                            "listen_seconds": 0,
+                            "explore_seconds": 0,
+                            "answers_seconds": 0,
+                            "books": null,
+                            "content_type_id": 2031005,
+                            "content_type_2_id": 2030022,
+                            "difficulty_int": 1,
+                            "description": "作否定回答，一空一词。",
+                            "seconds": 40,
+                            "complex": 0,
+                            "single_book": null,
+                            "nid": null,
+                            "last_editor_id": null,
+                            "final_auditor_id": null,
+                            "rough_auditor_ids": null,
+                            "content": {
+                                "content": "",
+                                "sub_contents": [
+                                    {
+                                        "content": "<p>—Can Bill play the drums well? （作否定回答）</p><p>—__$$__, he __$$__.</p>",
+                                        "sub_content_type_id": 4,
+                                        "option_type": "word",
+                                        "options": [],
+                                        "hide_option_number": 0,
+                                        "listen_url": "",
+                                        "listen_name": "",
+                                        "listen_seconds": 0,
+                                        "explore_seconds": 0,
+                                        "answers_seconds": 0,
+                                        "oral_dict": {
+                                            "seconds": null,
+                                            "options": null,
+                                            "voice_text": null,
+                                            "pic_url": null,
+                                            "pic_name": null,
+                                            "begin_listen_url": null,
+                                            "end_listen_url": null,
+                                            "score_percentage": null,
+                                            "listen_file": null,
+                                            "content_desc": null,
+                                            "voice_texts_new": null,
+                                            "jsgf": null,
+                                            "video_url": null,
+                                            "video_cover_url": null,
+                                            "highlight_pos": null,
+                                            "scene_description": null,
+                                            "scene_name": null
+                                        },
+                                        "submit_ways": [
+                                            0
+                                        ],
+                                        "tags": null,
+                                        "picture_url": "",
+                                        "extras": [],
+                                        "knowledge_points_list": [
+                                            [],
+                                            []
+                                        ],
+                                        "tags_desc": [],
+                                        "can_answer": true
+                                    }
+                                ],
+                                "content_title": ""
+                            },
+                            "word_id": null,
+                            "picture_url": null,
+                            "tag_id": 20304161,
+                            "tag_code": "G14T1",
+                            "sentence_contents": null,
+                            "practice_type_ids": null,
+                            "category_id": 0,
+                            "paragraph": null,
+                            "article_name": null,
+                            "description_file": {
+                                "file_id": "",
+                                "url": "",
+                                "filename": "",
+                                "seconds": 0
+                            },
+                            "wiki_type": null,
+                            "others": null,
+                            "skill_ids": null,
+                            "abilities": null,
+                            "weighted": null,
+                            "additions": null,
+                            "question_id": null,
+                            "book_catalog_ids": null,
+                            "idd_id": null,
+                            "previous_id": null,
+                            "variant_ids": null,
+                            "error_factor_ids": null,
+                            "tags": [],
+                            "knowledge_points_b": [],
+                            "full_subject_id": 203,
+                            "major_content_type": {
+                                "nid": 2031005,
+                                "name": "填空",
+                                "deleted_true": false,
+                                "id": 2031005,
+                                "kp_type": 1
+                            },
+                            "content_type": {
+                                "nid": 2030022,
+                                "name": "句型转换",
+                                "deleted_true": false,
+                                "id": 2030022,
+                                "kp_type": 1
+                            },
+                            "assign_type": 3,
+                            "oral_preview": "",
+                            "books_new": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "",
+    "error_code": 0
+}

@@ -1,0 +1,93 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data": {
+    "tips": "根据各班推荐情况，提供共性错题每周五更新，推荐仅指定班级有效",
+    "list": [
+      {
+        "title": "05月04日-05月10日",
+        "packages": [
+          {
+            "id": "题包ID",
+            "packageName": "九年级2班 高频错题",
+            "questionCnt": 3,
+            "minErrorRate": 50,
+            "maxErrorRate": 60,
+            "action": {
+              "h5url": "http://zystatic.test.17zuoye.net/mteacher.tcbag.html",
+              "params": {
+                "packageId": "题包id",
+                "bk_id": "BK_20300001480836",
+                "bkc_id": "BKC_20300076255281",
+                "package_name": "高频错题",
+                "package_type": "HIGH_FREQUENCY",
+                "is_word_package": false
+              }
+            }
+          },
+
+          {
+            "id": "题包ID",
+            "packageName": "九年级2班 高频错题",
+            "questionCnt": 3,
+            "minErrorRate": 50,
+            "maxErrorRate": 60,
+            "action": {
+              "h5url": "http://zystatic.test.17zuoye.net/mteacher.tcbag.html",
+              "params": {
+                "packageId": "题包id",
+                "bk_id": "BK_20300001480836",
+                "bkc_id": "BKC_20300076255281",
+                "package_name": "高频错题",
+                "package_type": "HIGH_FREQUENCY",
+                "is_word_package": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "06月04日-06月10日",
+        "packages": [
+          {
+            "id": "题包ID",
+            "packageName": "九年级2班 高频错题",
+            "questionCnt": 3,
+            "minErrorRate": 50,
+            "maxErrorRate": 60,
+            "action": {
+              "h5url": "http://zystatic.test.17zuoye.net/mteacher.tcbag.html",
+              "params": {
+                "packageId": "题包id",
+                "bk_id": "BK_20300001480836",
+                "bkc_id": "BKC_20300076255281",
+                "package_name": "高频错题",
+                "package_type": "HIGH_FREQUENCY",
+                "is_word_package": false
+              }
+            }
+          },
+
+          {
+            "id": "题包ID",
+            "packageName": "九年级2班 高频错题",
+            "questionCnt": 3,
+            "minErrorRate": 50,
+            "maxErrorRate": 60,
+            "action": {
+              "h5url": "http://zystatic.test.17zuoye.net/mteacher.tcbag.html",
+              "params": {
+                "packageId": "题包id",
+                "bk_id": "BK_20300001480836",
+                "bkc_id": "BKC_20300076255281",
+                "package_name": "高频错题",
+                "package_type": "HIGH_FREQUENCY",
+                "is_word_package": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

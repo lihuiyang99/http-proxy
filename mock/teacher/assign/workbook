@@ -1,0 +1,3111 @@
+{
+    "success": true,
+    "data": {
+        "workbook": {
+            "_id": "W_20300000446329-265",
+            "title": "全品推荐本 七年级英语下 RJ",
+            "series_id": "WS_20300000011197",
+            "status": null,
+            "book_new": {
+                "series_id": "BKC_20300054917450",
+                "book_id": "BK_20300001479700",
+                "unit_id": null,
+                "lesson_id": null,
+                "section_id": null,
+                "term_type": 2,
+                "class_level": 7
+            },
+            "deleted_at": null,
+            "subject_id": 3,
+            "deleted_true": false,
+            "cover_url": "http://cdn.17zuoye.com/fs-resource/5796f93c2ed9b603654d2dca",
+            "id": "W_20300000446329-265",
+            "enbale": 1,
+            "term_type": 2,
+            "grade_id": 7,
+            "catalog": [
+                {
+                    "_id": "WC_20300031938683-265",
+                    "parent_id": null,
+                    "name": "Unit 1 Can you play the guitar?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300031938683-265",
+                    "title": "Unit 1 Can you play the guitar?",
+                    "children": [
+                        {
+                            "_id": "WC_20300031986604-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031986604-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032096990-265",
+                                    "parent_id": "WC_20300031986604-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032096990-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032097235-265",
+                                    "parent_id": "WC_20300031986604-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032097235-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031988258-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031988258-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032098775-265",
+                                    "parent_id": "WC_20300031988258-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032098775-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032099375-265",
+                                    "parent_id": "WC_20300031988258-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032099375-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031989049-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "Section B (1a—1f)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031989049-265",
+                            "title": "Section B (1a—1f)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032100174-265",
+                                    "parent_id": "WC_20300031989049-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032100174-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032101318-265",
+                                    "parent_id": "WC_20300031989049-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032101318-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031991258-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031991258-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032103046-265",
+                                    "parent_id": "WC_20300031991258-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032103046-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031993350-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031993350-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032104465-265",
+                                    "parent_id": "WC_20300031993350-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032104465-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032105645-265",
+                                    "parent_id": "WC_20300031993350-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032105645-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031994947-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "单元语法聚焦一",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031994947-265",
+                            "title": "单元语法聚焦一",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032108474-265",
+                                    "parent_id": "WC_20300031994947-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032108474-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031995317-265",
+                            "parent_id": "WC_20300031938683-265",
+                            "name": "单元自我综合评价一",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031995317-265",
+                            "title": "单元自我综合评价一"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300031939716-265",
+                    "parent_id": null,
+                    "name": "Unit 2 What time do you go to school?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300031939716-265",
+                    "title": "Unit 2 What time do you go to school?",
+                    "children": [
+                        {
+                            "_id": "WC_20300031996636-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031996636-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032111163-265",
+                                    "parent_id": "WC_20300031996636-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032111163-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032112979-265",
+                                    "parent_id": "WC_20300031996636-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032112979-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031997539-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031997539-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032113015-265",
+                                    "parent_id": "WC_20300031997539-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032113015-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032114518-265",
+                                    "parent_id": "WC_20300031997539-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032114518-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031998488-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031998488-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032115433-265",
+                                    "parent_id": "WC_20300031998488-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032115433-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032116696-265",
+                                    "parent_id": "WC_20300031998488-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032116696-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300031999556-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300031999556-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032117869-265",
+                                    "parent_id": "WC_20300031999556-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032117869-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032118976-265",
+                                    "parent_id": "WC_20300031999556-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032118976-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032000959-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032000959-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032119819-265",
+                                    "parent_id": "WC_20300032000959-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032119819-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032120861-265",
+                                    "parent_id": "WC_20300032000959-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032120861-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032001790-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "单元语法聚焦二",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032001790-265",
+                            "title": "单元语法聚焦二",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032122120-265",
+                                    "parent_id": "WC_20300032001790-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032122120-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032002834-265",
+                            "parent_id": "WC_20300031939716-265",
+                            "name": "单元自我综合评价二",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032002834-265",
+                            "title": "单元自我综合评价二"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300031940433-265",
+                    "parent_id": null,
+                    "name": "Unit 3 How do you get to school?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300031940433-265",
+                    "title": "Unit 3 How do you get to school?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032003558-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "Section A (1a—2e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032003558-265",
+                            "title": "Section A (1a—2e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032123263-265",
+                                    "parent_id": "WC_20300032003558-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032123263-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032124263-265",
+                                    "parent_id": "WC_20300032003558-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032124263-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032004230-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032004230-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032125627-265",
+                                    "parent_id": "WC_20300032004230-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032125627-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032126852-265",
+                                    "parent_id": "WC_20300032004230-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032126852-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032005271-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032005271-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032127445-265",
+                                    "parent_id": "WC_20300032005271-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032127445-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032128446-265",
+                                    "parent_id": "WC_20300032005271-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032128446-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032006032-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032006032-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032129325-265",
+                                    "parent_id": "WC_20300032006032-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032129325-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032130455-265",
+                                    "parent_id": "WC_20300032006032-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032130455-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032007609-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032007609-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032131150-265",
+                                    "parent_id": "WC_20300032007609-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032131150-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032132991-265",
+                                    "parent_id": "WC_20300032007609-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032132991-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032008785-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "单元语法聚焦三",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032008785-265",
+                            "title": "单元语法聚焦三",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032134389-265",
+                                    "parent_id": "WC_20300032008785-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032134389-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032009959-265",
+                            "parent_id": "WC_20300031940433-265",
+                            "name": "单元自我综合评价三",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032009959-265",
+                            "title": "单元自我综合评价三"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032010230-265",
+                    "parent_id": null,
+                    "name": "Unit 4 Don't eat in class.",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032010230-265",
+                    "title": "Unit 4 Don't eat in class.",
+                    "children": [
+                        {
+                            "_id": "WC_20300032026660-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032026660-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032135595-265",
+                                    "parent_id": "WC_20300032026660-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032135595-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032136720-265",
+                                    "parent_id": "WC_20300032026660-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032136720-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032027332-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032027332-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032137995-265",
+                                    "parent_id": "WC_20300032027332-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032137995-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032138152-265",
+                                    "parent_id": "WC_20300032027332-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032138152-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032028749-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "Section B (1a—1d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032028749-265",
+                            "title": "Section B (1a—1d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032139620-265",
+                                    "parent_id": "WC_20300032028749-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032139620-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032140412-265",
+                                    "parent_id": "WC_20300032028749-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032140412-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032029552-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032029552-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032141516-265",
+                                    "parent_id": "WC_20300032029552-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032141516-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032142233-265",
+                                    "parent_id": "WC_20300032029552-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032142233-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032031711-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032031711-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032144847-265",
+                                    "parent_id": "WC_20300032031711-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032144847-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032146480-265",
+                                    "parent_id": "WC_20300032031711-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032146480-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032033101-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "单元语法聚焦四",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032033101-265",
+                            "title": "单元语法聚焦四",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032148084-265",
+                                    "parent_id": "WC_20300032033101-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032148084-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032034888-265",
+                            "parent_id": "WC_20300032010230-265",
+                            "name": "单元自我综合评价四",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032034888-265",
+                            "title": "单元自我综合评价四"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032015595-265",
+                    "parent_id": null,
+                    "name": "Unit 5 Why do you like pandas?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032015595-265",
+                    "title": "Unit 5 Why do you like pandas?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032035062-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032035062-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032149594-265",
+                                    "parent_id": "WC_20300032035062-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032149594-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032150645-265",
+                                    "parent_id": "WC_20300032035062-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032150645-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032036297-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032036297-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032151953-265",
+                                    "parent_id": "WC_20300032036297-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032151953-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032152363-265",
+                                    "parent_id": "WC_20300032036297-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032152363-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032037535-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "Section B (1a—1d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032037535-265",
+                            "title": "Section B (1a—1d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032153872-265",
+                                    "parent_id": "WC_20300032037535-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032153872-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032154402-265",
+                                    "parent_id": "WC_20300032037535-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032154402-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032038966-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032038966-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032155225-265",
+                                    "parent_id": "WC_20300032038966-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032155225-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032156998-265",
+                                    "parent_id": "WC_20300032038966-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032156998-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032039337-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032039337-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032157343-265",
+                                    "parent_id": "WC_20300032039337-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032157343-265",
+                                    "title": "A 教材要点回归"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032040047-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "单元语法聚焦五",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032040047-265",
+                            "title": "单元语法聚焦五",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032160115-265",
+                                    "parent_id": "WC_20300032040047-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032160115-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032041656-265",
+                            "parent_id": "WC_20300032015595-265",
+                            "name": "单元自我综合评价五",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032041656-265",
+                            "title": "单元自我综合评价五"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032017598-265",
+                    "parent_id": null,
+                    "name": "Unit 6 I'm watching TV.",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032017598-265",
+                    "title": "Unit 6 I'm watching TV.",
+                    "children": [
+                        {
+                            "_id": "WC_20300032042596-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032042596-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032161863-265",
+                                    "parent_id": "WC_20300032042596-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032161863-265",
+                                    "title": "A 教材要点回归"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032045932-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032045932-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032163293-265",
+                                    "parent_id": "WC_20300032045932-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032163293-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032167114-265",
+                                    "parent_id": "WC_20300032045932-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032167114-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032046222-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032046222-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032168891-265",
+                                    "parent_id": "WC_20300032046222-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032168891-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032169097-265",
+                                    "parent_id": "WC_20300032046222-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032169097-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032047132-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032047132-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032170705-265",
+                                    "parent_id": "WC_20300032047132-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032170705-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032171906-265",
+                                    "parent_id": "WC_20300032047132-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032171906-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032048273-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032048273-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032172151-265",
+                                    "parent_id": "WC_20300032048273-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032172151-265",
+                                    "title": "A 教材要点回归"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032049339-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "单元语法聚焦六",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032049339-265",
+                            "title": "单元语法聚焦六",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032175261-265",
+                                    "parent_id": "WC_20300032049339-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032175261-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032050532-265",
+                            "parent_id": "WC_20300032017598-265",
+                            "name": "单元自我综合评价六",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032050532-265",
+                            "title": "单元自我综合评价六"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032018422-265",
+                    "parent_id": null,
+                    "name": "Unit 7 It's raining!",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032018422-265",
+                    "title": "Unit 7 It's raining!",
+                    "children": [
+                        {
+                            "_id": "WC_20300032051662-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032051662-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032176771-265",
+                                    "parent_id": "WC_20300032051662-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032176771-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032177230-265",
+                                    "parent_id": "WC_20300032051662-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032177230-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032052344-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "Section A (3a—3b)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032052344-265",
+                            "title": "Section A (3a—3b)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032178206-265",
+                                    "parent_id": "WC_20300032052344-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032178206-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032179768-265",
+                                    "parent_id": "WC_20300032052344-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032179768-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032053818-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032053818-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032180994-265",
+                                    "parent_id": "WC_20300032053818-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032180994-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032181692-265",
+                                    "parent_id": "WC_20300032053818-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032181692-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032054244-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032054244-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032182052-265",
+                                    "parent_id": "WC_20300032054244-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032182052-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032183450-265",
+                                    "parent_id": "WC_20300032054244-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032183450-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032055946-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032055946-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032184026-265",
+                                    "parent_id": "WC_20300032055946-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032184026-265",
+                                    "title": "A 教材要点回归"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032056996-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "单元语法聚焦七",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032056996-265",
+                            "title": "单元语法聚焦七",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032187201-265",
+                                    "parent_id": "WC_20300032056996-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032187201-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032057870-265",
+                            "parent_id": "WC_20300032018422-265",
+                            "name": "单元自我综合评价七",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032057870-265",
+                            "title": "单元自我综合评价七"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032019826-265",
+                    "parent_id": null,
+                    "name": "Unit 8 Is there a post office near here?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032019826-265",
+                    "title": "Unit 8 Is there a post office near here?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032058185-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032058185-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032188855-265",
+                                    "parent_id": "WC_20300032058185-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032188855-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032189133-265",
+                                    "parent_id": "WC_20300032058185-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032189133-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032059620-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032059620-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032190161-265",
+                                    "parent_id": "WC_20300032059620-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032190161-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032191096-265",
+                                    "parent_id": "WC_20300032059620-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032191096-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032060303-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "Section B (1a—1d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032060303-265",
+                            "title": "Section B (1a—1d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032193847-265",
+                                    "parent_id": "WC_20300032060303-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032193847-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032196519-265",
+                                    "parent_id": "WC_20300032060303-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032196519-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032061166-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032061166-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032197542-265",
+                                    "parent_id": "WC_20300032061166-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032197542-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032198543-265",
+                                    "parent_id": "WC_20300032061166-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032198543-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032062256-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032062256-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032199032-265",
+                                    "parent_id": "WC_20300032062256-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032199032-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032200518-265",
+                                    "parent_id": "WC_20300032062256-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032200518-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032063611-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "单元语法聚焦八",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032063611-265",
+                            "title": "单元语法聚焦八",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032202803-265",
+                                    "parent_id": "WC_20300032063611-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032202803-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032064872-265",
+                            "parent_id": "WC_20300032019826-265",
+                            "name": "单元自我综合评价八",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032064872-265",
+                            "title": "单元自我综合评价八"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032020339-265",
+                    "parent_id": null,
+                    "name": "Unit 9 What does he look like?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032020339-265",
+                    "title": "Unit 9 What does he look like?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032065295-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032065295-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032203894-265",
+                                    "parent_id": "WC_20300032065295-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032203894-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032204231-265",
+                                    "parent_id": "WC_20300032065295-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032204231-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032067850-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "Section A (3a—3d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032067850-265",
+                            "title": "Section A (3a—3d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032205608-265",
+                                    "parent_id": "WC_20300032067850-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032205608-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032206444-265",
+                                    "parent_id": "WC_20300032067850-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032206444-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032070646-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032070646-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032207617-265",
+                                    "parent_id": "WC_20300032070646-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032207617-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032208860-265",
+                                    "parent_id": "WC_20300032070646-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032208860-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032071746-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032071746-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032209376-265",
+                                    "parent_id": "WC_20300032071746-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032209376-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032210425-265",
+                                    "parent_id": "WC_20300032071746-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032210425-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032072694-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032072694-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032211208-265",
+                                    "parent_id": "WC_20300032072694-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032211208-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032212518-265",
+                                    "parent_id": "WC_20300032072694-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032212518-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032073670-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "单元语法聚焦九",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032073670-265",
+                            "title": "单元语法聚焦九",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032214554-265",
+                                    "parent_id": "WC_20300032073670-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032214554-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032074788-265",
+                            "parent_id": "WC_20300032020339-265",
+                            "name": "单元自我综合评价九",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032074788-265",
+                            "title": "单元自我综合评价九"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032021703-265",
+                    "parent_id": null,
+                    "name": "Unit 10 I'd like some noodles.",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032021703-265",
+                    "title": "Unit 10 I'd like some noodles.",
+                    "children": [
+                        {
+                            "_id": "WC_20300032075435-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032075435-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032215234-265",
+                                    "parent_id": "WC_20300032075435-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032215234-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032216869-265",
+                                    "parent_id": "WC_20300032075435-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032216869-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032076346-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032076346-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032217504-265",
+                                    "parent_id": "WC_20300032076346-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032217504-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032218055-265",
+                                    "parent_id": "WC_20300032076346-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032218055-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032077354-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "Section B (1a—1d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032077354-265",
+                            "title": "Section B (1a—1d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032219929-265",
+                                    "parent_id": "WC_20300032077354-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032219929-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032220437-265",
+                                    "parent_id": "WC_20300032077354-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032220437-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032078608-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032078608-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032221338-265",
+                                    "parent_id": "WC_20300032078608-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032221338-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032224680-265",
+                                    "parent_id": "WC_20300032078608-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032224680-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032079332-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032079332-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032227812-265",
+                                    "parent_id": "WC_20300032079332-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032227812-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032229886-265",
+                                    "parent_id": "WC_20300032079332-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032229886-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032080170-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "单元语法聚焦十",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032080170-265",
+                            "title": "单元语法聚焦十",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032231245-265",
+                                    "parent_id": "WC_20300032080170-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032231245-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032081387-265",
+                            "parent_id": "WC_20300032021703-265",
+                            "name": "单元自我综合评价十",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032081387-265",
+                            "title": "单元自我综合评价十"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032022727-265",
+                    "parent_id": null,
+                    "name": "Unit 11 How was your school trip?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032022727-265",
+                    "title": "Unit 11 How was your school trip?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032082727-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032082727-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032232508-265",
+                                    "parent_id": "WC_20300032082727-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032232508-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032233146-265",
+                                    "parent_id": "WC_20300032082727-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032233146-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032083113-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "Section A (3a—3b)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032083113-265",
+                            "title": "Section A (3a—3b)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032234966-265",
+                                    "parent_id": "WC_20300032083113-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032234966-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032235234-265",
+                                    "parent_id": "WC_20300032083113-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032235234-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032084680-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "Section B (1a—1d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032084680-265",
+                            "title": "Section B (1a—1d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032236774-265",
+                                    "parent_id": "WC_20300032084680-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032236774-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032237661-265",
+                                    "parent_id": "WC_20300032084680-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032237661-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032085766-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032085766-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032238227-265",
+                                    "parent_id": "WC_20300032085766-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032238227-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032239823-265",
+                                    "parent_id": "WC_20300032085766-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032239823-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032086235-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032086235-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032240548-265",
+                                    "parent_id": "WC_20300032086235-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032240548-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032241337-265",
+                                    "parent_id": "WC_20300032086235-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032241337-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032087027-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "单元语法聚焦十一",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032087027-265",
+                            "title": "单元语法聚焦十一",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032242750-265",
+                                    "parent_id": "WC_20300032087027-265",
+                                    "name": "语法精讲",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032242750-265",
+                                    "title": "语法精讲"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032088081-265",
+                            "parent_id": "WC_20300032022727-265",
+                            "name": "单元自我综合评价十一",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032088081-265",
+                            "title": "单元自我综合评价十一"
+                        }
+                    ]
+                },
+                {
+                    "_id": "WC_20300032024371-265",
+                    "parent_id": null,
+                    "name": "Unit 12 What did you do last weekend?",
+                    "description": null,
+                    "is_leaf": false,
+                    "has_content": false,
+                    "deleted_at": null,
+                    "subject_id": 3,
+                    "deleted_true": false,
+                    "id": "WC_20300032024371-265",
+                    "title": "Unit 12 What did you do last weekend?",
+                    "children": [
+                        {
+                            "_id": "WC_20300032089862-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "Section A (1a—2d)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032089862-265",
+                            "title": "Section A (1a—2d)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032244571-265",
+                                    "parent_id": "WC_20300032089862-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032244571-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032245632-265",
+                                    "parent_id": "WC_20300032089862-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032245632-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032090739-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "Section A (3a—3c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032090739-265",
+                            "title": "Section A (3a—3c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032246818-265",
+                                    "parent_id": "WC_20300032090739-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032246818-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032247485-265",
+                                    "parent_id": "WC_20300032090739-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032247485-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032091049-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "Section B (1a—1e)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032091049-265",
+                            "title": "Section B (1a—1e)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032248870-265",
+                                    "parent_id": "WC_20300032091049-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032248870-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032249487-265",
+                                    "parent_id": "WC_20300032091049-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032249487-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032092789-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "Section B (2a—2c)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032092789-265",
+                            "title": "Section B (2a—2c)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032250612-265",
+                                    "parent_id": "WC_20300032092789-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032250612-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032251072-265",
+                                    "parent_id": "WC_20300032092789-265",
+                                    "name": "B 知识综合运用",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032251072-265",
+                                    "title": "B 知识综合运用"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032093048-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "Section B (3a—Self Check)",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032093048-265",
+                            "title": "Section B (3a—Self Check)",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032252607-265",
+                                    "parent_id": "WC_20300032093048-265",
+                                    "name": "A 教材要点回归",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032252607-265",
+                                    "title": "A 教材要点回归"
+                                },
+                                {
+                                    "_id": "WC_20300032253775-265",
+                                    "parent_id": "WC_20300032093048-265",
+                                    "name": "B 话题写作解读",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032253775-265",
+                                    "title": "B 话题写作解读"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032094652-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "单元语法聚焦十二",
+                            "description": null,
+                            "is_leaf": false,
+                            "has_content": false,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032094652-265",
+                            "title": "单元语法聚焦十二",
+                            "children": [
+                                {
+                                    "_id": "WC_20300032255286-265",
+                                    "parent_id": "WC_20300032094652-265",
+                                    "name": "语法精练",
+                                    "description": null,
+                                    "is_leaf": true,
+                                    "has_content": true,
+                                    "deleted_at": null,
+                                    "subject_id": 3,
+                                    "deleted_true": false,
+                                    "id": "WC_20300032255286-265",
+                                    "title": "语法精练"
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "WC_20300032095949-265",
+                            "parent_id": "WC_20300032024371-265",
+                            "name": "单元自我综合评价十二",
+                            "description": null,
+                            "is_leaf": true,
+                            "has_content": true,
+                            "deleted_at": null,
+                            "subject_id": 3,
+                            "deleted_true": false,
+                            "id": "WC_20300032095949-265",
+                            "title": "单元自我综合评价十二"
+                        }
+                    ]
+                }
+            ]
+        },
+        "workbookProgress": {
+            "_id": "128235-WORKBOOK-W_20300000446329",
+            "teacher_id": 128235,
+            "type": "WORKBOOK",
+            "unique_id": "W_20300000446329",
+            "data": {
+                "workbook_catalog_id": "WC_20300031938683-265",
+                "workbook_catalog_ancestor_ids": [
+                    "WC_20300031938683-265"
+                ]
+            }
+        }
+    },
+    "message": "",
+    "error_code": 0
+}

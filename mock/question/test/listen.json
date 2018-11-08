@@ -1,0 +1,1875 @@
+[
+  {
+    "id": "Q_20312318259471-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068541594",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300169963227-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031001,
+    "contentType2Id": 2030001,
+    "difficultyInt": 1,
+    "description": "听对话，从下面各题所给的图片中选择与对话内容相符的图片。录音听两遍。",
+    "notFitMobile": 0,
+    "seconds": 25,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "578df9612ed9b67571cf6538",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "<p>M: What do you usually have for dinner, Nancy?</p><p>W: Vegetables and rice.</p>",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "",
+          "answers": [
+            {
+              "answer": "2",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "img",
+          "options": [
+            {
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a8037ceb1e48a6cab86660e.png\" width=\"150\" height=\"150\" alt=\"image.png\">",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a8037ceb1e48a6cab866611.png\" width=\"150\" height=\"150\" alt=\"image.png\">",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a8037ceb1e48a6cab866614.png\" width=\"150\" height=\"150\" alt=\"image.png\">",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a8037bab1e48a777acc517c.sy3",
+          "listenName": "1.mp3",
+          "listenSeconds": 13,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "2"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312318259471",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20305104,
+    "tagCode": "R06T1X3",
+    "createdAt": "2018-02-11T20:24:32.605+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-02-12T18:21:24.684+08:00",
+    "olUpdatedAt": "2018-02-12T18:21:24.684+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "2"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031001,
+      "name": "听力选择题"
+    },
+    "contentType": {
+      "nid": 2030001,
+      "name": "听句子或对话选择图片"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312317765876-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068530946",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a80204fb1e48a7dcc9c8dce.sy3",
+    "listenName": "1.mp3",
+    "listenSeconds": 66,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300169963227-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031001,
+    "contentType2Id": 2030006,
+    "difficultyInt": 3,
+    "description": "听独白，根据独白的内容，从下面各题所给的选项中选择最佳选项。录音听两遍。",
+    "notFitMobile": 0,
+    "seconds": 89,
+    "complex": 1,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "578df9612ed9b67571cf6538",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "My parents took me to Disneyland Park last Saturday because it was my birthday. It was really a wonderful trip and we had a wonderful time there. The cartoon characters, like Snow White, Donald Dark, brought us a lot of fun. They are smart. The roller coaster made me excited. But my parents said it made them uncomfortable. The food in the Disneyland dining hall was delicious. I liked it very much.",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "When did the speaker go to Disneyland Park?",
+          "answers": [
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "option": "Last Saturday.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Last Sunday.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Last Friday.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "0"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "How did the speaker feel about the roller coaster?",
+          "answers": [
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "Relaxed.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Excited.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Uncomfortable.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "1"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312317765876",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20305113,
+    "tagCode": "R09T2X3",
+    "createdAt": "2018-02-11T18:49:52.309+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-02-11T20:39:52.082+08:00",
+    "olUpdatedAt": "2018-02-11T20:39:52.082+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": {
+      "writing_style": "AC_20300000283078"
+    },
+    "skillIds": null,
+    "abilities": [
+      {
+        "name": "SpatialImagination",
+        "stars": 0
+      },
+      {
+        "name": "AbstractSummarizing",
+        "stars": 0
+      },
+      {
+        "name": "DeductiveReasoning",
+        "stars": 0
+      },
+      {
+        "name": "SolvingArithmetic",
+        "stars": 0
+      },
+      {
+        "name": "DataHandling",
+        "stars": 0
+      },
+      {
+        "name": "PracticalApplication",
+        "stars": 0
+      }
+    ],
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "0"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031001,
+      "name": "听力选择题"
+    },
+    "contentType": {
+      "nid": 2030006,
+      "name": "听短文回答问题"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312317675670-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068556209",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a801b72b1e48a09434e7582.sy3",
+    "listenName": "1.mp3",
+    "listenSeconds": 97,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300169963227-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031003,
+    "contentType2Id": 2030009,
+    "difficultyInt": 3,
+    "description": "听对话，将表格所缺的关键信息填写在相应位置上。录音听两遍。",
+    "notFitMobile": 0,
+    "seconds": 197,
+    "complex": 1,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "578df9612ed9b67571cf6538",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "<table align=\"center\" data-sort=\"sortDisabled\"><tbody><tr class=\"firstRow\"><td valign=\"middle\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\" align=\"center\" rowspan=\"1\" colspan=\"2\">Travelling</td></tr><tr><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">Where to travel</td><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____.</span></td></tr><tr><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">Time to travel there</td><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span>.</td></tr><tr><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">The weather there</td><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span>.</td></tr><tr><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">Travel with whom</td><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\"><span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span>.</td></tr><tr><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">The most famous place</td><td valign=\"top\" style=\"border-color: rgb(0, 0, 0); border-width: 1px; border-style: solid; word-break: break-word;\">Terra-cotta Warriors and Horses <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span>.</td></tr></tbody></table>",
+      "contentDesc": "<p>M: Hi, Jenny. Did you have fun on your vacation?</p><p>W: Yes, I did. I went to Xi'an with my brother. </p><p>M: How did you like it?</p><p>W: Everything was really interesting. Terra-cotta Warriors and Horses Museum is the most famous place of interest. It was built by the first emperor of China, Yingzheng. And the warriors and horses are all made of china and clay. The food in Xi'an is also wonderful. The weather there in spring is neither too cold nor too hot. You won't feel disappointed if you go there.</p><p>M: Yes, I also like the museum. And I wish to go there some day.</p>",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "Xi’an",
+              "subAnswers": [
+                "Xi’an"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "Xi’an"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "Spring",
+              "subAnswers": [
+                "Spring"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "Spring"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "Neither too cold nor too hot",
+              "subAnswers": [
+                "Neither too cold nor too hot"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "Neither too cold nor too hot"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "Brother",
+              "subAnswers": [
+                "Brother"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "Brother"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "Museum",
+              "subAnswers": [
+                "Museum"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "Museum"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312317675670",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20304304,
+    "tagCode": "R17T5",
+    "createdAt": "2018-02-11T18:32:00.849+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-02-11T20:39:51.670+08:00",
+    "olUpdatedAt": "2018-02-11T20:39:51.670+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": {
+      "writing_style": "AC_20300000283078"
+    },
+    "skillIds": null,
+    "abilities": [
+      {
+        "name": "SpatialImagination",
+        "stars": 0
+      },
+      {
+        "name": "AbstractSummarizing",
+        "stars": 0
+      },
+      {
+        "name": "DeductiveReasoning",
+        "stars": 0
+      },
+      {
+        "name": "SolvingArithmetic",
+        "stars": 0
+      },
+      {
+        "name": "DataHandling",
+        "stars": 0
+      },
+      {
+        "name": "PracticalApplication",
+        "stars": 0
+      }
+    ],
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "Xi’an"
+      ],
+      [
+        "Spring"
+      ],
+      [
+        "Neither too cold nor too hot"
+      ],
+      [
+        "Brother"
+      ],
+      [
+        "Museum"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031003,
+      "name": "听力填空"
+    },
+    "contentType": {
+      "nid": 2030009,
+      "name": "听句子或对话填写表格"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20312053903828-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068597717",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a5d5fa5b1e48a7622e7ca76.sy3",
+    "listenName": "9126.mp3",
+    "listenSeconds": 77,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300159653282-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031003,
+    "contentType2Id": 2030010,
+    "difficultyInt": 3,
+    "description": "听一段短文，请根据短文内容记录关键信息。短文将听两遍。现在你有1分钟的时间浏览提示信息。",
+    "notFitMobile": 0,
+    "seconds": 90,
+    "complex": 1,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "5a4db177b1e48a7c5ce8c040",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "<table cellspacing=\"0\" cellpadding=\"0\"><tbody><tr class=\"firstRow\"><td rowspan=\"5\" valign=\"top\" style=\"border-width: 1px; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word; border-style: solid;\"><p> </p><p> </p><p>Tom's  experience</p></td><td valign=\"top\" style=\"border-width: 1px; border-color: rgb(0, 0, 0); border-style: solid; padding: 0px 7px; word-break: break-word;\"><p>He got a <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span><span style=\"display:inline\"></span>from the police</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>Now he is <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span><span style=\"display:inline\"></span>.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>The police had found his lost <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span><span style=\"display:inline\"></span>.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>They  were sending it to his home by <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span><span style=\"display:inline\"></span>.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>He  lost it <span style=\"display:inline\"><mark type=\"blank\" style=\"display:none\"></mark>_____</span><span style=\"display:inline\"></span>years ago.</p></td></tr></tbody></table>",
+      "contentDesc": "<p>Tom was worried all week. He got a letter from the police. They told him to go to the police station as soon as he received the letter. Tom went to the police station yesterday, and now he is happy. At the police station, a smiling policeman told him that they had found his lost bike. Now they were sending it to his home by train. Tom was very surprised when he heard the news. He never expected he should find the lost bike. He lost it twenty years ago when he was a boy of fifteen.</p>",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "letter",
+              "subAnswers": [
+                "letter"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "letter"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "happy",
+              "subAnswers": [
+                "happy"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "happy"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "bike",
+              "subAnswers": [
+                "bike"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "bike"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "train",
+              "subAnswers": [
+                "train"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "train"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "__$$__",
+          "answers": [
+            {
+              "answer": "20",
+              "subAnswers": [
+                "20",
+                "twenty"
+              ],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 4,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "20"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312053903828",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303124,
+    "tagCode": "听独白（听两遍）",
+    "createdAt": "2018-01-16T10:14:13.432+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-01-17T15:10:42.203+08:00",
+    "olUpdatedAt": "2018-03-30T17:04:17.123+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": {
+      "writing_style": "AC_20300000283078"
+    },
+    "skillIds": null,
+    "abilities": [
+      {
+        "name": "SpatialImagination",
+        "stars": 0
+      },
+      {
+        "name": "AbstractSummarizing",
+        "stars": 0
+      },
+      {
+        "name": "DeductiveReasoning",
+        "stars": 0
+      },
+      {
+        "name": "SolvingArithmetic",
+        "stars": 0
+      },
+      {
+        "name": "DataHandling",
+        "stars": 0
+      },
+      {
+        "name": "PracticalApplication",
+        "stars": 0
+      }
+    ],
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "letter"
+      ],
+      [
+        "happy"
+      ],
+      [
+        "bike"
+      ],
+      [
+        "train"
+      ],
+      [
+        "20"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031003,
+      "name": "听力填空"
+    },
+    "contentType": {
+      "nid": 2030010,
+      "name": "听短文填写表格"
+    },
+    "isUsed": 2
+  }
+]

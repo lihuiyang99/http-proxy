@@ -1,0 +1,8 @@
+{
+  "result":"success",
+  "success":"ok",
+    "data":{
+        "duration":0,
+        "question_count":0
+    }
+}

@@ -1,0 +1,576 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data": {
+    "knowledge_points_list": [{
+      "id": null,
+      "name": null
+    }, {
+      "id": null,
+      "name": null
+    }],
+    "content_types": [{
+      "nid": 203010004,
+      "name": "\u9605\u8bfb\u56de\u7b54\u95ee\u9898"
+    }],
+    "words": [],
+    "question_boxs": [{
+      "id": "Q_20312915701941-7",
+      "subjectId": 203,
+      "knowledgePoints": null,
+      "knowledgePointsNew": [{
+        "id": "KP_20300166035835",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }, {
+        "id": "KP_20300165821419",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }],
+      "knowledgePoints2018": [{
+        "id": "KP_20300165821419",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }, {
+        "id": "KP_20300166035835",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }],
+      "testMethods": [],
+      "solutionMethods": [],
+      "resourceIds": null,
+      "resourceIndex": 0,
+      "listenUrl": null,
+      "listenName": null,
+      "listenSeconds": 0,
+      "exploreSeconds": 0,
+      "answersSeconds": 0,
+      "paperIds": ["P_20300214163448-15"],
+      "books": null,
+      "booksNew": null,
+      "contentTypeId": 2031007,
+      "contentType2Id": 2030027,
+      "difficultyInt": 2,
+      "description": "\u9605\u8bfb\u77ed\u6587\uff0c\u6839\u636e\u77ed\u6587\u5185\u5bb9\u56de\u7b54\u95ee\u9898\u3002",
+      "notFitMobile": 0,
+      "seconds": 450,
+      "complex": 1,
+      "singleBook": null,
+      "nid": null,
+      "lastEditorId": null,
+      "finalAuditorId": null,
+      "roughAuditorIds": null,
+      "content": {
+        "content": "<p>What homework did you do in the winter holiday? Now homework is not simply about exercises. It can be researches, experiments and even work experiences. Take a look at three students' special homework.<\/p><p><strong>Studying snacks<\/strong><\/p><p>One day, Wang Yang, from Shanghai Yuying School, was doing his biology homework. His teacher asked them to research the nutrients (\u8425\u517b\u7269\u8d28) of different snacks. He bought 10 kinds of snacks. Then he checked their ingredient (\u6210\u5206) lists one by one and wrote down the amount of sugar, fat and so on, in each. \"We are told it is not good to eat too many snacks. They have high calories (\u5361\u8def\u91cc). But we always pay no attention to it,\" he said. After analyzing (\u5206\u6790) each snack's ingredients, he realized it was true.<\/p><p>Wang Yang spent three days on the homework. But he said it was interesting. \"I learned a lot. I collected the data (\u6570\u636e), created forms and wrote the report by myself.\"<\/p><p><strong>Physics in real life<\/strong><\/p><p>With some plasticine (\u6a61\u76ae\u6ce5), steel (\u94a2\u94c1) balls, a ping-pong ball and a piece of paper, could you make a tumbler (\u4e0d\u5012\u7fc1)? This is the physics homework of Huang Jiameng, 14, of Shanghai 54 Middle School. <\/p><p>Huang first cut the ping-pong ball in half. Then she put the plasticine and steel balls into one of them. The bottom of the tumbler was made. Finally, she used the paper to make the \"hat\".<\/p><p>\"Next term, we will learn about the center of gravity (\u91cd\u5fc3). This homework made me more curious about it,\" she said.<\/p><p><strong>Learning on the job<\/strong><\/p><p>While Wang and Huang did their homework at home, Ding Zhenzhen, 15, of No. 5 Middle School, had to go outside. She worked as a guide in the local museum. \"Everyone at our school has to take part in volunteering or other activities,\" she said.<\/p><p>Ding was a guide in the gallery (\u5c55\u9986) of coins. She got brochures (\u5c0f\u518c\u5b50) from the museum, but she still did research and added more information to her introduction. She worked three hours a day and had no time to take a break. But she felt it was a meaningful experience. \"My communication skills are improved,\" she said.<\/p>",
+        "contentDesc": "",
+        "analysis": "",
+        "subContents": [{
+          "content": "<p>Where is Wang Yang from?<\/p>",
+          "answers": [{
+            "answer": "<span style=\"white-space: normal;\">He is from Shanghai (Yuying School).<\/span>",
+            "subAnswers": [],
+            "richTexts": null,
+            "scorePercentage": 1,
+            "classification": "",
+            "knowledgePoints": null,
+            "knowledgePointsNew": [],
+            "knowledgePoints2018": [{
+              "id": "KP_20300166008099",
+              "tagId": 0,
+              "main": 1,
+              "featureIds": []
+            }],
+            "testMethods": [],
+            "solutionMethods": [],
+            "classificationListenUrl": null
+          }],
+          "subContentTypeId": 6,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [1],
+          "tags": null,
+          "analysisList": [{
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000029772",
+            "text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aOne day, Wang Yang, from Shanghai Yuying School, was doing his biology homework. \u4e00\u5929\uff0c\u6765\u81ea\u4e8e\u4e0a\u6d77\u80b2\u82f1\u5b66\u6821\u7684<span style=\"white-space: normal;\">Wang Yang\u6b63\u5728\u505a\u4ed6\u7684\u751f\u7269\u4f5c\u4e1a\u3002<\/span><\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fHe is from Shanghai (Yuying School)\u3002<\/p>"
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000031387",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000032025",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000046042",
+            "text": ""
+          }],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": ["<span style=\"white-space: normal;\">He is from Shanghai (Yuying School).<\/span>"],
+          "tagsDesc": []
+        }, {
+          "content": "How many days did Wang Yang spend on his homework?",
+          "answers": [{
+            "answer": "<span style=\"white-space: normal;\">He spent three days on his homework.\/ Three Days.<\/span>",
+            "subAnswers": [],
+            "richTexts": null,
+            "scorePercentage": 1,
+            "classification": "",
+            "knowledgePoints": null,
+            "knowledgePointsNew": [],
+            "knowledgePoints2018": [{
+              "id": "KP_20300166008099",
+              "tagId": 0,
+              "main": 1,
+              "featureIds": []
+            }],
+            "testMethods": [],
+            "solutionMethods": [],
+            "classificationListenUrl": null
+          }],
+          "subContentTypeId": 6,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [1],
+          "tags": null,
+          "analysisList": [{
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000029772",
+            "text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aWang Yang spent three days on the homework. <span style=\"white-space: normal;\">Wang Yang\u82b1\u4e86\u4e09\u5929\u65f6\u95f4\u505a\u5bb6\u5ead\u4f5c\u4e1a\u3002<\/span><\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fHe spent three days on his homework.\/Three Days\u3002<\/p>"
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000031387",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000032025",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000046042",
+            "text": ""
+          }],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": ["<span style=\"white-space: normal;\">He spent three days on his homework.\/ Three Days.<\/span>"],
+          "tagsDesc": []
+        }, {
+          "content": "<p>What was Huang Jiameng's physics homework?<\/p>",
+          "answers": [{
+            "answer": "<span style=\"white-space: normal;\">To make a tumbler.\/ Making a tumbler.<\/span>",
+            "subAnswers": [],
+            "richTexts": null,
+            "scorePercentage": 1,
+            "classification": "",
+            "knowledgePoints": null,
+            "knowledgePointsNew": [],
+            "knowledgePoints2018": [{
+              "id": "KP_20300166008099",
+              "tagId": 0,
+              "main": 1,
+              "featureIds": []
+            }],
+            "testMethods": [],
+            "solutionMethods": [],
+            "classificationListenUrl": null
+          }],
+          "subContentTypeId": 6,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [1],
+          "tags": null,
+          "analysisList": [{
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000029772",
+            "text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aWith some plasticine (\u6a61\u76ae\u6ce5), steel (\u94a2\u94c1) balls, a ping-pong ball and a piece of paper, could you make a tumbler (\u4e0d\u5012\u7fc1)? This is the physics homework of Huang Jiameng, 14, of Shanghai 54 Middle School. \u7528\u4e00\u4e9b\u6a61\u76ae\u6ce5\u3001\u94a2\u94c1\u7403\u3001\u4e00\u4e2a\u4e52\u4e53\u7403\u548c\u4e00\u5f20\u7eb8\uff0c\u4f60\u80fd\u505a\u4e00\u4e2a\u4e0d\u5012\u7fc1\u5417\uff1f\u8fd9\u662f\u4e0a\u6d77\u7b2c54\u4e2d\u5b6614\u5c81\u7684<span style=\"white-space: normal;\">Huang Jiameng\u7684\u7269\u7406\u4f5c\u4e1a\u3002<\/span><\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fTo make a tumbler.\/Making a tumbler\u3002<\/p>"
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000031387",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000032025",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000046042",
+            "text": ""
+          }],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": ["<span style=\"white-space: normal;\">To make a tumbler.\/ Making a tumbler.<\/span>"],
+          "tagsDesc": []
+        }, {
+          "content": "<p>What did Ding Zhenzhen introduce to people?<\/p>",
+          "answers": [{
+            "answer": "<span style=\"white-space: normal;\">She introduced coins to people.\/ Coins.<\/span>",
+            "subAnswers": [],
+            "richTexts": null,
+            "scorePercentage": 1,
+            "classification": "",
+            "knowledgePoints": null,
+            "knowledgePointsNew": [],
+            "knowledgePoints2018": [{
+              "id": "KP_20300166008099",
+              "tagId": 0,
+              "main": 1,
+              "featureIds": []
+            }],
+            "testMethods": [],
+            "solutionMethods": [],
+            "classificationListenUrl": null
+          }],
+          "subContentTypeId": 6,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [1],
+          "tags": null,
+          "analysisList": [{
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000029772",
+            "text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aDing was a guide in the gallery (\u5c55\u9986) of coins. She got brochures (\u5c0f\u518c\u5b50) from the museum, but she still did research and added more information to her introduction. <span style=\"white-space: normal;\">Ding\u662f\u786c\u5e01\u5c55\u9986\u7684\u4e00\u540d\u5411\u5bfc\u3002\u5979\u4ece\u535a\u7269\u9986\u90a3\u91cc\u83b7\u5f97\u5c0f\u518c\u5b50\uff0c\u4f46\u662f\u5979\u4ecd\u7136\u505a\u7814\u7a76\uff0c\u5f80\u5979\u7684\u4ecb\u7ecd\u91cc\u589e\u52a0\u66f4\u591a\u7684\u4fe1\u606f\u3002<\/span><\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fShe introduced coins to people.\/Coins\u3002<\/p>"
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000031387",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000032025",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000046042",
+            "text": ""
+          }],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": ["<span style=\"white-space: normal;\">She introduced coins to people.\/ Coins.<\/span>"],
+          "tagsDesc": []
+        }, {
+          "content": "<p>What's the three students' homework about?<\/p>",
+          "answers": [{
+            "answer": "<span style=\"white-space: normal;\">It's about researches, experiments and work experiences.\/ It's about experiments of biology, physics in real life and volunteering.<\/span>",
+            "subAnswers": [],
+            "richTexts": null,
+            "scorePercentage": 1,
+            "classification": "",
+            "knowledgePoints": null,
+            "knowledgePointsNew": [],
+            "knowledgePoints2018": [{
+              "id": "KP_20300166008099",
+              "tagId": 0,
+              "main": 1,
+              "featureIds": []
+            }],
+            "testMethods": [],
+            "solutionMethods": [],
+            "classificationListenUrl": null
+          }],
+          "subContentTypeId": 6,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [1],
+          "tags": null,
+          "analysisList": [{
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000029772",
+            "text": "<p>\u6b64\u9898\u662f\u7ec6\u8282\u7406\u89e3\u9898\u3002\u7b54\u6848\u51fa\u5904\uff1aWhat homework did you do in the winter holiday? Now homework is not simply about exercises. It can be researches, experiments and even work experiences. \u5728\u5bd2\u5047\u4f60\u505a\u4ec0\u4e48\u5bb6\u5ead\u4f5c\u4e1a\uff1f\u73b0\u5728\u5bb6\u5ead\u4f5c\u4e1a\u4e0d\u53ea\u662f\u5173\u4e8e\u7ec3\u4e60\u3002\u5b83\u53ef\u80fd\u662f\u7814\u7a76\u3001\u5b9e\u9a8c\u3001\u751a\u81f3\u662f\u5de5\u4f5c\u7ecf\u5386\u3002<\/p><p>\u56e0\u6b64\uff0c\u6b63\u786e\u7b54\u6848\u662fIt's about researches, experiments and work experiences.\/It's about experiments of biology, physics in real life and volunteering\u3002<\/p>"
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000031387",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000032025",
+            "text": ""
+          }, {
+            "choiceIds": [],
+            "analysisTypeId": "AT_20300000046042",
+            "text": ""
+          }],
+          "pictureUrl": "",
+          "extras": [],
+          "listenSecondsSingle": 0,
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": ["<span style=\"white-space: normal;\">It's about researches, experiments and work experiences.\/ It's about experiments of biology, physics in real life and volunteering.<\/span>"],
+          "tagsDesc": []
+        }],
+        "listenUrlSingle": null
+      },
+      "docId": "Q_20312915701941",
+      "version": 7,
+      "wordId": null,
+      "pictureUrl": null,
+      "tagId": 20303161,
+      "tagCode": "D08T5",
+      "createdAt": "2018-06-12T20:03:57.582+08:00",
+      "deletedAt": null,
+      "olCreatedAt": "2018-10-09T12:45:55.804+08:00",
+      "olUpdatedAt": "2018-10-09T12:45:55.804+08:00",
+      "sentenceIds": null,
+      "sentenceContents": null,
+      "broken": false,
+      "practiceTypeIds": null,
+      "categoryId": 0,
+      "fromId": 7,
+      "paragraph": null,
+      "articleName": null,
+      "descriptionFile": {
+        "fileId": "",
+        "url": "",
+        "filename": "",
+        "seconds": 0,
+        "urlSingle": null,
+        "secondsSingle": null
+      },
+      "analysisSeconds": 0,
+      "readySeconds": 0,
+      "wikiType": null,
+      "others": {
+        "writing_style": "AC_20300000283078"
+      },
+      "skillIds": null,
+      "abilities": null,
+      "weighted": null,
+      "additions": null,
+      "localType": null,
+      "localTypeObj": null,
+      "new_content_type_id": 203010,
+      "new_content_subtype_id": 203010004,
+      "sceneDescription": null,
+      "listenUrlSingle": null,
+      "listenSecondsSingle": 0,
+      "tags": [],
+      "deletedTrue": false,
+      "knowledgePointsB": [],
+      "submitWays": [
+        [1],
+        [1],
+        [1],
+        [1],
+        [1]
+      ],
+      "subjective": true,
+      "answers": [
+        ["<span style=\"white-space: normal;\">He is from Shanghai (Yuying School).<\/span>"],
+        ["<span style=\"white-space: normal;\">He spent three days on his homework.\/ Three Days.<\/span>"],
+        ["<span style=\"white-space: normal;\">To make a tumbler.\/ Making a tumbler.<\/span>"],
+        ["<span style=\"white-space: normal;\">She introduced coins to people.\/ Coins.<\/span>"],
+        ["<span style=\"white-space: normal;\">It's about researches, experiments and work experiences.\/ It's about experiments of biology, physics in real life and volunteering.<\/span>"]
+      ],
+      "newContentTypeId": 203010,
+      "newContentSubtypeId": 203010004,
+      "majorContentType": {
+        "nid": 203010,
+        "name": "\u9605\u8bfb\u586b\u7a7a"
+      },
+      "contentType": {
+        "nid": 203010004,
+        "name": "\u9605\u8bfb\u56de\u7b54\u95ee\u9898"
+      },
+      "isUsed": false
+    }],
+    "category": {
+      "package_content_type": "bigdata_package",
+      "bk_id": "BK_20300003540431",
+      "bkc_id": "BKC_20300232877772",
+      "unit_id": "BKC_20300232854840",
+      "name": "\u9605\u8bfb",
+      "algo_type": "REVIEW_READ",
+      "type": "sync"
+    },
+    "page_info": {
+      "total_page": 1,
+      "now_page": 1,
+      "page_size": 10
+    },
+    "question_list": [{
+      "id": "Q_20312915701941-7",
+      "newContentSubtypeId": 203010004,
+      "contentTypeId": 2031007,
+      "seconds": 450,
+      "knowledge_points": ["KP_20300166035835", "KP_20300165821419"],
+      "word_id": null,
+      "ocnid": null
+    }]
+  }
+}

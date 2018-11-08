@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "data": {
+        "student_id": 333929026,
+        "subject_data": {
+            "user_audio_url": "http://edu.hivoice.cn:9088/WebAudio-1.0-SNAPSHOT/audio/play/965f08f2-9456-481d-a2aa-e9644e4a5349/1536752759715060469/sh",
+            "question_id": "Q_20312956611533-3",
+            "fluency": 63,
+            "integrity": 14,
+            "pronunciation": 13,
+            "eight_score": 0,
+            "score": 2,
+            "localize_score_get": 0.04,
+            "level": "D"
+        },
+        "homework_id": "5b98fc134d1b9d5e1a433ab3",
+        "practice_type": "oral",
+        "action_name": "questionStudentResult"
+    },
+    "message": "",
+    "error_code": 0
+}

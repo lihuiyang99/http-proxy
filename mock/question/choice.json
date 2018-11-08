@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "Q_20312235614504-2",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068598635",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      },
+      {
+        "id": "KP_20300068583823",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "knowledgePoints2018": null,
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": null,
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031001,
+    "contentType2Id": 2030005,
+    "difficultyInt": 2,
+    "description": "\u542c\u5bf9\u8bdd\uff0c\u6839\u636e\u5bf9\u8bdd\u7684\u5185\u5bb9\uff0c\u4ece\u4e0b\u9762\u5404\u9898\u6240\u7ed9\u7684\u9009\u9879\u4e2d\u9009\u62e9\u6700\u4f73\u9009\u9879\u3002\u5f55\u97f3\u542c\u4e24\u904d\u3002",
+    "notFitMobile": 0,
+    "seconds": 55,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "<p>W: Can I help you, sir?<\/p><p>M: I want to buy two kilos of oranges and four kilos of bananas.<\/p><p>W: All right. These oranges and bananas are very fresh. Here you are.<\/p><p>Q: How many kilos of bananas has the man bought?<\/p>",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "",
+          "answers": [
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "knowledgePoints2018": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "option": "Two kilos.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0,
+                "urlSingle": null
+              }
+            },
+            {
+              "option": "Four kilos.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0,
+                "urlSingle": null
+              }
+            },
+            {
+              "option": "Six kilos.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0,
+                "urlSingle": null
+              }
+            },
+            {
+              "option": "Five kilos.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0,
+                "urlSingle": null
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "http:\/\/cdn.17zuoye.com\/fs-resource\/5a770dc0b1e48a7b0969624d.sy3",
+          "listenName": "11.mp3",
+          "listenSeconds": 43,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "1"
+          ],
+          "tagsDesc": []
+        }
+      ],
+      "listenUrlSingle": null
+    },
+    "docId": "Q_20312235614504",
+    "version": 2,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20305108,
+    "tagCode": "R07T1X4",
+    "createdAt": "2018-02-04T14:49:43.959+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-07-10T21:45:52.451+08:00",
+    "olUpdatedAt": "2018-07-10T21:45:52.451+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 7,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0,
+      "urlSingle": null
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "localType": null,
+    "localTypeObj": null,
+    "new_content_type_id": 203000,
+    "new_content_subtype_id": 203000011,
+    "sceneDescription": null,
+    "listenUrlSingle": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "1"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031001,
+      "name": "\u542c\u529b\u9009\u62e9\u9898"
+    },
+    "contentType": {
+      "nid": 2030005,
+      "name": "\u542c\u5bf9\u8bdd\u56de\u7b54\u95ee\u9898"
+    },
+    "isUsed": false
+  },
+  {
+    "id": "Q_20306305213513-4",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068537497",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/58abfb162ed9b638d47c91f8.sy3",
+    "listenName": "3.mp3",
+    "listenSeconds": 49,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300067771882-6",
+      "P_20300067771882-7",
+      "P_20300166414840-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031001,
+    "contentType2Id": 2030005,
+    "difficultyInt": 3,
+    "description": "听对话，根据对话的内容，从下面各题所给的选项中选择最佳选项。录音听两遍。",
+    "notFitMobile": 0,
+    "seconds": 78,
+    "complex": 1,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": null,
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "<p>M: Hello! Are you a new student in this class?</p><p>W: Yes. My name is Linda. Nice to meet you.</p><p>M: I'm Mike. Nice to meet you, too. We are going to the zoo this Sunday. Would you like to go with us?</p><p>W: Sure. I love animals very much.</p>",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "Who is the new student?",
+          "answers": [
+            {
+              "answer": "1",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "Mike.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Linda.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "Mike and Linda.",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 5,
+          "answersSeconds": 5,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "1"
+          ],
+          "tagsDesc": []
+        },
+        {
+          "content": "<p>Where are they going this Sunday? They are going to the _____.</p>",
+          "answers": [
+            {
+              "answer": "0",
+              "subAnswers": [],
+              "richTexts": null,
+              "scorePercentage": 1,
+              "classification": "",
+              "knowledgePoints": null,
+              "knowledgePointsNew": [],
+              "testMethods": [],
+              "solutionMethods": [],
+              "classificationListenUrl": null,
+              "variantId": null,
+              "top10": null
+            }
+          ],
+          "subContentTypeId": 1,
+          "analysis": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "zoo",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "museum",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            },
+            {
+              "option": "mountain",
+              "file": {
+                "fileId": "",
+                "url": "",
+                "filename": "",
+                "seconds": 0
+              }
+            }
+          ],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 5,
+          "answersSeconds": 5,
+          "oralDict": {
+            "seconds": null,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": null,
+            "endListenUrl": null,
+            "scorePercentage": null,
+            "readySeconds": null,
+            "listenFile": null,
+            "contentDesc": null,
+            "answers": null,
+            "voiceTextsNew": null,
+            "jsgf": null,
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            0
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [
+            []
+          ],
+          "answerList": [
+            "0"
+          ],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20306305213513",
+    "version": 4,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20305106,
+    "tagCode": "R07T2X3",
+    "createdAt": "2017-02-17T10:44:53.586+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-03-10T15:11:05.258+08:00",
+    "olUpdatedAt": "2018-03-10T15:11:05.258+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 7,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "",
+      "url": "",
+      "filename": "",
+      "seconds": 0
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": {
+      "writing_style": "AC_20300000283078"
+    },
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "subjective": false,
+    "answers": [
+      [
+        "1"
+      ],
+      [
+        "0"
+      ]
+    ],
+    "majorContentType": {
+      "nid": 2031001,
+      "name": "听力选择题"
+    },
+    "contentType": {
+      "nid": 2030005,
+      "name": "听对话回答问题"
+    }
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 135852
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "<p>I think the best place to visit on weekends is the zoo. When you are free, you can go <mark type=\"blank\"></mark>_____ your family. <mark type=\"blank\"></mark>_____ the zoo, there are many <mark type=\"blank\"></mark>_____ like pandas, koalas, dolphins, lions and <mark type=\"blank\"></mark>_____ animals. <mark type=\"blank\"></mark>_____ are the biggest (最大的) animals on land (陆地上). Lions come from <mark type=\"blank\"></mark>_____. They live in the forest (森林). I want to see lions. And I <mark type=\"blank\"></mark>_____ a baby lion was born (出生) there last Friday. Sally wants <mark type=\"blank\"></mark>_____ with me this weekend. But I have <mark type=\"blank\"></mark>_____ homework to do. I must finish (完成) my homework <mark type=\"blank\"></mark>_____. Then we can have a good time there.</p>",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是介词辨析。句意：当你有空的时候，你可以和你的家人一起去动物园。in 在……内；with 和……一起；from 来自于；and 和，又，而。</p><p>因此，正确答案是B。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300014374059",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300010054685",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300010882474",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300013761684",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "in"
+            },
+            {
+              "option": "with"
+            },
+            {
+              "option": "from"
+            },
+            {
+              "option": "and"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是词语辨析。句意：在动物园里，有许多种动物，如熊猫、考拉、大象、狮子和其他动物。in 在……内；on 在……上；for 为了；to 到。</p><p>因此，正确答案是A。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300014410210",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300008505005",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300010987413",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300005716211",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "In"
+            },
+            {
+              "option": "On"
+            },
+            {
+              "option": "For"
+            },
+            {
+              "option": "To"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p style=\"white-space: normal;\">此题考查的是名词辨析。句意：在动物园里，有许多种动物,如熊猫、考拉、大象、狮子和其他动物。people 人；child 孩子；animal 动物；bird 鸟。</p><p style=\"white-space: normal;\">因此，正确答案是C。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300013753877",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300008132745",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300012711725",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300013263470",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "people"
+            },
+            {
+              "option": "children"
+            },
+            {
+              "option": "animals"
+            },
+            {
+              "option": "birds"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是不定代词辨析。句意：在动物园里，有许多种动物像熊猫、考拉、大象、狮子和其他动物。another 又一个；the other 另一个；others 其他的,别的；other 其他的，别的。other和others均表示不确指意义,其中other后可以修饰名词,而others后不能再接名词,两者的关系可描述为:others=other+复数名词。由于空后面有名词animals。</p><p>因此，正确答案是D。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300014556300",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "another"
+            },
+            {
+              "option": "the other"
+            },
+            {
+              "option": "others"
+            },
+            {
+              "option": "other"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是名词辨析。句意：大象是陆地上最大的动物。elephant 大象；koala 考拉；panda 熊猫；lion 狮子。</p><p>因此，正确答案是A。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300011560183",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009622655",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300008269367",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009397158",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "Elephants"
+            },
+            {
+              "option": "Koalas"
+            },
+            {
+              "option": "Pandas"
+            },
+            {
+              "option": "Lions"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是名词辨析。句意：狮子来自于非洲。Australia 澳大利亚；China 中国；Canada 加拿大；Africa 非洲。</p><p>因此，正确答案是D。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300013897612",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300013543448",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300012702070",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300012927395",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "Australia"
+            },
+            {
+              "option": "China"
+            },
+            {
+              "option": "Canada"
+            },
+            {
+              "option": "Africa"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是动词辨析。句意：而我知道一个幼狮于上周五在那里出生。know 知道，及物动词；listen 听，不及物动词。主语是第一人称。</p><p>因此，正确答案是C。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009627357",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009389133",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "knows"
+            },
+            {
+              "option": "listen"
+            },
+            {
+              "option": "know"
+            },
+            {
+              "option": "listens"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是短语固定搭配。句意：Sally这周末想和我一起去动物园。want to do sth. 想要做某事。</p><p>因此，正确答案是C。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "2",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300001007502",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "go"
+            },
+            {
+              "option": "going"
+            },
+            {
+              "option": "to go"
+            },
+            {
+              "option": "goes"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是不定代词的辨析。句意：但是我有许多的推荐要去做。homework是不可数名词，a few和many后面接可数名词；little 一点也没有；lots of 许多。</p><p>因此，正确答案是D。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "3",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300002543562",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300014557981",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009195400",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><br></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "a few"
+            },
+            {
+              "option": "little"
+            },
+            {
+              "option": "many"
+            },
+            {
+              "option": "lots of"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是副词。句意：我必须先完成推荐。first 首先，第一；in first 不是固定结构 ；at last 最后；last 最后的。</p><p>因此，正确答案是A。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300011090760",
+                  "main": 1,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300004509815",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                },
+                {
+                  "capabilityIds": [],
+                  "id": "KP_20300009573841",
+                  "main": 0,
+                  "skillIds": [],
+                  "tagId": 0
+                }
+              ],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [
+            {
+              "option": "first"
+            },
+            {
+              "option": "in first"
+            },
+            {
+              "option": "at last"
+            },
+            {
+              "option": "last"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030024,
+    "contentTypeId": 2031006,
+    "createdAt": 1453103110047,
+    "creatorId": "566e9e822ed9b6745343204a",
+    "description": "完形填空",
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1529548524973,
+      "onlineMd5": "cc6cf5d37cc405d5b9f4fadcc446986e",
+      "onlineVersion": 6
+    },
+    "finalAuditorId": "5695b6d42ed9b63e8c78222f",
+    "fromId": 0,
+    "id": "Q_20300797169752",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014699055",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 203008000,
+    "newContentTypeId": 203008,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 0,
+    "others": {
+      "writingStyle": "AC_20300000283078"
+    },
+    "paperIds": [
+      "P_20300029489875"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 600,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1529483779012
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 51603
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "<p style=\"white-space: normal;\">M: Bob is reading books himself. He is supposed to work with others.</p><p style=\"white-space: normal;\">W: I agree with you.</p>",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "What is Bob doing?",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "2.mp3",
+          "listenSeconds": 17,
+          "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a6f1a0eb1e48a2f671c8dd6.sy3",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a6f1a29b1e48a3635700e81.png\" width=\"150\" height=\"150\" alt=\"blob.png\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a6f1a29b1e48a3635700e84.png\" width=\"150\" height=\"150\" alt=\"blob.png\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/5a6f1a29b1e48a3635700e87.png\" width=\"150\" height=\"150\" alt=\"blob.png\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030001,
+    "contentTypeId": 2031001,
+    "createdAt": 1516839730580,
+    "creatorId": "5790851b2ed9b64b7a1a04a2",
+    "description": "听对话，从下面各题所给的图片中选择与对话内容相符的图片。录音听两遍。",
+    "descriptionFile": {
+      "fileId": "",
+      "filename": "",
+      "seconds": 0,
+      "url": ""
+    },
+    "difficultyInt": 2,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1530174729709,
+      "onlineMd5": "63a6efc988ef9eb2ec3933e953871852",
+      "onlineVersion": 2
+    },
+    "fromId": 7,
+    "id": "Q_20312124769843",
+    "inputPrompt": "R06T1X3",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068597717",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 203000006,
+    "newContentTypeId": 203000,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300163387929"
+    ],
+    "picAttr": 3,
+    "pictureBookIds": [],
+    "pictureRequirement": "",
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "<span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\">\u200d</span><img src=\"http://cdn.17zuoye.com/fs-resource/5a6929c0b1e48a6c13794076.png\" title=\"O1@158U72XPXSL_$PDWDIUN.png\" _src=\"http://cdn.17zuoye.com/fs-resource/5a6929c0b1e48a6c13794076.png\" alt=\"O1@158U72XPXSL_$PDWDIUN.png\">​<img src=\"http://cdn.17zuoye.com/fs-resource/5a6929c8b1e48a6f44e06045.png\" title=\"L7SBM(I68ZZYD@_]ROJPN(1.png\" _src=\"http://cdn.17zuoye.com/fs-resource/5a6929c8b1e48a6f44e06045.png\" alt=\"L7SBM(I68ZZYD@_]ROJPN(1.png\">",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 28,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "R06T1X3",
+    "tagId": 20305104,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1530102699725
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 51921
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "<p style=\"white-space: normal;\">W: Where were you yesterday afternoon, Fred?</p><p style=\"white-space: normal;\">M: Do you mean during basketball practice, Mary?</p><p style=\"white-space: normal;\">W: Yes. What happened to you?</p><p style=\"white-space: normal;\">M: I had to go to the doctor's again. Was Mr. Smith angry? I forgot to tell him I was not going to take part in it.</p><p style=\"white-space: normal;\">W: Well, he wasn't very happy about it.</p><p style=\"white-space: normal;\">M: How was the practice?</p><p style=\"white-space: normal;\">W: Not very good. Everybody seemed tired. And Tom got hurt.</p><p style=\"white-space: normal;\">M: Was he hurt badly?</p><p style=\"white-space: normal;\">W: No. He hurt his arm a little. He's OK today. And of course, Charles can't play because of his leg.</p><p style=\"white-space: normal;\">M: Who played instead of Charles?</p><p style=\"white-space: normal;\">W: Ray did. He's not very good.</p><p style=\"white-space: normal;\">M: What about Carl? He's fast.</p><p style=\"white-space: normal;\">W: Yes, but he's short. Well, you've got to be there this afternoon. Four o'clock as usual.</p><p style=\"white-space: normal;\">M: I know. I'll be there then.</p>",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "What did Fred do yesterday afternoon? ",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">He went to the doctor. </span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">He visited his friend. </span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">He practiced basketball.</span>"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "What time will the basketball practice begin this afternoon? ",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "sentence",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">At 3:00.</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">At 4:00.</span>"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<span style=\"white-space: normal;\">At 5:00.</span>"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 1,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030005,
+    "contentTypeId": 2031001,
+    "createdAt": 1516839837466,
+    "creatorId": "5790851b2ed9b64b7a1a04a2",
+    "description": "听对话，根据对话的内容，从下面各题所给的选项中选择最佳选项。录音听两遍。",
+    "descriptionFile": {
+      "fileId": "",
+      "filename": "",
+      "seconds": 0,
+      "url": ""
+    },
+    "difficultyInt": 2,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1530174730390,
+      "onlineMd5": "d3c0765841f9869eae7989175e314de5",
+      "onlineVersion": 2
+    },
+    "fromId": 7,
+    "id": "Q_20312124777937",
+    "inputPrompt": "R07T2X3",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068547401",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "3.mp3",
+    "listenSeconds": 143,
+    "listenUrl": "http://cdn.17zuoye.com/fs-resource/5a711f43b1e48a6c15406e5f.sy3",
+    "localType": [],
+    "newContentSubtypeId": 203000009,
+    "newContentTypeId": 203000,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {
+      "writingStyle": "AC_20300000283078"
+    },
+    "paperIds": [
+      "P_20300163387929"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureRequirement": "",
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "<span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\"><span id=\"_baidu_bookmark_start_0\" style=\"display: none; line-height: 0px;\">\u200d</span>\u200d</span>\u200d</span>\u200d</span>\u200d</span>\u200d</span><img src=\"http://cdn.17zuoye.com/fs-resource/5a692a39b1e48a6c13794981.png\" title=\"{%(5U(~PWGN33U9}`JT9_ZL.png\" _src=\"http://cdn.17zuoye.com/fs-resource/5a692a39b1e48a6c13794981.png\" alt=\"{%(5U(~PWGN33U9}`JT9_ZL.png\"><img src=\"http://cdn.17zuoye.com/fs-resource/5a692a3db1e48a02fabccfcc.png\" title=\"{J})1LPZNAPYI%7~))4}8VS.png\" _src=\"http://cdn.17zuoye.com/fs-resource/5a692a3db1e48a02fabccfcc.png\" alt=\"{J})1LPZNAPYI%7~))4}8VS.png\">​<img src=\"http://cdn.17zuoye.com/fs-resource/5a692a42b1e48a6c13794af0.png\" title=\"O98W4~]0]Q@%EJ0%GJL7ATR.png\" _src=\"http://cdn.17zuoye.com/fs-resource/5a692a42b1e48a6c13794af0.png\" alt=\"O98W4~]0]Q@%EJ0%GJL7ATR.png\">",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 166,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "R07T2X3",
+    "tagId": 20305106,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1530102711290
+  }
+]

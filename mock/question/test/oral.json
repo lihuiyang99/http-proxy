@@ -1,0 +1,677 @@
+[
+  {
+    "id": "Q_20312053894341-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068597717",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300159653282-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030060,
+    "difficultyInt": 3,
+    "description": "根据所听对话口头回答问题。听对话前，你有5秒钟时间阅读问题。听到录音提示音后，15秒钟内口头回答问题并完成录音。每段对话你将听两遍。",
+    "notFitMobile": 0,
+    "seconds": 63,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "5a4db177b1e48a7c5ce8c040",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p>Why does the new head teacher make Bob think of his English teacher?</p>",
+          "answers": [],
+          "subContentTypeId": 18,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": 15,
+            "variables": [
+              "<L>=makes Bob|makes him"
+            ],
+            "keywords": [],
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": [
+              "They wear the same clothes.|Because they wear the same clothes.|The new head teacher wears the same clothes as his English teacher.|Because the new head teacher wears the same clothes as his English teacher.|He wears the same clothes as his English teacher.|Because he wears the same clothes as his English teacher.|The new head teacher <L> think of his English teacher because they wear the same clothes.|The new head teacher <L> think of his English teacher because the new head teacher wears the same clothes as his English teacher.|The new head teacher <L> think of his English teacher because he wears the same clothes as his English teacher.|He <L> think of his English teacher because they wear the same clothes.|He <L> think of his English teacher because the new head teacher wears the same clothes as his English teacher.|He <L> think of his English teacher because he wears the same clothes as his English teacher."
+            ],
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 5,
+            "listenFile": {
+              "fileId": "5a5d5e81b1e48a76540cc2c0",
+              "url": "http://cdn.17zuoye.com/fs-resource/5a5d5e81b1e48a76540cc2c0.sy3",
+              "filename": "9125.mp3",
+              "seconds": 25
+            },
+            "contentDesc": "<p>W: Hi, Bob. How's your new head teacher?</p><p>M: He reminds me of my English teacher in middle school. They wear the same clothes.</p>",
+            "answers": [
+              {
+                "answer": "<p>They wear the same clothes.</p><p>Because they wear the same clothes.</p><p>The new head teacher wears the same clothes as his English teacher.</p><p>Because the new head teacher wears the same clothes as his English teacher.</p><p>He wears the same clothes as his English teacher.</p><p>Because he wears the same clothes as his English teacher.</p><p>The new head teacher makes Bob| him think of his English teacher because they wear the same clothes.</p><p>The new head teacher makes Bob| him think of his English teacher because the new head teacher wears the same clothes as his English teacher.</p><p>The new head teacher makes Bob| him think of his English teacher because he wears the same clothes as his English teacher.</p><p>He makes Bob| him think of his English teacher because they wear the same clothes.</p><p>He makes Bob| him think of his English teacher because the new head teacher wears the same clothes as his English teacher.</p><p>He makes Bob| him think of his English teacher because he wears the same clothes as his English teacher.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "url": "",
+                  "filename": "",
+                  "seconds": null
+                }
+              }
+            ],
+            "voiceTextsNew": null,
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(They wear the same clothes |Because they wear the same clothes |The new head teacher wears the same clothes as his English teacher |Because the new head teacher wears the same clothes as his English teacher |He wears the same clothes as his English teacher |Because he wears the same clothes as his English teacher |The new head teacher <L> think of his English teacher because they wear the same clothes |The new head teacher <L> think of his English teacher because the new head teacher wears the same clothes as his English teacher |The new head teacher <L> think of his English teacher because he wears the same clothes as his English teacher |He <L> think of his English teacher because they wear the same clothes |He <L> think of his English teacher because the new head teacher wears the same clothes as his English teacher |He <L> think of his English teacher because he wears the same clothes as his English teacher)\\\"</s>\\\";\\n<L>=(makes Bob|makes him);\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312053894341",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303236,
+    "tagCode": "LkQLDAQ",
+    "createdAt": "2018-01-16T10:10:15.971+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-01-17T15:10:42.093+08:00",
+    "olUpdatedAt": "2018-04-21T15:28:55.302+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5a53214ab1e48a314f10cc6b",
+      "url": "http://cdn.17zuoye.com/fs-resource/5a53214ab1e48a314f10cc6b.sy3",
+      "filename": "11.mp3",
+      "seconds": 18
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031021,
+      "name": "口语题"
+    },
+    "contentType": {
+      "nid": 2030060,
+      "name": "口语主观题"
+    },
+    "isUsed": 2
+  },
+  {
+    "id": "Q_20312076763547-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068597717",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300159653282-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030060,
+    "difficultyInt": 5,
+    "description": "你将听到一段短文，请根据短文内容完成转述。听完短文将有2分钟的时间做转述准备。转述开头已经给出。",
+    "notFitMobile": 0,
+    "seconds": 472,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "5a4db177b1e48a7c5ce8c040",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p>转述开头：Tom was worried all week.</p><table cellspacing=\"0\" cellpadding=\"0\"><tbody><tr class=\"firstRow\"><td rowspan=\"5\" valign=\"top\" style=\"border-width: 1px; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word; border-style: solid;\"><p>  </p><p>Tom's  experience</p></td><td valign=\"top\" style=\"border-width: 1px; border-color: rgb(0, 0, 0); border-style: solid; padding: 0px 7px; word-break: break-word;\"><p>He  got a __1__ from the police</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>Now  he is __2__.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>The  police had found his lost __3__.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>They  were sending it to his home by __4__.</p></td></tr><tr><td valign=\"top\" style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); padding: 0px 7px; word-break: break-word;\"><p>He  lost it __5__ years ago.</p></td></tr></tbody></table>",
+          "answers": [],
+          "subContentTypeId": 18,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": 300,
+            "variables": [
+              "<L>=Tom's| his",
+              "<M>= Tom| He",
+              "<T>=Tom| him"
+            ],
+            "keywords": [],
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": [
+              "Tom was worried all week. He got a letter from the police. |Tom was worried all week because he got a letter from the police.|Tom was worried all week because he got a letter from the police. |Tom was worried all week because he got a letter from the police.|Tom was worried all week . Tom got a letter from the police.|Tom was worried all week because he got a letter from the police.|Tom was worried all week because he got a letter from the police. ",
+              "The policeman told <T> to go to the police station. Tom feels happy now. |The policeman told <T> to go to the police station. Tom went to the police station yesterday. Tom feels happy now. |They told him to go to the police station as soon as he received the letter. Tom went to the police station yesterday, and now he is happy. |They told him to go to the police station. Then he went there yesterday. He feels happy now because the police found his lost bike. |Now he is| he's happy. |The policeman told <T> to go to the police station. Tom went to the police station yesterday. Tom feels happy now. |Tom went to the police station yesterday. Tom feels happy now. ",
+              "At the police station, a smiling policeman told him that they had found his lost bike.Now they were sending it to his home by train. Tom was very surprised when he heard the news. He never expected he should find the lost bike. He lost it twenty years ago when he was a boy of fifteen. |They were sending <L> lost bike by train. <M> was surprised because he lost his bike twenty years ago.|The policemen were sending <L> lost bike by train. <M> lost his bike twenty years ago.|The policemen found his lost bike. They were sending <L> lost bike by train. <M> was surprised because he lost his bike twenty years ago.|The police had found his lost bike. They were sending it to his home by train. He lost it twenty years ago.|The policemen found his lost bike. <M> was surprised because he lost his bike twenty years ago.|Tom went to the police station yesterday. Tom feels happy now. The policemen found his lost bike. <M> lost his bike twenty years ago."
+            ],
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 120,
+            "listenFile": {
+              "fileId": "5a5ef374b1e48a6bd794935e",
+              "url": "http://cdn.17zuoye.com/fs-resource/5a5ef374b1e48a6bd794935e.sy3",
+              "filename": "9127.mp3",
+              "seconds": 38
+            },
+            "contentDesc": "<p>Tom was worried all week. He got a letter from the police. They told him to go to the police station as soon as he received the letter. Tom went to the police station yesterday, and now he is happy. At the police station, a smiling policeman told him that they had found his lost bike. Now they were sending it to his home by train. Tom was very surprised when he heard the news. He never expected he should find the lost bike. He lost it twenty years ago when he was a boy of fifteen.</p>",
+            "answers": [
+              {
+                "answer": "<p>1、Tom was worried all week. He got a letter from the police. They told him to go to the police station as soon as he received the letter. Tom went to the police station yesterday, and now he is | he's happy. At the police station, a smiling policeman told him that they had found his lost bike. Now they were sending it to his home by train. Tom was very surprised when he heard the news. He never expected he should find the lost bike. He lost it twenty years ago when he was a boy of fifteen.</p><p>2、Tom was worried all week because he got a letter from the police. They told him to go to the police station. Then he went there yesterday. He feels happy now because the police found his lost bike. They were sending Tom's| his lost bike by train. Tom| He was surprised because he lost his bike twenty years ago.</p><p>3、Tom was worried all week because he got a letter from the police. The policeman told Tom| him to go to the police station. Tom feels happy now. The policemen were sending Tom's| his lost bike by train. Tom| He lost his bike twenty years ago.</p><p>4、Tom was worried all week because he got a letter from the police. The policeman told Tom| him to go to the police station. Tom went to the police station yesterday. Tom feels happy now. The policemen found his lost bike. They were sending Tom's| his lost bike by train. Tom| He was surprised because he lost his bike twenty years ago.</p><p>5、Tom was worried all week . Tom got a letter from the police. Now he is| he's happy. The police had found his lost bike. They were sending it to his home by train. He lost it twenty years ago.</p><p>6、Tom was worried all week because he got a letter from the police. The policeman told Tom| him to go to the police station. Tom went to the police station yesterday. Tom feels happy now. The policemen found his lost bike. Tom| He was surprised because he lost his bike twenty years ago.</p><p>7. Tom was worried all week because he got a letter from the police. Tom went to the police station yesterday. Tom feels happy now. The policemen found his lost bike. Tom| He lost his bike twenty years ago.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "url": "",
+                  "filename": "",
+                  "seconds": null
+                }
+              }
+            ],
+            "voiceTextsNew": null,
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"((Tom was worried all week He got a letter from the police |Tom was worried all week because he got a letter from the police |Tom was worried all week because he got a letter from the police |Tom was worried all week because he got a letter from the police |Tom was worried all week Tom got a letter from the police |Tom was worried all week because he got a letter from the police |Tom was worried all week because he got a letter from the police) (The policeman told <T> to go to the police station Tom feels happy now |The policeman told <T> to go to the police station Tom went to the police station yesterday Tom feels happy now |They told him to go to the police station as soon as he received the letter Tom went to the police station yesterday and now he is happy |They told him to go to the police station Then he went there yesterday He feels happy now because the police found his lost bike |Now he is| he's happy |The policeman told <T> to go to the police station Tom went to the police station yesterday Tom feels happy now |Tom went to the police station yesterday Tom feels happy now) (At the police station a smiling policeman told him that they had found his lost bike Now they were sending it to his home by train Tom was very surprised when he heard the news He never expected he should find the lost bike He lost it twenty years ago when he was a boy of fifteen |They were sending <L> lost bike by train <M> was surprised because he lost his bike twenty years ago |The policemen were sending <L> lost bike by train <M> lost his bike twenty years ago |The policemen found his lost bike They were sending <L> lost bike by train <M> was surprised because he lost his bike twenty years ago |The police had found his lost bike They were sending it to his home by train He lost it twenty years ago |The policemen found his lost bike <M> was surprised because he lost his bike twenty years ago |Tom went to the police station yesterday Tom feels happy now The policemen found his lost bike <M> lost his bike twenty years ago))\\\"</s>\\\";\\n<L>=(Tom's| his);\\n<M>=(Tom| He);\\n<T>=(Tom| him);\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312076763547",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303240,
+    "tagCode": "LkClLArPaAr",
+    "createdAt": "2018-01-17T15:12:16.425+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-01-17T17:32:04.168+08:00",
+    "olUpdatedAt": "2018-04-21T15:30:20.884+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5a52f9ecb1e48a29ae9810f7",
+      "url": "http://cdn.17zuoye.com/fs-resource/5a52f9ecb1e48a29ae9810f7.sy3",
+      "filename": "33.mp3",
+      "seconds": 14
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031021,
+      "name": "口语题"
+    },
+    "contentType": {
+      "nid": 2030060,
+      "name": "口语主观题"
+    },
+    "isUsed": 2
+  },
+  {
+    "id": "Q_20312053913873-1",
+    "subjectId": 203,
+    "knowledgePoints": null,
+    "knowledgePointsNew": [
+      {
+        "id": "KP_20300068597717",
+        "tagId": 0,
+        "main": 1,
+        "featureIds": []
+      }
+    ],
+    "testMethods": [],
+    "solutionMethods": [],
+    "resourceIds": null,
+    "resourceIndex": 0,
+    "listenUrl": null,
+    "listenName": null,
+    "listenSeconds": 0,
+    "exploreSeconds": 0,
+    "answersSeconds": 0,
+    "paperIds": [
+      "P_20300159653282-1"
+    ],
+    "books": null,
+    "booksNew": null,
+    "contentTypeId": 2031021,
+    "contentType2Id": 2030062,
+    "difficultyInt": 3,
+    "description": "短文朗读，你有1分钟时间浏览短文并做录音准备。朗读时间为2分钟。",
+    "notFitMobile": 0,
+    "seconds": 190,
+    "complex": 0,
+    "singleBook": null,
+    "nid": null,
+    "lastEditorId": null,
+    "finalAuditorId": "5a4db177b1e48a7c5ce8c040",
+    "roughAuditorIds": null,
+    "content": {
+      "content": "",
+      "contentDesc": "",
+      "analysis": "",
+      "subContents": [
+        {
+          "content": "<p>Movie is my favorite. Watching movies makes me happy. I always watch movies when I am free. Since I like English very much, so the English movie is my favorite, too. Among so many films I have watched, the one I like best is High School Musical. This film tells the stories about two high school juniors. They try out for the lead parts in their high school musical. In this process, a series of stories happen, but in the end, the musical achieves great success and Troy and Gab fall in love with each other. It's totally a happy ending. I like this movie because the high school life in that is so colorful and amazing, which I admire so much. Besides, everyone loves happy ending.</p>",
+          "answers": [],
+          "subContentTypeId": 19,
+          "analysis": "",
+          "optionType": "word",
+          "options": [],
+          "hideOptionNumber": 0,
+          "listenUrl": "",
+          "listenName": "",
+          "listenSeconds": 0,
+          "exploreSeconds": 0,
+          "answersSeconds": 0,
+          "oralDict": {
+            "seconds": 120,
+            "variables": null,
+            "keywords": null,
+            "options": null,
+            "voiceText": null,
+            "sentencePatterns": null,
+            "picUrl": null,
+            "picName": null,
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "endListenUrl": "",
+            "scorePercentage": 1,
+            "readySeconds": 60,
+            "listenFile": {
+              "fileId": "",
+              "url": "",
+              "filename": "",
+              "seconds": null
+            },
+            "contentDesc": "",
+            "answers": null,
+            "voiceTextsNew": [
+              [
+                "Movie is my favorite. Watching movies makes me happy. I always watch movies when I am free. Since I like English very much, so the English movie is my favorite, too. Among so many films I have watched, the one I like best is High School Musical. This film tells the stories about two high school juniors. They try out for the lead parts in their high school musical. In this process, a series of stories happen, but in the end, the musical achieves great success and Troy and Gab fall in love with each other. It's totally a happy ending. I like this movie because the high school life in that is so colorful and amazing, which I admire so much. Besides, everyone loves happy ending."
+              ]
+            ],
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(Movie is my favorite Watching movies makes me happy I always watch movies when I am free Since I like English very much so the English movie is my favorite too Among so many films I have watched the one I like best is High School Musical This film tells the stories about two high school juniors They try out for the lead parts in their high school musical In this process a series of stories happen but in the end the musical achieves great success and Troy and Gab fall in love with each other It's totally a happy ending I like this movie because the high school life in that is so colorful and amazing which I admire so much Besides everyone loves happy ending)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "videoUrl": null,
+            "videoCoverUrl": null,
+            "highlightPos": null,
+            "sceneDescription": null,
+            "sceneName": null
+          },
+          "submitWays": [
+            3
+          ],
+          "tags": null,
+          "analysisList": [
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000029772",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000030691",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000031387",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000032025",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000033573",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000034806",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000035129",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000036762",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000045893",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000046042",
+              "text": ""
+            },
+            {
+              "choiceIds": [],
+              "analysisTypeId": "AT_20300000047944",
+              "text": ""
+            }
+          ],
+          "pictureUrl": "",
+          "extras": [],
+          "knowledgePointsList": [],
+          "answerList": [],
+          "tagsDesc": []
+        }
+      ]
+    },
+    "docId": "Q_20312053913873",
+    "version": 1,
+    "wordId": null,
+    "pictureUrl": null,
+    "tagId": 20303224,
+    "tagCode": "LkArRAr",
+    "createdAt": "2018-01-16T10:19:37.875+08:00",
+    "deletedAt": null,
+    "olCreatedAt": "2018-01-17T15:10:42.416+08:00",
+    "olUpdatedAt": "2018-04-21T15:59:19.360+08:00",
+    "sentenceIds": null,
+    "sentenceContents": null,
+    "broken": false,
+    "practiceTypeIds": null,
+    "categoryId": 0,
+    "fromId": 8,
+    "paragraph": null,
+    "articleName": null,
+    "descriptionFile": {
+      "fileId": "5a52fb44b1e48a29af7c75e8",
+      "url": "http://cdn.17zuoye.com/fs-resource/5a52fb44b1e48a29af7c75e8.sy3",
+      "filename": "44.mp3",
+      "seconds": 10
+    },
+    "analysisSeconds": 0,
+    "readySeconds": 0,
+    "wikiType": null,
+    "others": null,
+    "skillIds": null,
+    "abilities": null,
+    "weighted": null,
+    "additions": null,
+    "questionId": null,
+    "bookCatalogIds": null,
+    "previousId": null,
+    "variantIds": null,
+    "errorFactorIds": null,
+    "tags": [],
+    "deletedTrue": false,
+    "knowledgePointsB": [],
+    "submitWays": [
+      [
+        3
+      ]
+    ],
+    "subjective": true,
+    "answers": [
+      []
+    ],
+    "majorContentType": {
+      "nid": 2031021,
+      "name": "口语题"
+    },
+    "contentType": {
+      "nid": 2030062,
+      "name": "短文朗读"
+    },
+    "isUsed": 2
+  }
+]

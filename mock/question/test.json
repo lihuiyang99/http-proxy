@@ -1,0 +1,612 @@
+[
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [
+      {
+        "bookId": "BK_20300001487561",
+        "classLevel": 7,
+        "lessonId": "BKC_20300076811682",
+        "seriesId": "BKC_20300057609071",
+        "termType": 2,
+        "unitId": "BKC_20300076810570"
+      }
+    ],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 43653
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "n.接待员"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "11",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "3",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "1",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "3",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "0",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "6",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "10",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "7",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "6",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "2",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            },
+            {
+              "answer": "5",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p><img src=\"http://cdn.17zuoye.com/fs-image/572b320d2ed9b60e7cf6156e\"></p><p>__$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__ __$$__</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 1,
+          "listenUrl": "http://cdn.17zuoye.com/fs-tts/56dd2a3f8f221cab4cede381",
+          "optionType": "other",
+          "options": [
+            {
+              "option": "p"
+            },
+            {
+              "option": "c"
+            },
+            {
+              "option": "s"
+            },
+            {
+              "option": "e"
+            },
+            {
+              "option": "e"
+            },
+            {
+              "option": "t"
+            },
+            {
+              "option": "i"
+            },
+            {
+              "option": "n"
+            },
+            {
+              "option": "i"
+            },
+            {
+              "option": "t"
+            },
+            {
+              "option": "o"
+            },
+            {
+              "option": "r"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 10,
+          "submitWays": [
+            0
+          ]
+        }
+      ]
+    },
+    "contentType2Id": 2031023,
+    "contentTypeId": 2031005,
+    "createdAt": 1520340444700,
+    "creatorId": "532c2e26a68eb117c465d823",
+    "description": "",
+    "difficultyInt": 1,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "draftMd5": "267376214e51c8e0dc2d0ed63ce6dd47",
+      "onlineCreatedAt": 1520343594129,
+      "onlineMd5": "267376214e51c8e0dc2d0ed63ce6dd47",
+      "onlineVersion": 1
+    },
+    "fromId": 2,
+    "id": "Q_20312545121540",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 60,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1520340444704,
+    "wordId": "56dcf23c2ed9b6713226c094"
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 52688
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>get a surprise 吃惊,通过后面的saw可以判断，此处应该用过去时。</p>\n"
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "got",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [
+                "got"
+              ],
+              "testMethods": []
+            },
+            {
+              "answer": "a",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [
+                "a"
+              ],
+              "testMethods": []
+            },
+            {
+              "answer": "surprise",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [
+                "surprise"
+              ],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>看到这个礼物时,我吃了一惊.<br/>\nI __$$__ __$$__ __$$__ when I saw the gift. </p>\n",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 4,
+          "submitWays": [
+            0
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030015,
+    "contentTypeId": 2031004,
+    "createdAt": 1440612592926,
+    "creatorId": "532c2e26a68eb117c465d823",
+    "description": "完成句子",
+    "difficultyInt": 2,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1528351816499,
+      "onlineMd5": "ce998d49b38ca104a39c8e80aaf73927",
+      "onlineVersion": 5,
+      "qid": "5570150d2ed9b62150b7f780"
+    },
+    "fromId": 2,
+    "id": "Q_20300584672251",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 203017001,
+    "newContentTypeId": 203017,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 0,
+    "others": {},
+    "paperIds": [
+      "P_20300024753359",
+      "P_20300024802656"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 10,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1528294026258
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 0,
+      "processId": 0
+    },
+    "complex": 0,
+    "content": {
+      "analysis": "",
+      "content": "",
+      "contentDesc": "",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000030691",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000033573",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000034806",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000035129",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000036762",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000047944",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "What did they hear?",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {
+            "answers": [
+              {
+                "answer": "<p>The news.</p><p>They heard the news.</p>",
+                "listenFile": {
+                  "fileId": "",
+                  "filename": "",
+                  "url": ""
+                }
+              }
+            ],
+            "beginListenUrl": "http://cdn.17zuoye.com/fs-resource/57903aac2ed9b66f483fbb23",
+            "contentDesc": "<p>M: All the boys screamed with joy when they heard the news.</p><p>W: Me too.</p>",
+            "endListenUrl": "",
+            "jsgf": "{\"DisplayText\":\"Jsgf Grammar Template\", \"Grammar\":\"#JSGF V1.0 utf-8 cn;\\ngrammar main;\\npublic <sample>=\\\"<s>\\\"(The news |They heard the news)\\\"</s>\\\";\", \"GrammarWeight\":\"\", \"Version\":1}",
+            "keywords": [],
+            "listenFile": {
+              "fileId": "5a5d5973b1e48a03340b8817",
+              "filename": "9121.mp3",
+              "seconds": 15,
+              "url": "http://cdn.17zuoye.com/fs-resource/5a5d5973b1e48a03340b8817.sy3"
+            },
+            "readySeconds": 5,
+            "scorePercentage": 1,
+            "seconds": 15,
+            "sentencePatterns": [
+              "The news.|They heard the news. "
+            ],
+            "variables": []
+          },
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 18,
+          "submitWays": [
+            3
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030060,
+    "contentTypeId": 2031021,
+    "createdAt": 1516067259594,
+    "creatorId": "5a4db177b1e48a7c5ce8c040",
+    "description": "根据所听对话口头回答问题。听对话前，你有5秒钟时间阅读问题。听到录音提示音后，15秒钟内口头回答问题并完成录音。每段对话你将听两遍。",
+    "descriptionFile": {
+      "fileId": "5a53214ab1e48a314f10cc6b",
+      "filename": "11.mp3",
+      "seconds": 18,
+      "url": "http://cdn.17zuoye.com/fs-resource/5a53214ab1e48a314f10cc6b.sy3"
+    },
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "draftMd5": "8c5c5eddf14af37e5b0185a779c1b95c",
+      "onlineCreatedAt": 1516124032571,
+      "onlineMd5": "8c5c5eddf14af37e5b0185a779c1b95c",
+      "onlineVersion": 1
+    },
+    "finalAuditorId": "5a4db177b1e48a7c5ce8c040",
+    "fromId": 8,
+    "id": "Q_20312053761471",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300068597717",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "localType": [],
+    "newContentSubtypeId": 0,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {},
+    "paperIds": [
+      "P_20300159653282"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 53,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagCode": "LkQLDAQ",
+    "tagId": 20303236,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1530533431202
+  }
+]

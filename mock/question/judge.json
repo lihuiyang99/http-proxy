@@ -1,0 +1,486 @@
+[
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 29081
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Mr Black looks young, but he is 40. He has three children. One of his two sons is a doctor. The other one is studying in England. His daughter is working with him in China now.</span></p><p style=\"text-align: justify;\">Mr Black teaches English in a middle school near here. He likes working in China. He says Chinese people are very friendly and Chinese food is very good, too. He can speak a little Chinese. So he goes to Chinese classes on Thursday evenings. He doesn't think Chinese is easy. He says he must study very hard.</p>",
+      "contentDesc": "本文介绍了Black先生的工作生活和他对中国的喜爱。",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题是细节理解题。答案出处：Mr Black looks young, but he is 40. Black先生看起来年轻，但是他40岁了。</p><p>因此，正确答案是×。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p style=\"white-space: normal;\">Mr Black is a young man.</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e902ed9b6276116bc6d\" width=\"32\" height=\"32\" alt=\"\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e942ed9b62763dddc64\" width=\"32\" height=\"32\" alt=\"\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 5,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题是细节理解题。答案出处：His daughter is working with him in China now. 现在他的女儿和他一起在中国工作。可知是工作不是学习。</p><p>因此，正确答案是×。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "1",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p style=\"white-space: normal;\">One of his sons is studying in China now.</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e902ed9b6276116bc6d\" width=\"32\" height=\"32\" alt=\"\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e942ed9b62763dddc64\" width=\"32\" height=\"32\" alt=\"\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 5,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题是推理判断题。答案出处：Mr Black teaches English in a middle school near here. Black先生在这附近的一所中学教英语。可知Black先生的英语好。</p><p>因此，正确答案是√。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p style=\"white-space: normal;\">Mr. Black speaks English very well.</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e902ed9b6276116bc6d\" width=\"32\" height=\"32\" alt=\"\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e942ed9b62763dddc64\" width=\"32\" height=\"32\" alt=\"\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 5,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题是细节理解题。答案出处：So he goes to Chinese classes on Thursday evenings. 所以他每周四晚上去上中文课。</p><p>因此，正确答案是√。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p style=\"white-space: normal;\">He learns Chinese every Thursday evening.</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e902ed9b6276116bc6d\" width=\"32\" height=\"32\" alt=\"\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e942ed9b62763dddc64\" width=\"32\" height=\"32\" alt=\"\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 5,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题是细节理解题。答案出处：He says Chinese people are very friendly and Chinese food is very good, too. 他说中国人很友好，并且中国的食物也很好。</p><p>因此，正确答案是√。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "0",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "He likes working in China because he likes Chinese people and food.",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "img",
+          "options": [
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e902ed9b6276116bc6d\" width=\"32\" height=\"32\" alt=\"\">"
+            },
+            {
+              "file": {
+                "fileId": "",
+                "filename": "",
+                "seconds": 0,
+                "url": ""
+              },
+              "option": "<img src=\"http://cdn.17zuoye.com/fs-resource/55965e942ed9b62763dddc64\" width=\"32\" height=\"32\" alt=\"\">"
+            }
+          ],
+          "oralDict": {},
+          "pictureUrl": "",
+          "solutionMethods": [],
+          "subContentTypeId": 5,
+          "submitWays": [
+            0
+          ],
+          "testMethods": []
+        }
+      ]
+    },
+    "contentType2Id": 2030026,
+    "contentTypeId": 2031007,
+    "createdAt": 1455864483892,
+    "creatorId": "57b2a1dd2ed9b64ed577b99f",
+    "description": "根据短文内容，判断正误",
+    "descriptionFile": {
+      "fileId": "",
+      "filename": "",
+      "seconds": 0,
+      "url": ""
+    },
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1528881105203,
+      "onlineMd5": "b778589afd4cafcb458496502fc73132",
+      "onlineVersion": 5
+    },
+    "finalAuditorId": "55bb19882ed9b64a96cdec38",
+    "fromId": 0,
+    "id": "Q_20300853478473",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "featureIds": [],
+        "id": "KP_20300014770436",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203013000,
+    "newContentTypeId": 203013,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 0,
+    "others": {
+      "writingStyle": "AC_20300000281541"
+    },
+    "paperIds": [
+      "P_20300029777456"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "BASIC",
+    "readySeconds": 0,
+    "seconds": 450,
+    "sentenceIds": [],
+    "skillIds": [],
+    "solutionMethods": [],
+    "status": 20,
+    "subjectId": 203,
+    "tagId": 0,
+    "testMethods": [],
+    "times": 0,
+    "updatedAt": 1528730121291
+  }
+]

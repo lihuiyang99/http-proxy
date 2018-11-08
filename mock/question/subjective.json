@@ -1,0 +1,758 @@
+[
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 138077
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "<img src=\"http://cdn.17zuoye.com/fs-resource/569a31e72ed9b662191525b8\" title=\"14.png\" _src=\"http://cdn.17zuoye.com/fs-resource/569a31e72ed9b662191525b8\" alt=\"14.png\" width=\"135\" height=\"91\"><p>  Mr. Miller comes from America. He has two children, Dave and Anna. They live in Hangzhou now. Mr. Miller can speak Chinese. (1) <span style=\"text-decoration: underline;\">He can do kong fu.</span> Mr. Miller likes swimming and reading. But Mrs. Miller likes painting and playing chess. They often go swimming and play chess. On Sunday morning Mr. Miller does Chinese kung fu. Dave and Anna like playing the drums. (2) <span style=\"text-decoration: underline;\">They often play the drums with their friends.</span></p><p>  Dave's uncle works on a farm in America. He likes swimming, too. He wants to work in Hangzhou. (3) <span style=\"text-decoration: underline;\">但是他不会说汉语。</span> </p>",
+      "contentDesc": "语篇介绍Miller一家的兴趣爱好。",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "此题是细节理解题。答案出处：第一段第一句话Mr. Miller comes from America. He has two children, Dave and Anna.Miller先生来自美国，他有两个孩子Dave和Anna。<p>因此，正确答案是They are from America。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [
+                "AC_20300000273782"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "They are from America.",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "Where are Dave and Anna from?",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "此题为细节理解题。答案出处：第一段第六句话But Mrs. Miller likes painting and playing chess.。Miller太太喜欢画画和下棋。<p>因此，正确答案是She likes painting and playing chess。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [
+                "AC_20300000273782"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "She likes painting and playing chess.",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "What does Mrs. Miller like?",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "此题为句式转换题。考察情态助词can引导的疑问句。<p>因此，正确答案是Can he do kung fu?</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [
+                "AC_20300000284808"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "Can he do kung fu?",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "将（1）处画线句子改为一般疑问句。",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题为英译汉。考察固定短语play the drums，打鼓。</p><p>因此，正确答案是他们经常和朋友们一起打鼓。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [
+                "AC_20300000284808"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "他们经常和朋友们一起打鼓。",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "将（2）处画线句子翻译成汉语。",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题为汉译英。考察情态动词否定形式can't的用法。</p><p>因此，正确答案是But he can't speak Chinese。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000046042",
+              "choiceIds": [
+                "AC_20300000284808"
+              ],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "But he can't speak Chinese.",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p style=\"\"><span style=\";color:#333333\">将（</span><span style=\";color:#333333\">3</span><span style=\";color:#333333\">）处画线句子翻译成英语。</span></p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030027,
+    "contentTypeId": 2031007,
+    "createdAt": 1452947711206,
+    "creatorId": "566e9e822ed9b67453432042",
+    "description": "任务型阅读",
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1529549196139,
+      "onlineMd5": "67394334a1b075f2da06f403e68d0be7",
+      "onlineVersion": 2
+    },
+    "finalAuditorId": "5695b6d42ed9b63e8c782237",
+    "fromId": 0,
+    "id": "Q_20300793924524",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014782397",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203010005,
+    "newContentTypeId": 203010,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 0,
+    "others": {
+      "writingStyle": "AC_20300000281541"
+    },
+    "paperIds": [],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 450,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1529497731085
+  },
+  {
+    "abilities": [],
+    "analysisAudioName": "",
+    "analysisAudioUrl": "",
+    "analysisSeconds": 0,
+    "anaylysisAudioSeconds": 0,
+    "answersSeconds": 0,
+    "booksNew": [],
+    "categoryId": 0,
+    "checkInfo": {
+      "checkStatus": 2,
+      "processId": 17637
+    },
+    "complex": 1,
+    "content": {
+      "analysis": "",
+      "content": "<p>Hello! <span style=\"text-decoration: underline;\">I am from America</span>. I am in China now. My name is Tom. I have a good pencil-box.<mark type=\"blank\"></mark>_____ (它是什么颜色？) It’s orange. <span style=\"text-decoration: underline;\">I love it very much.</span> But <mark type=\"blank\"></mark>_____ (我弄丢了它). If you see it, please <span style=\"text-decoration: underline;\">E-mail me at Tom @gfimail.com.</span> </p><br>",
+      "contentDesc": "<p>本题是一篇日常生活中的寻物启事。</p><br>",
+      "subContents": [
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是名词的用法。题目中的画线句子就是在介绍自己来自哪的。come from 来自；American (n.)美国。</p><p>因此，正确答案是“我来自美国”。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "我来自美国。<span id=\"_baidu_bookmark_start_9\" style=\"line-height: 0px; display: none;\">\u200d</span>",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>_____</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是what引导的特殊疑问句。color (n.)颜色。</p><p>因此，正确答案是What color is it?</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "What color is it?",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>_____</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是副词和动词的用法。very much 非常；love (v.)喜欢；爱。</p><p>因此，正确答案是“我非常喜欢它”。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "我非常喜欢它。<span id=\"_baidu_bookmark_start_8\" style=\"line-height: 0px; display: none;\">\u200d</span>",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>_____</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是动词的用法。lose (v.)丢失；这儿应该是一般过去时，所以用lost。</p><p>因此，正确答案是I lost it.</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "I lost it.<p></p>                                        <span =\"text:=\"\" '（分值：'+score_percentage+'）'\"=\"\"></span>",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>_____</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        },
+        {
+          "analysis": "",
+          "analysisAudioName": "",
+          "analysisAudioUrl": "",
+          "analysisList": [
+            {
+              "analysisTypeId": "AT_20300000029772",
+              "choiceIds": [],
+              "text": "<p>此题考查的是名词的用法。Email (v.)发邮件。</p><p>因此，正确答案是“请给我发E-mail，地址是：Tom@gfimail.com”。</p>"
+            },
+            {
+              "analysisTypeId": "AT_20300000031387",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000032025",
+              "choiceIds": [],
+              "text": ""
+            },
+            {
+              "analysisTypeId": "AT_20300000045893",
+              "choiceIds": [],
+              "text": ""
+            }
+          ],
+          "anaylysisAudioSeconds": 0,
+          "answers": [
+            {
+              "answer": "请给我发E-mail，地址是：Tom@gfimail.com。<span id=\"_baidu_bookmark_start_8\" style=\"line-height: 0px; display: none;\">\u200d</span>",
+              "classification": "",
+              "knowledgePointsNew": [],
+              "richText": 0,
+              "scorePercentage": 1,
+              "solutionMethods": [],
+              "subAnswers": [],
+              "testMethods": []
+            }
+          ],
+          "answersSeconds": 0,
+          "attachments": [],
+          "content": "<p>_____</p>",
+          "exploreSeconds": 0,
+          "extras": {},
+          "handwritingRecognition": 0,
+          "hideOptionNumber": 0,
+          "listenName": "",
+          "listenSeconds": 0,
+          "listenUrl": "",
+          "optionType": "word",
+          "options": [],
+          "oralDict": {},
+          "pictureUrl": "",
+          "subContentTypeId": 6,
+          "submitWays": [
+            1
+          ],
+          "tags": []
+        }
+      ]
+    },
+    "contentType2Id": 2030029,
+    "contentTypeId": 2031008,
+    "createdAt": 1459356463916,
+    "creatorId": "532c2e26a68eb117c465d823",
+    "description": "翻译语篇",
+    "difficultyInt": 3,
+    "exploreSeconds": 0,
+    "extras": {
+      "checkMd5": true,
+      "onlineCreatedAt": 1529668669142,
+      "onlineMd5": "f7cf48c9fd619187af3737ff2f076e3c",
+      "onlineVersion": 3
+    },
+    "finalAuditorId": "532c2e26a68eb117c465d823",
+    "fromId": 0,
+    "id": "Q_20300951196833",
+    "keepVersion": 0,
+    "knowledgeMaterialIds": [],
+    "knowledgePointsNew": [
+      {
+        "capabilityIds": [],
+        "id": "KP_20300014767326",
+        "main": 1,
+        "skillIds": [],
+        "tagId": 0
+      }
+    ],
+    "listenName": "",
+    "listenSeconds": 0,
+    "listenUrl": "",
+    "newContentSubtypeId": 203010006,
+    "newContentTypeId": 203010,
+    "notFitMobile": 0,
+    "olStatus": 1,
+    "onlineOption": 1,
+    "others": {
+      "rid": "R_20300009413220"
+    },
+    "paperIds": [
+      "P_20300022440154"
+    ],
+    "picAttr": 0,
+    "pictureBookIds": [],
+    "pictureType": "GOOD",
+    "pictureUrls": [],
+    "practiceTypeIds": [],
+    "questionAttachment": "",
+    "questionType": 0,
+    "rating": "NORMAL",
+    "readySeconds": 0,
+    "seconds": 200,
+    "sentenceIds": [],
+    "skillIds": [],
+    "status": 20,
+    "subjectId": 203,
+    "times": 0,
+    "updatedAt": 1529653794880
+  }
+]

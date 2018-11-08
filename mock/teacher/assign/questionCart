@@ -1,0 +1,84 @@
+{
+    "success": true,
+    "data": {
+        "user_id": 126685,
+        "cart_type": "normal",
+        "version": 20170307,
+        "blocks": [
+            {
+                "category": {
+                    "group_type": 1,
+                    "teaching_objective_id": "TON_00196026112",
+                    "catalog_id": "BKC_20300103071147",
+                    "config_content_id": "OCN_02410654743-8-305835",
+                    "book_id": "BK_20300001763018",
+                    "objective_config_id": "OCN_02410654743",
+                    "type": "vocab",
+                    "name": "词汇",
+                    "content_type": 8,
+                    "category_id": "38189505e226a44bddf539219c35e465"
+                },
+                "rows": [
+                    {
+                        "id": "Q_20312534299211-3",
+                        "sec": 15,
+                        "q_cnt": 1,
+                        "created_at": 1529483347347,
+                        "updated_at": 1529483347347
+                    },
+                    {
+                        "id": "Q_20312534305765-3",
+                        "sec": 15,
+                        "q_cnt": 1,
+                        "created_at": 1529483347357,
+                        "updated_at": 1529483347357
+                    },
+                    {
+                        "id": "Q_20312534311259-3",
+                        "sec": 15,
+                        "q_cnt": 1,
+                        "created_at": 1529483347358,
+                        "updated_at": 1529483347358
+                    }
+                ],
+                "batch": 1
+            },
+            {
+                "category": {
+                    "book_id": "BK_20300001484631",
+                    "teaching_type": "ORAL_PRACTICE",
+                    "teaching_objective_id": "TON_01220494246",
+                    "objective_config_id": "OCN_02239563800",
+                    "type": "sync",
+                    "name": "中考听说模拟试卷话题13-16",
+                    "category_id": "c8996c2a557821bbb826bd121f4c3831"
+                },
+                "rows": [
+                    {
+                        "id": "Q_20310349204163-1",
+                        "sec": 42,
+                        "q_cnt": 2,
+                        "created_at": 1529550350601,
+                        "updated_at": 1529550350601
+                    }
+                ]
+            }
+        ],
+        "duration": 87,
+        "various_duration": [],
+        "subject_id": 3,
+        "clazz_ids": [
+            10949,
+            10951,
+            12941,
+            81203,
+            81528,
+            108207,
+            108208,
+            108223
+        ],
+        "assignable_clazz_cnt": 8
+    },
+    "message": "",
+    "error_code": 0
+}

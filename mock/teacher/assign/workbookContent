@@ -1,0 +1,1863 @@
+{
+    "success": true,
+    "data": {
+        "_id": "WC_20300032096990-265",
+        "parent_id": "WC_20300031986604-265",
+        "name": "A 教材要点回归",
+        "description": null,
+        "is_leaf": true,
+        "has_content": true,
+        "deleted_at": null,
+        "subject_id": 3,
+        "deleted_true": false,
+        "id": "WC_20300032096990-265",
+        "title": "A 教材要点回归",
+        "workbook_contents": [
+            {
+                "workbook_content_id": "WCO_20300011618800-265",
+                "workbook_content_name": "A 教材要点回归",
+                "question_boxes": [
+                    {
+                        "title": "英汉互译",
+                        "content_type_id": 0,
+                        "guide": "",
+                        "questions": [
+                            {
+                                "used": true,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774127942-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300012728659",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "chess"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 2,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "下国际象棋 _____",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            },
+                            {
+                                "used": true,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774131400-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300006456077",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "speak"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 2,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "讲英语 _____",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774135489-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300010532047",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "guitar"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 2,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "弹吉他 _____",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774137393-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300004328271",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "be good at"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 3,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "擅长 _____",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774142256-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300009747203",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "join (加入)"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 2,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "join the art club _____",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774145403-1",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300001358851",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "tell a story/stories"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031008,
+                                    "content_type_2_id": 2030029,
+                                    "difficulty_int": 2,
+                                    "description": "英汉互译",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "tell stories",
+                                                "sub_content_type_id": 6,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    1
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": null,
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": false
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": null,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031008,
+                                        "name": "翻译",
+                                        "deleted_true": false,
+                                        "id": 2031008,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030029,
+                                        "name": "英汉互译",
+                                        "deleted_true": false,
+                                        "id": 2030029,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": []
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "英汉互译",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "077f1e539276660dc286c5e764837192"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "title": "词汇",
+                        "content_type_id": 0,
+                        "guide": "",
+                        "questions": [
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774314160-2",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300012129431",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "dance"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030023,
+                                    "difficulty_int": 2,
+                                    "description": "根据句意及首字母提示补全单词",
+                                    "seconds": 25,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "The girl can't sing, but she can <span class=\"nowrapblock\" style=\"white-space: nowrap;\">d__$$__.</span>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030023,
+                                        "name": "根据首字母、中文提示填空",
+                                        "deleted_true": false,
+                                        "id": 2030023,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774321956-3",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300006048918",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "swim"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030023,
+                                    "difficulty_int": 2,
+                                    "description": "根据句意及首字母提示补全单词",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "In summer (夏天) we often <span class=\"nowrapblock\" style=\"white-space: nowrap;\">s__$$__</span>.",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030023,
+                                        "name": "根据首字母、中文提示填空",
+                                        "deleted_true": false,
+                                        "id": 2030023,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774330476-3",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300006456077",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "speak"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030023,
+                                    "difficulty_int": 2,
+                                    "description": "根据句意及首字母提示补全单词",
+                                    "seconds": 19,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "<p>He can <span class=\"nowrapblock\" style=\"white-space: nowrap;\">s__$$__ English very well.</span></p>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030023,
+                                        "name": "根据首字母、中文提示填空",
+                                        "deleted_true": false,
+                                        "id": 2030023,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774338621-2",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300006248645",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "story"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030023,
+                                    "difficulty_int": 3,
+                                    "description": "根据句意及首字母提示补全单词",
+                                    "seconds": 40,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "Our teacher often tells a <span class=\"nowrapblock\" style=\"white-space: nowrap;\">s__$$__ in class.</span>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030023,
+                                        "name": "根据首字母、中文提示填空",
+                                        "deleted_true": false,
+                                        "id": 2030023,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300774345734-3",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300012593405",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "club"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030023,
+                                    "difficulty_int": 2,
+                                    "description": "根据句意及首字母提示补全单词",
+                                    "seconds": 23,
+                                    "complex": 0,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": "55bc3cb32ed9b6689c45777f",
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "",
+                                        "sub_contents": [
+                                            {
+                                                "content": "You can join the football <span class=\"nowrapblock\" style=\"white-space: nowrap;\">c__$$__.</span>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": ""
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": null,
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030023,
+                                        "name": "根据首字母、中文提示填空",
+                                        "deleted_true": false,
+                                        "id": 2030023,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            },
+                            {
+                                "used": false,
+                                "assign_type": 3,
+                                "q": {
+                                    "_id": "Q_20300953480267-3",
+                                    "subject_id": 3,
+                                    "knowledge_points_new": [
+                                        {
+                                            "id": "KP_20300010678518",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "good"
+                                        },
+                                        {
+                                            "id": "KP_20300010360585",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "help"
+                                        },
+                                        {
+                                            "id": "KP_20300007981017",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "play-basketball"
+                                        },
+                                        {
+                                            "id": "KP_20300006405361",
+                                            "tag_id": 0,
+                                            "main": 1,
+                                            "feature_ids": null,
+                                            "name": "sport"
+                                        }
+                                    ],
+                                    "test_methods": null,
+                                    "solution_methods": null,
+                                    "resource_ids": null,
+                                    "listen_url": "",
+                                    "listen_name": null,
+                                    "listen_seconds": 0,
+                                    "explore_seconds": null,
+                                    "answers_seconds": null,
+                                    "books": null,
+                                    "content_type_id": 2031005,
+                                    "content_type_2_id": 2030016,
+                                    "difficulty_int": 4,
+                                    "description": "用方框中所给单词的适当形式填空",
+                                    "seconds": 140,
+                                    "complex": 1,
+                                    "single_book": null,
+                                    "nid": null,
+                                    "last_editor_id": null,
+                                    "final_auditor_id": null,
+                                    "rough_auditor_ids": null,
+                                    "content": {
+                                        "content": "<table align=\"center\"><tbody><tr class=\"firstRow\"><td valign=\"top\" style=\"border: 1px solid rgb(0, 0, 0); word-break: break-all;\">good, help, play, sport, be</td></tr></tbody></table><p style=\"text-align: center;\"><br></p>",
+                                        "sub_contents": [
+                                            {
+                                                "content": "<p>—Do you want __$$__ basketball with us?</p><p>—Yes, I do.</p>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            },
+                                            {
+                                                "content": "<p>Tom can __$$__ you.</p>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            },
+                                            {
+                                                "content": "Mike and I __$$__ in the same (相同的) class.",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            },
+                                            {
+                                                "content": "He can speak English __$$__.",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            },
+                                            {
+                                                "content": "<p>—I like playing basketball and soccer.</p><p>—You can join a __$$__ club.</p>",
+                                                "sub_content_type_id": 4,
+                                                "option_type": "word",
+                                                "options": [],
+                                                "hide_option_number": 0,
+                                                "listen_url": "",
+                                                "listen_name": "",
+                                                "listen_seconds": 0,
+                                                "explore_seconds": null,
+                                                "answers_seconds": null,
+                                                "oral_dict": {
+                                                    "seconds": null,
+                                                    "options": null,
+                                                    "voice_text": null,
+                                                    "pic_url": null,
+                                                    "pic_name": null,
+                                                    "begin_listen_url": null,
+                                                    "end_listen_url": null,
+                                                    "score_percentage": null,
+                                                    "listen_file": null,
+                                                    "content_desc": null,
+                                                    "voice_texts_new": null,
+                                                    "jsgf": null,
+                                                    "video_url": null,
+                                                    "video_cover_url": null,
+                                                    "highlight_pos": null,
+                                                    "scene_description": null,
+                                                    "scene_name": null
+                                                },
+                                                "submit_ways": [
+                                                    0
+                                                ],
+                                                "tags": [],
+                                                "picture_url": null,
+                                                "extras": [],
+                                                "knowledge_points_list": [
+                                                    []
+                                                ],
+                                                "tags_desc": [],
+                                                "can_answer": true
+                                            }
+                                        ],
+                                        "content_title": "<table align=\"center\"><tbody><tr class=\"firstRow\"><td valign=\"top\" style=\"border: 1px solid rgb(0, 0, 0); word-break: break-all;\">good, help, play, sport, be</td></tr></tbody></table><p style=\"text-align: center;\"><br></p>"
+                                    },
+                                    "word_id": null,
+                                    "picture_url": null,
+                                    "tag_id": null,
+                                    "tag_code": null,
+                                    "sentence_contents": null,
+                                    "practice_type_ids": null,
+                                    "category_id": 0,
+                                    "paragraph": null,
+                                    "article_name": null,
+                                    "description_file": null,
+                                    "wiki_type": null,
+                                    "others": {
+                                        "rid": "R_20300014562741"
+                                    },
+                                    "skill_ids": null,
+                                    "abilities": null,
+                                    "weighted": null,
+                                    "additions": null,
+                                    "question_id": null,
+                                    "book_catalog_ids": null,
+                                    "idd_id": null,
+                                    "previous_id": null,
+                                    "variant_ids": null,
+                                    "error_factor_ids": null,
+                                    "tags": [],
+                                    "knowledge_points_b": [],
+                                    "full_subject_id": 203,
+                                    "major_content_type": {
+                                        "nid": 2031005,
+                                        "name": "填空",
+                                        "deleted_true": false,
+                                        "id": 2031005,
+                                        "kp_type": 1
+                                    },
+                                    "content_type": {
+                                        "nid": 2030016,
+                                        "name": "用所给单词（正确形式）填空",
+                                        "deleted_true": false,
+                                        "id": 2030016,
+                                        "kp_type": 1
+                                    },
+                                    "assign_type": 3,
+                                    "oral_preview": "",
+                                    "books_new": null
+                                },
+                                "category": {
+                                    "workbook_id": "W_20300000446329-265",
+                                    "workbook_catalog_id": "WC_20300032096990-265",
+                                    "title": "全品推荐本 七年级英语下 RJ",
+                                    "qbox": "词汇",
+                                    "type": "workbook",
+                                    "name": "教辅习题",
+                                    "category_id": "158cdb528237439a78a9b576ebe7bd50"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "",
+    "error_code": 0
+}

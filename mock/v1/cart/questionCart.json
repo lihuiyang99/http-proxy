@@ -1,0 +1,28 @@
+{
+    "success":true,
+    "data":{
+        "cart_type":"normal",
+        "blocks":[
+            {
+                "category":{
+                    "type":"sync",
+                    "name":"语法",
+                    "book_id":"BK_20300001761501",
+                    "category_id":"a82446b8d412a3dda3c2c79b68bae37e",
+                    "clazz_id":1,
+                    "practice_type":"sync"
+                },
+                "items":[
+                    {
+                        "id":"Q_20306159121921-3",
+                        "duration":28,
+                        "type":"",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+    },
+    "message":"",
+    "error_code":0
+}

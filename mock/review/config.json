@@ -1,0 +1,76 @@
+{
+  "result": "success",
+  "message": "ok",
+  "data": {
+    "grades": [{
+        "grade_id": 6,
+        "name": "六年级"
+      },
+      {
+        "grade_id": 7,
+        "name": "七年级"
+      }
+    ],
+    "semesters": [{
+        "sem_id": 61,
+        "name": "六年级上",
+        "grade_id": 6
+      },
+      {
+        "sem_id": 62,
+        "name": "六年级下",
+        "grade_id": 6
+      },
+      {
+        "sem_id": 70,
+        "name": "七年级",
+        "grade_id": 7
+      }
+    ],
+    "types": [{
+        "type_id": 1,
+        "name": "真题"
+      },
+      {
+        "type_id": 2,
+        "name": "期末"
+      }
+    ],
+    "years": [{
+        "year_id": 2018,
+        "name": 2018
+      },
+      {
+        "year_id": 2017,
+        "name": 2017
+      }
+    ],
+    "knowledge_point_type": [{
+        "kp_type_id": 1,
+        "name": "词汇",
+        "is_words": true
+      },
+      {
+        "kp_type_id": 2,
+        "name": "语法",
+        "is_words": false
+      }
+    ],
+    "default_config": {
+      "region_pro_id": 110100,
+      "region_city_id": 110105,
+      "region": "北京",
+      "grade_id": 6,
+      "grade": "六年级",
+      "semester_id": 61,
+      "semester": "六年级上",
+      "type_id": 1,
+      "type": "真题",
+      "year_id": 2018,
+      "year": 2018,
+      "kp_type_id": 1,
+      "kp_type_name": "词汇"
+    },
+    "current_term": 0
+  }
+}
